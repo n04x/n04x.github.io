@@ -27,7 +27,7 @@ url: "https://n04x.github.io" # the base hostname & protocol for your site, e.g.
 github_username:  n04x
 
 # Build settings
-theme: documentation
+theme: minima
 plugins:
   - jekyll-feed
 
