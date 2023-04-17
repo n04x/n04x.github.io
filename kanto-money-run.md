@@ -17,15 +17,15 @@ permalink: /kanto-money-run/
 </ul>
 <h1>Gym Trainer</h1>
 <h2 id="brock">Brock</h2>
-![Brock]({{site.url}}/assets/trainers/brock.gif) <img src="{{site.url}}/assets/trainers/brock.gif">
+![Brock]({{site.url}}/assets/images/trainers/brock.gif) <img src="{{site.url}}/assets/images/trainers/brock.gif">
 <br />
 
 <p>This trainer is located in Pewter City in kanto. Below is the possible lineup the trainer might have:</p>
 <ol>
-    <li>![Aerodactyl]({{site.url}}\assets\images\pokemon\aerodactyl.gif) ![Slowbro]({{site.url}}\assets\images\pokemon\slowbro.gif)
-    <li><img src="https://i.imgur.com/MExBlWm.gif"> 
-    <img src="https://i.imgur.com/TXKtoDc.gif"> <img src="https://i.imgur.com/mH9Uy7x.gif"> <img src="https://i.imgur.com/lapAOMr.gif">  <img src="images/pokemon/heracross.gif" width="50"> <img src="images/pokemon/steelix.gif" width="50"> </li>
-    <li><img src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"> <img src="images/pokemon/toxicroak.gif" width="50"> <img src="images/pokemon/pinsir.gif" width="50"> <img src="images/pokemon/rampardos.gif" width="50"> <img src="images/pokemon/sudowoodo.gif" width="50"> <img src="images/pokemon/steelix.gif" width="50"></li>
+    <li>![Aerodactyl]({{site.url}}/assets/images/pokemon/aerodactyl.gif) ![Slowbro]({{site.url}}/assets/images/pokemon/slowbro.gif)
+    <li><img src="{{site.url}}/assets/"> 
+    <img src="{{site.url}}/assets/images/pokemon/aerodactyl.gif"> <img src="{{site.url}}/assets/images/pokemon/slowbro.gif"> <img src="{{site.url}}/assets/images/pokemon/ninetales.gif"> <img src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"> <img src="{{site.url}}/assets/images/pokemon/heracross.gif" width="50"> <img src="images/pokemon/steelix.gif" width="50"> </li>
+    <li><img src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"> <img src="{{site.url}}/assets/images/pokemon/toxicroak.gif" width="50"> <img src="{{site.url}}/assets/images/pokemon/pinsir.gif" width="50"> <img src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"> <img src="{{site.url}}/assets/images/pokemon/sudowoodo.gif" width="50"> <img src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50"></li>
     <li><img src="images/pokemon/tyranitar.gif" width="50"> <img src="images/pokemon/swampert.gif" width="50"> <img src="images/pokemon/crobat.gif" width="50"> <img src="images/pokemon/forretress.gif" width="50"> <img src="images/pokemon/rhyperior.gif" width="50"> <img src="images/pokemon/steelix.gif" width="50"></li>
     <li><img src="images/pokemon/aerodactyl.gif" width="50"> <img src="images/pokemon/ludicolo.gif" width="50"> <img src="images/pokemon/kabutops.gif" width="50"> <img src="images/pokemon/relicanth.gif" width="50"> <img src="images/pokemon/omastar.gif" width="50"> <img src="images/pokemon/steelix.gif" width="50"></li>
     <li><img src="images/pokemon/golem.gif" width="50"> <img src="images/pokemon/tyranitar.gif" width="50"> <img src="images/pokemon/sandslash.gif" width="50"> <img src="images/pokemon/shuckle.gif" width="50"> <img src="images/pokemon/chansey.gif" width="50"> <img src="images/pokemon/steelix.gif" width="50"></li>
