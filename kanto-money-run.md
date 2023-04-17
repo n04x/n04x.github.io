@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Money Guide Kanto"
+title: "money-guide"
 permalink: /kanto-money-run/
 ---
 <h1>Introduction</h1>
