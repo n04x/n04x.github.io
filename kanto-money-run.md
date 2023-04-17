@@ -20,7 +20,9 @@ permalink: /kanto-money-run/
 <h2 id="brock">Brock</h2>
 <img src="https://i.imgur.com/UHY9Jpr.gif" alt='brock-gif'>
 
-![Golem gif](/n04x.github.io/assets/beartic.png)
+![Gyarados Motherfucker]({{site.url}}/assets/images/pokemon/gyarados.gif)
+![Test](https://n04x.github.io/assets/images/pokemon/floatzel.png)
+![Test 2]({{site.url}}/assets/images/pokemon/floatzel.png)
 
 <br />
 
