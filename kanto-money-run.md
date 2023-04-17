@@ -19,7 +19,7 @@ permalink: /kanto-money-run/
 
 <h2 id="brock">Brock</h2>
 <img src="https://i.imgur.com/UHY9Jpr.gif" alt='brock-gif'>
-
+![Golem gif](/n04x.github.io/assets/img/pokemon/golem.gif)
 <br />
 <p>This trainer is located in Pewter City in kanto. Below is the possible lineup the trainer might have:</p>
 <ol>
