@@ -18,7 +18,8 @@ permalink: /kanto-money-run/
 <h1>Gym Trainer</h1>
 
 <h2 id="brock">Brock</h2>
-<img src="images/trainers/brock.gif" alt="Brock-gif">
+![brock-gif](/images/trainers/brock.gif)
+
 <br />
 <p>This trainer is located in Pewter City in kanto. Below is the possible lineup the trainer might have:</p>
 <ol>
