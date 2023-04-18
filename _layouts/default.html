@@ -10,7 +10,18 @@
         <nav>
             <ul>
                 {% for item in site.data.navigation %}
+                    {% assign sublinks = item.sublinks %}
+                    {% if sublinks %}
+                    <li><a class="{% if page.url == item.link %} active {% endif %}" href="{{item.link}}">{{item.title}}</a>
+                        <ul class="dropdownlst">
+                            {% for sublink in sublinks %}
+                            <li><a href="{{ sublink.link }}">{{ sublink.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% else %}
                     <li><a class="{% if page.url == item.link %} active {% endif %}" href="{{item.link}}">{{item.title}}</a></li>
+                    {% endif %}
                 {% endfor %}
             </ul> 
         </nav>
@@ -42,6 +53,18 @@
                 text-decoration: underline;
                 background-color: #04AA6D;
                 color: white;
+            }
+            .dropdownlst {
+                visibility: hidden;
+                opacity: 0;
+                position: absolute;
+                margin-top: 1rem;
+                display: none;
+            }
+            ul li ul:hover {
+                visibility: visible;
+                opacity: 1;
+                display: block;
             }
         </style>
     </body>

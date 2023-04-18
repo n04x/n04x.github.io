@@ -1,8 +1,11 @@
 - title: Home
   link: /
 
-- title: Kanto Gym $$
-- link: /kanto-gym/
+- title: PokeMMO Money Guide
+  link: /money-guide/
+  sublinks:
+    - title: Kanto
+    - link: /kanto-money/
 
-- title: Hoenn Gym $$
+- title: Hoenn
   link: /hoenn/

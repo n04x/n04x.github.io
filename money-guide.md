@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Money making guide"
-permalink: /money-making/
+title: "PokeMMO money making guide"
+permalink: /money-guide/
 ---
 
 <h1>Introduction</h1>
