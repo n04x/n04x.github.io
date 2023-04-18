@@ -7,8 +7,3 @@ layout: home
 {% include navigation.html %}
 
 <h1>This is Home</h1>
-<div id="header">
-    <header>
-        <a href="https://n04x.github.io/kanto-money-run">Kanto Money Run</a>
-    </header>
-</div>
