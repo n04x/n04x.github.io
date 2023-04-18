@@ -295,11 +295,11 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
         <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
     </li>
     <li>
-        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
-        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
-        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
-        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
-        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
-        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
+        <img title='nidoking' src="{{site.url}}/assets/images/pokemon/nidoking.gif" width="50">
+        <img title='beedrill' src="{{site.url}}/assets/images/pokemon/beedrill.gif" width="50">
+        <img title='ditto' src="{{site.url}}/assets/images/pokemon/ditto.gif" width="50">
+        <img title='hypno' src="{{site.url}}/assets/images/pokemon/hypno.gif" width="50">
+        <img title='swalot' src="{{site.url}}/assets/images/pokemon/swalot.gif" width="50">
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
     </li>
 </ol>
