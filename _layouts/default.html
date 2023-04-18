@@ -5,29 +5,6 @@
     <head>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <title>n04x Personal Webpage</title>
-        
-    </head>
-    <body>
-        <div class="navbar">
-            {% for item in site.data.navigation %}
-                {% assign sublinks = item.sublinks %}
-                {% if sublinks %}
-                    <div class="dropdownlst">
-                        <button class="dropbtn">{{item.title}}<i class="fa fa-caret-down"></i></button>
-                        <div class="dropdownlst-content">
-                            {% for sublink in sublinks %}
-                            <a href="{{ sublink.link }}">{{ sublink.title }}</a>
-                            {% endfor %}
-                        </div>
-                    </div>
-                {% else %}
-                    <a href="{{item.link}}">{{item.title}}</a>
-                {% endif %}                 
-            {% endfor %}
-        </div>
-
-        {{ content }}
-
         <style>
             body {
                 font-family: Arial, Helvetica, sans-serif;
@@ -93,5 +70,28 @@
                 display: block;
             }
         </style>
+    </head>
+    <body>
+        <div class="navbar">
+            {% for item in site.data.navigation %}
+                {% assign sublinks = item.sublinks %}
+                {% if sublinks %}
+                    <div class="dropdown">
+                        <button class="dropbtn">{{item.title}}<i class="fa fa-caret-down"></i></button>
+                        <div class="dropdown-content">
+                            {% for sublink in sublinks %}
+                            <a href="{{ sublink.link }}">{{ sublink.title }}</a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% else %}
+                    <a href="{{item.link}}">{{item.title}}</a>
+                {% endif %}                 
+            {% endfor %}
+        </div>
+
+        {{ content }}
+
+        
     </body>
 </html>
