@@ -9,31 +9,39 @@
     <body>
         <nav>
             <ul>
-                {% for entry in site.data.navigation %}
-                    {% if entry.url == current_page %}
-                        {% assign current = ' style="background-color: #FFFFFF"' %}
-                    {% else %}
-                        <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
-                        {% assign current = null %}
-                    {% endif %}
-                    {% assign sublinks = entry.sublinks %}
-                    {% if sublinks %}
-                    <li {{ current }}>
-                        <a href="{{ entry.url }}">{{ entry.title }}</a>
-                        <ul>
-                            {% for sublink in sublinks %}
-                            <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </li>
-                    {% else %}
-                    <li {{ current }}><a href="{{ entry.url }}">{{ entry.title }}</a></li>
-                    {% endif %}
+                {% for item in site.data.navigation %}
+                    <li><a href="{{item.link}}">{{item.title}}</a></li>
                 {% endfor %}
             </ul> 
         </nav>
 
         {{ content }}
 
+        <style>
+            nav {
+                background-color: #333;
+            }
+            nav ul {
+                display: flex;
+                list-style: none;
+            }
+            nav ul li {
+                margin-right: 20px;
+                
+            }
+            nav ul li a {
+                text-decoration: none;
+                color: #f2f2f2;
+            }
+            nav ul li a:hover {
+                text-decoration: underline;
+                background-color: #ddd;
+                color: black;
+            }
+            nav ul li a:active {
+                background-color: #04AA6D;
+                color: white;
+            }
+        </style>
     </body>
 </html>

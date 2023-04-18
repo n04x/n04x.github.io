@@ -1,10 +1,8 @@
 ---
 layout: default
 title: "Kanto region"
-permalink: /kanto-money/
+permalink: /kanto-gym/
 ---
-
-{% include navigation.html %}
 
 <h1>Kanto Money run</h1>
 <h3> start with the gym trainers:</h3>
