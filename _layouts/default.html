@@ -10,7 +10,7 @@
         <nav>
             <ul>
                 {% for item in site.data.navigation %}
-                    <li><a href="{{item.link}}">{{item.title}}</a></li>
+                    <li><a class="{% if page.url == item.link %} active {% endif %}" href="{{item.link}}">{{item.title}}</a></li>
                 {% endfor %}
             </ul> 
         </nav>
@@ -38,7 +38,8 @@
                 background-color: #ddd;
                 color: black;
             }
-            nav ul li a:active {
+            .active {
+                text-decoration: underline;
                 background-color: #04AA6D;
                 color: white;
             }

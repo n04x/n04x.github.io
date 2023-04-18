@@ -4,7 +4,6 @@
 
 layout: default
 ---
-{% include navigation.html %}
 
 <h1>This is Home</h1>
 <div id="header">

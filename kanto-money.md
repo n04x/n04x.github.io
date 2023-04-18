@@ -1,11 +1,14 @@
 ---
 layout: default
 title: "Kanto region"
-permalink: /kanto-gym/
+permalink: /kanto-money/
 ---
 
 <h1>Kanto Money run</h1>
-<h3> start with the gym trainers:</h3>
+Whenever I do some Kanto money run, I like to do the Gym trainer first then the NPC trainers (the beauty) then I go off to Five Island to earn easy money.
+
+<h1 id="gymtrainers">Gym Trainer</h1>
+Each trainer should give you at least 13,000 pokeyens per fight. The amount is with the Amulet Coin buff.
 <ul>
     <li><a href="#brock">Brock</a></li>
     <li><a href="#misty">Misty</a></li>
@@ -19,7 +22,7 @@ permalink: /kanto-gym/
 <h2 id="brock">Brock</h2>
 ![Brock]({{site.url}}/assets/images/trainers/brock.gif)
 
-This trainer is located in Pewter City in kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Pewter City in Kanto. Below is the possible lineup the trainer might have:
 
 <ol>
     <li> 
@@ -67,7 +70,7 @@ This trainer is located in Pewter City in kanto. Below is the possible lineup th
 <h2 id="misty">Misty</h2>
 ![Misty]({{site.url}}/assets/images/trainers/misty.gif)
 
-This trainer is located in Cerulan City in kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Cerulan City in Kanto. Below is the possible lineup the trainer might have:
 
 <ol>
     <li>
@@ -115,7 +118,7 @@ This trainer is located in Cerulan City in kanto. Below is the possible lineup t
 <h2 id="ltsurge">Lt. Surge</h2>
 ![Lt Surge]({{site.url}}/assets/images/trainers/ltsurge.gif)
 
-This trainer is located in Vermilion City in kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Vermilion City in Kanto. Below is the possible lineup the trainer might have:
 
 <ol>
     <li>
@@ -163,7 +166,7 @@ This trainer is located in Vermilion City in kanto. Below is the possible lineup
 <h2 id="erika">Erika</h2>
 ![Erika]({{site.url}}/assets/images/trainers/erika.gif)
 
-This trainer is located in Celadon City in kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Celadon City in Kanto. Below is the possible lineup the trainer might have:
 
 <ol>
     <li>
@@ -211,7 +214,7 @@ This trainer is located in Celadon City in kanto. Below is the possible lineup t
 <h2 id="sabrina">Sabrina</h2>
 ![Sabrina]({{site.url}}/assets/images/trainers/sabrina.gif)
 
-This trainer is located in Saffron City in kanto. The pathing is explained below, TR means Top-Right, TL means Top-Left, BL means Bottom-Left, BR means Bottom-Right.
+This trainer is located in Saffron City in Kanto. The pathing is explained below, TR means Top-Right, TL means Top-Left, BL means Bottom-Left, BR means Bottom-Right.
 
 The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL --> BL --> BL. The way back (starting from her room) is BR --> TL --> TL --> TR --> BR. Below is the possible lineup the trainer might have:
 
@@ -260,7 +263,11 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
 
 <h2 id="koga">Koga</h2>
 ![koga]({{site.url}}/assets/images/trainers/koga.gif)
+This trainer is located in Fuchsia City in Kanto. Here is a map of the invisible walls for Koga's gym
 
+<img title="koga invisible walls" src="{{site.url}}/assets/images/maps/koga-gym.png">
+
+Below is the possible lineup the trainer might have:
 <ol>
     <li>
         <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
@@ -349,3 +356,44 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
         <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
     </li>
 </ol>
+
+<h1 id="npc">NPC Trainer</h1>
+The NPC can be found in the route mentioned below, not all routes are mandatory but I really enjoy doing Route 13 and Route 15 (the beauties) since they pay a lot of money and are quick to do. If the name is in <span style="color:green">green</span> it means optional, only does this if you are truly desperate for cash. Again, all of them are done with Amulet Coin buff.
+<ul>
+    <li><a style="color:green" href="#route11">Route 11</a></li>
+    <li><a style="color:green" href="#route8">Route 8</a></li>
+    <li><a href="#route15">Route 15</a></li>
+    <li><a href="#route13">Route 13</a></li>
+    <li></li>
+</ul>
+<h2 id="route11" style="color:green">Route 11</h2>
+Fly to Vermillion, head southeast into Route 11. Fight 4 Gamers here.
+<img title='route11' src="{{site.url}}/assets/images/maps/route11.png">
+
+<h2 id="route8" style="color:green">Route 8</h2">
+Fly to Lavender then go west into Route 8. Fight 2 Gamers here.
+<img title='route8' src="{{site.url}}/assets/images/maps/route8.png">
+
+<h2 id="route15">Route 15</h2">
+Fly to Fuchsia and head east into Route 15. Fight 2 Beauty here.
+<img title='route15' src="{{site.url}}/assets/images/maps/route15.png">
+
+<h2 id="route13">Route 13</h2">
+Fly to Fuchsia and head east into Route 15. Fight 2 Beauty here.
+<img title='route13' src="{{site.url}}/assets/images/maps/route13.png">
+
+<h1 id="island">Island Run</h1>
+Make sure to have your Amulet Coin Boost on before trying it for maximum effectiveness. Personally I only do the green dot on Isle 5 as the other isn't time efficient in my personal opinion. I will leave the others there for your convenience, but I would only recommend to do them if you didn't complete other region, otherwise, effort would be better spent focusing on other region. If you want to do all Island, I recommend you to buy some Repel to be able to reach the trainer quicker.
+<ul>
+    <li><li><a href="#isle5">Isle 5</a></li></li>
+</ul>
+
+<h2 id='isle5'>Isle 5</h2>
+The green dots on the northern island are the best trainers in the game for cash, always do those. The Ladies at Resort Generous (north of Isle 5) give 3,264 pokeyen without the Amulet Coin Boost and 4,896 pokeyen with Amulet Coin.
+<img title='isle5' src="{{site.url}}/assets/images/maps/isle5.png">
+
+<h2 id='isle6'>Isle 6</h2>
+<img title='isle6' src="{{site.url}}/assets/images/maps/isle6.jpg">
+
+<h2 id='isle7'>Isle 7</h2>
+<img title='isle6' src="{{site.url}}/assets/images/maps/isle7.jpg">
