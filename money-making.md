@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "money-guide"
+title: "Money making guide"
 permalink: /money-making/
 ---
 {% include navigation.html %}
