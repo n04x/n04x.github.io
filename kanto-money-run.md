@@ -260,3 +260,46 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
 
 <h2 id="koga">Koga</h2>
 ![koga]({{site.url}}/assets/images/trainers/koga.gif)
+
+<ol>
+    <li>
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
+        <img title='nidoqueen' src="{{site.url}}/assets/images/pokemon/nidoqueen.gif" width="50">
+        <img title='pidgeot' src="{{site.url}}/assets/images/pokemon/pidgeot.gif" width="50">
+        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" width="50">
+        <img title='gengar' src="{{site.url}}/assets/images/pokemon/gengar.gif" width="50">
+        <img title='crobat' src="{{site.url}}/assets/images/pokemon/crobat.gif" width="50">
+    </li>
+    <li>
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
+        <img title='zoroark' src="{{site.url}}/assets/images/pokemon/zoroark.gif" width="50">
+        <img title='scyther' src="{{site.url}}/assets/images/pokemon/scyther.gif" width="50">
+        <img title='forretress' src="{{site.url}}/assets/images/pokemon/forretress.gif" width="50">
+        <img title='toxicroak' src="{{site.url}}/assets/images/pokemon/toxicroak.gif" width="50">
+        <img title='nidoqueen' src="{{site.url}}/assets/images/pokemon/nidoqueen.gif" width="50">
+    </li>
+    <li>
+        <img title='tentacruel' src="{{site.url}}/assets/images/pokemon/tentacruel.gif" width="50">
+        <img title='gliscor' src="{{site.url}}/assets/images/pokemon/gliscor.gif" width="50">
+        <img title='venomoth' src="{{site.url}}/assets/images/pokemon/venomoth.gif" width="50">
+        <img title='drapion' src="{{site.url}}/assets/images/pokemon/drapion.gif" width="50">
+        <img title='magmortar' src="{{site.url}}/assets/images/pokemon/magmortar.gif" width="50">
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
+    </li>
+    <li>
+        <img title='ariados' src="{{site.url}}/assets/images/pokemon/ariados.gif" width="50">
+        <img title='ferrothorn' src="{{site.url}}/assets/images/pokemon/ferrothorn.gif" width="50">
+        <img title='muk' src="{{site.url}}/assets/images/pokemon/muk.gif" width="50">
+        <img title='scizor' src="{{site.url}}/assets/images/pokemon/scizor.gif" width="50">
+        <img title='skuntank' src="{{site.url}}/assets/images/pokemon/skuntank.gif" width="50">
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
+    </li>
+    <li>
+        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
+        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
+        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
+        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
+        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
+        <img title='' src="{{site.url}}/assets/images/pokemon/.gif" width="50">
+    </li>
+</ol>
