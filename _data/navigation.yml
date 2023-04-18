@@ -5,7 +5,11 @@
   link: /money-guide/
   sublinks:
     - title: Kanto
-    - link: /kanto-money/
-
-- title: Hoenn
-  link: /hoenn/
+      link: /kanto-money/
+    - title: Hoenn
+      link: /hoenn/
+    - title: Sinnoh
+      link: /sinnoh/
+      
+- title: Pokemon Database
+  link: /pokemon-db/

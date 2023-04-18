@@ -1,0 +1,70 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Personal Webpage</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                {% for item in site.data.navigation %}
+                    {% assign sublinks = item.sublinks %}
+                    {% if sublinks %}
+                    <li><a class="{% if page.url == item.link %} active {% endif %}" href="{{item.link}}">{{item.title}}</a>
+                        <ul>
+                            {% for sublink in sublinks %}
+                            <li><a href="{{ sublink.link }}">{{ sublink.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% else %}
+                    <li><a class="{% if page.url == item.link %} active {% endif %}" href="{{item.link}}">{{item.title}}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul> 
+        </nav>
+
+        {{ content }}
+
+        <style>
+            nav {
+                background-color: #333;
+            }
+            nav ul {
+                display: flex;
+                list-style: none;
+            }
+            nav ul li {
+                margin-right: 20px;
+                
+            }
+            nav ul li a {
+                text-decoration: none;
+                color: #f2f2f2;
+            }
+            nav ul li a:hover {
+                text-decoration: underline;
+                background-color: #ddd;
+                color: black;
+            }
+            .active {
+                text-decoration: underline;
+                background-color: #04AA6D;
+                color: white;
+            }
+            .dropdownlst {
+                display: none;
+                position: absolute;
+            }
+            .dropdownlst a {
+                text-decoration: none;
+                display: block;
+            }
+            .dropdownlst a:hover {background-color: #ddd;}
+            nav:hover .dropdownlstt {display: block;}
+            
+        </style>
+    </body>
+</html>
