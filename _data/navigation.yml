@@ -2,4 +2,9 @@
   url: /
 
 - title: Money Run
-  url: /kanto-money-run/
+  url: /money-making/
+  sublinks:
+    - title: Kanto
+      url: /money-making/kanto/
+    - title: Hoenn
+      url: /money-making/hoenn/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "money-guide"
-permalink: /kanto-money-run/
+permalink: /money-making/
 ---
 {% include navigation.html %}
 
