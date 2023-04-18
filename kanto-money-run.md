@@ -3,6 +3,8 @@ layout: post
 title: "money-guide"
 permalink: /kanto-money-run/
 ---
+{{ site.data.navigation}}
+
 <h1>Introduction</h1>
 <p>This is a personalized route for Kanto money guide.</p>
 <h3> start with the gym trainers:</h3>
@@ -11,8 +13,8 @@ permalink: /kanto-money-run/
     <li><a href="#misty">Misty</a></li>
     <li><a href="#ltsurge">Lt. Surge</a></li>
     <li><a href="#erika">Erika</a></li>
-    <li></li>
-    <li></li>
+    <li><a href="#sabrina">Sabrina</a></li>
+    <li><a href="#koga">Sabrina</a></li>
     <li></li>
 </ul>
 <h1>Gym Trainer</h1>

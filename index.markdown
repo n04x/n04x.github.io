@@ -4,6 +4,9 @@
 
 layout: home
 ---
+
+{{ site.data.navigation}}
+
 <h1>This is Home</h1>
 <div id="header">
     <header>
