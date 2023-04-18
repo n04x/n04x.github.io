@@ -3,7 +3,7 @@ layout: post
 title: "money-guide"
 permalink: /kanto-money-run/
 ---
-{% include navigation.html}
+{% include navigation.html %}
 
 <h1>Introduction</h1>
 <p>This is a personalized route for Kanto money guide.</p>

@@ -4,7 +4,7 @@
 
 layout: home
 ---
-{% include navigation.html}
+{% include navigation.html %}
 
 <h1>This is Home</h1>
 <div id="header">
