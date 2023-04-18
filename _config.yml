@@ -21,7 +21,7 @@
 title: PokeMMO Notes by n04x
 description: >- # this means to ignore newlines until "baseurl:"
   This notes is taken by myself throughout my research and playing. This is not an official guide and has no affilation with PokeMMO wiki whatsoever. I have written it to help me when I play this game as reminder.
-baseurl: "/n04x.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/n04x.github.io" # the subpath of your site, e.g. /blog
 url: "https://n04x.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  n04x
 
