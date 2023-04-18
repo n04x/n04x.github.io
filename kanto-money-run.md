@@ -14,7 +14,8 @@ permalink: /kanto-money-run/
     <li><a href="#ltsurge">Lt. Surge</a></li>
     <li><a href="#erika">Erika</a></li>
     <li><a href="#sabrina">Sabrina</a></li>
-    <li><a href="#koga">Sabrina</a></li>
+    <li><a href="#koga">Koga</a></li>
+    <li><a href="#blaine">Blaine</a></li>
     <li></li>
 </ul>
 <h1>Gym Trainer</h1>
@@ -305,3 +306,5 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
         <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
     </li>
 </ol>
+
+<h2 id="blaine">Blaine</h2>

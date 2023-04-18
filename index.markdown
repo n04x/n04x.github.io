@@ -5,7 +5,10 @@
 layout: home
 ---
 
-{{ site.data.navigation}}
+<ul>{% for item in site.data.navigation.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
 
 <h1>This is Home</h1>
 <div id="header">
