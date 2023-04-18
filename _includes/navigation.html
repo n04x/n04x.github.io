@@ -15,7 +15,6 @@
     <nav>
         <ul>
         {% for entry in site.data.navigation %}
-            <h2>{{entry.url}}</h2>
             {% if entry.url == current_page %}
                 {% assign current = ' style="background-color: #FFFFFF"' %}
             {% else %}
@@ -24,16 +23,16 @@
             {% endif %}
             {% assign sublinks = entry.sublinks %}
             {% if sublinks %}
-            <li{{ current }}>
+            <li {{ current }}>
                 <a href="{{ entry.url }}">{{ entry.title }}</a>
                 <ul>
                     {% for sublink in sublinks %}
-                    <li><a href="{{ entry.url }}">{{ sublink.title }}</a></li>
+                    <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
                     {% endfor %}
                 </ul>
             </li>
             {% else %}
-            <li{{ current }}><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+            <li {{ current }}><a href="{{ entry.url }}">{{ entry.title }}</a></li>
             {% endif %}
         {% endfor %}
         </ul>
