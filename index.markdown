@@ -5,9 +5,5 @@
 layout: default
 ---
 
-<h1>This is Home</h1>
-<div id="header">
-    <header>
-        <a href="https://n04x.github.io/money-making">Kanto Money Run</a>
-    </header>
-</div>
+# Homepage
+Welcome to n04x main home page, use the navigation bar above to reach the desired page.
