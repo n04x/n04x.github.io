@@ -5,7 +5,17 @@ permalink: /kanto-money/
 ---
 
 <h1>Kanto Money run</h1>
-Whenever I do some Kanto money run, I like to do the Gym trainers first then the NPC trainers (the beauty) then I go off to Isle 5 (Five) to earn easy money. Also don't forget the Amulet coin buff. These are pretty cheap nowaday on GTL, can be easily purchase for around 15,000 pokeyen or less. It pays itself off after a single gym trainer in Kanto. Other available option for Amulet coin is to farm it. 
+Whenever I do some Kanto money run, I like to do the Gym trainers first then the NPC trainers (the beauty) then I go off to Isle 5 (Five) to earn easy money. Also don't forget the Amulet coin buff. These are pretty cheap nowaday on GTL, can be easily purchase for around $15,000 or less. It pays itself off after a single gym trainer in Kanto. Other available option for Amulet coin is to farm it. Also, I highly recommend that you purchage an Ocarina Fly for $500,000 on GTL. It will help you greatly with your mobility.
+
+Below is the table of my personal money run earning for Kanto:
+
+|Source|No Amulet|Amulet Coin|
+|---|---|---|
+|Gym|$71,968|$107,952|
+|NPC|$10,640|$15,960|
+|Island|$6,528|9,792|
+|Total|$89,136|$133,704|
+
 <ul>
     <li><a href="#gymtrainer">Jump to Gym Trainers</a></li>
     <li><a href="#npc">Jump to NPC Trainers</a></li>
@@ -13,7 +23,7 @@ Whenever I do some Kanto money run, I like to do the Gym trainers first then the
 </ul>
 
 <h1 id="gymtrainers">Gym Trainer</h1>
-Each trainer should give you at least 13,000 pokeyens per fight. The amount is with the Amulet Coin buff.
+
 <ul>
     <li><a href="#brock">Brock</a></li>
     <li><a href="#misty">Misty</a></li>
@@ -26,7 +36,7 @@ Each trainer should give you at least 13,000 pokeyens per fight. The amount is w
 <h2 id="brock">Brock</h2>
 ![Brock]({{site.url}}/assets/images/trainers/brock.gif)
 
-This trainer is located in Pewter City in Kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Pewter City in Kanto. Beating this trainer will reward you $8,632 without Amulet coin and $12,948 with Amulet coin. Below is the possible lineup the trainer might have:
 
 <ol>
     <li> 
@@ -71,10 +81,30 @@ This trainer is located in Pewter City in Kanto. Below is the possible lineup th
     </li>
 </ol>
 
+- **Aerodactyl** is Rock/Flying. He's weak to Rock, Steel, Water, Electric, & Ice attacks but immune to Ground moves.
+- **Chansey** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves.
+- **Crobat** is Poison/Flying. He's weak to Rock, Electric, Psychic, & Ice attacks but immune to Ground moves.
+- **Forretress** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
+- **Golem** is Rock/Ground. He's 4x more susceptible to Water & Grass moves, weak to Fighting, Ground, Steel, & Ice attacks, & immune to Electric moves.
+- **Heracross** is Bug/Fighting. He's 4x more susceptible to Flying moves & weak to Fire, & Psychic attacks. 
+- **Kabutops**, **Omastar**, & **Relicanth** are Rock/Water or Water/Rock types. They're 4x more susceptible to Grass moves & weak to Fighting, Ground, & Electric attacks.
+- **Ludicolo** is Water/Grass. He's weak to Flying, Poison, & Bug attacks.
+- **Ninetales** is a Fire type. He's weak to Ground, Rock, & Water attacks.
+- **Pinsir** is a Bug type. He's weak to Flying, Rock, & Fire attacks.
+- **Rampardos** & **Sudowoodo** are Rock types. They're weak to Fighting, Ground, Steel, Water, & Grass attacks.
+- **Rhyperior** is Ground/Rock. Because of his ability, Water & Grass moves only deal 3x more damage instead of 4x. Furthermore, Fighting, Ground, Steel, & Ice attacks only deal 1.5x damage as opposed to their usual 2x. He's immune to Electric moves.
+- **Sandslash** is a Ground type. He's weak to Water, Ice, & Grass attacks but immune to Electric moves.
+- **Shuckle** is Bug/Rock. He's weak to Rock, Steel, & Water attacks.
+- **Slowbro** is Water/Psychic. It's weak to Bug, Ghost, Grass, Electric, & Dark attacks.
+- **Steelix** is Steel/Ground. He's weak to Fighting, Ground, Fire, & Water attacks & immune to Poison &Electric moves. Additionally, the only other types he doesn't resist are Ghost, Grass, Ice, & Dark. 
+- **Swampert** is Water/Ground. He's 4x more susceptible to Grass attacks & immune to Electric moves.
+- **Toxicroak** is Poison/Fighting. He's 4x more susceptible to Psychic moves & weak to Ground & Flying attacks. Because of his Ability he takes 25% additional damage from Fire moves & heals a quarter of his max health when damaged by Water moves.
+- **Tyranitar** is Rock/Dark. He's 4x more susceptible to Fighting moves, weak to Ground, Bug, Steel, Water, & Grass attacks, & immune to Psychic moves.
+
 <h2 id="misty">Misty</h2>
 ![Misty]({{site.url}}/assets/images/trainers/misty.gif)
 
-This trainer is located in Cerulan City in Kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Cerulan City in Kanto. Beating this trainer will reward you $8,736 without Amulet coin and $13,104 with Amulet coin. Below is the possible lineup the trainer might have:
 
 <ol>
     <li>
@@ -119,10 +149,27 @@ This trainer is located in Cerulan City in Kanto. Below is the possible lineup t
     </li>
 </ol>
 
+- **Ampharos** is an Electric type. He's weak to Ground attacks.
+- **Carracosta** is Water/Rock. He's 4x more susceptible to Grass moves and weak to Fighting, Ground, and Electric attacks. He has four different speeds based on whether his items and ability aren't active, his item but not his ability is active, his ability but not his item is active, and his item and ability are both active in descending order.
+- **Cloyster** and **Lapras** are Water/Ice types. They're weak to Fighting, Rock, Grass, and Electric attacks.
+- **Dragonite** is Dragon/Flying. He's 4x more susceptible to Ice moves, weak to Rock and Dragon attacks, and immune to Ground moves.
+- **Floatzel** and **Milotic** are Water types. They're weak to Electric and Grass attacks. Because of her berry, the first electric attack to hit Milotic will deal half its damage.
+- **Jellicent** is Water/Ghost. She's weak to Ghost, Grass, Electric, and Dark attacks but immune to Normal and Fighting moves. Because of her Wacan Berry, the first Electric attack to hit her will deal half damage.
+- **Kingdra** is Water/Dragon. He's weak to Dragon attacks.
+- **Lanturn** is Water/Electric. She's weak to Ground and Grass attacks. Because of her Rindo Berry, the first Grass attack to hit her will deal half damage.
+- **Pelipper**, **Swanna** and **Gyarados** are Water/Flying. They're 4x more susceptible to Electric moves and weak to Rock attacks.
+- **Politoed**, **Golduck**, **Azumarill** and **Blastoise** are all Water types. They're weak to Electric and Grass attacks.
+- **Poliwrath** is a Water/Fighting type. He's weak to Flying, Grass, Electric, and Psychic moves.
+- **Quagsire** is Water/Ground. It's 4x more susceptible to Grass attacks and immune to Electric moves.
+- **Seaking** is a Water type. It's weak to Grass attacks. Because of its ability, it's immune to Electric moves. Any that hit it will raise its Sp. Atk.
+- **Starmie** is Water/Psychic. It's weak to Bug, Ghost, Grass, Electric, and Dark attacks. 
+- **Tentacruel** is Water/Poison. It's weak to Ground, Electric, and Psychic attacks.
+- **Togekiss** is Normal/Flying. He's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves.
+
 <h2 id="ltsurge">Lt. Surge</h2>
 ![Lt Surge]({{site.url}}/assets/images/trainers/ltsurge.gif)
 
-This trainer is located in Vermilion City in Kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Vermilion City in Kanto. Beating this trainer will reward you $8,840 without Amulet coin and $13,260 with Amulet coin. Below is the possible lineup the trainer might have:
 
 <ol>
     <li>
@@ -167,10 +214,22 @@ This trainer is located in Vermilion City in Kanto. Below is the possible lineup
     </li>
 </ol>
 
+- **Dodrio** is Normal/Flying. She's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves.
+- **Electivire**, **Jolteon**, **Ampharos**, **Manectric**, **Electrode**, **Pachirisu**, **Pikachu** and **Raichu** are Electric types. While their Air Balloons are active, they're immune to Ground attacks. After they're popped, they're weak to them.
+- **Fan Rotom** is an Electric/Flying type. It's weak to Rock and Ice attacks but immune to Ground moves.
+- **Fearow** is Normal/Flying. It's weak to Rock, Ice, and Electric attacks but immune to Ground and Ghost moves.
+- **Lanturn** is Water/Electric. She's weak to Grass attacks. While her Air Balloon is active, she's immune to Ground moves. Once it's popped, she's weak to them. 
+- **Lickilicky**, **Porygon-Z**, **Raticate** is a Normal type. It's weak to Fighting attacks but immune to Ghost moves. While its Air Balloon is active it is immune to Ground attacks. 
+- **Magnezone** is Electric/Steel. It's weak to Fighting and Fire attacks. While its Air Balloon is still active it's immune to Ground moves. After it's popped they deal 4x damage. 
+- **Politoed** is a Water type. He's weak to Grass and Electric moves.
+- **Quagsire** is Water/Ground. She's 4x more susceptible to Grass attacks but immune to Electric moves. 
+- **Tangrowth** is a Grass type. He's weak to Flying, Poison, Bug, Fire, and Ice attacks.
+- **Victreebel** is Grass/Poison. She's weak to Flying, Fire, Psychic, and Ice attacks. While her Air Balloon is active she's immune to Ground moves. After it's popped they deal normal damage.
+
 <h2 id="erika">Erika</h2>
 ![Erika]({{site.url}}/assets/images/trainers/erika.gif)
 
-This trainer is located in Celadon City in Kanto. Below is the possible lineup the trainer might have:
+This trainer is located in Celadon City in Kanto. Beating this trainer will reward you $8,944 without Amulet coin and $13,416 with Amulet coin. Below is the possible lineup the trainer might have:
 
 <ol>
     <li>
@@ -215,10 +274,24 @@ This trainer is located in Celadon City in Kanto. Below is the possible lineup t
     </li>
 </ol>
 
+- **Abomasnow** is 4x more susceptible to Fire attacks and weak to Fighting, Flying, Poison, Rock, Bug, and Steel attacks.
+- **Blissey** and **Clefable** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves.
+- **Cherrim**, **Lilligant**, **Whimsicott**, **Tangrowth** and **Bellossom** are Grass types. They're weak to Flying, Poison, Bug, Fire, and Ice attacks. Because of her berry, the first Fire attack to hit Cherrim will deal half damage.
+- **Cradily** is Rock/Grass. She's weak to Fighting, Bug, Steel, and Ice attacks. 
+- **Dewgong** is Water/Ice. She's weak to Fighting, Rock, Grass, and Electric attacks.
+- **Dragonite** is Dragon/Flying. She's 4x more susceptible to Ice attacks, weak to Rock and Dragon attacks, and immune to Ground moves.
+- **Exeggutor** is a Grass/Psychic. She's 4x more susceptible to Bug attacks and weak to Flying, Poison, Ghost, Fire, Ice, and Dark attacks.
+- **Jumpluff** is a Grass/Flying. She's 4x more susceptible to Ice attacks, weak to Flying, Poison, Rock, and Fire attacks, and immune to Ground moves. 
+- **Marowak** is a Ground type. She's weak to Water, Grass, and Ice attacks but immune to Electric moves.
+- **Ninetales** is a Fire type. She's weak to Ground, Rock, and Water attacks.
+- **Parasect** is Bug/Grass. She's 4x more susceptible to Flying and Fire moves and weak to Poison, Rock, Bug, and Ice attacks. 
+- **Shiftry** is Grass/Dark. She's 4x more susceptible to Bug attacks, weak to Fighting, Flying, Poison, Fire, and Ice attacks, and immune to Psychic moves.
+- **Roserade**, **Victreebel**, **Venusaur** and **Vileplume** are Grass/Poison types. They're weak to Flying, Fire, Psychic, and Ice attacks.
+
 <h2 id="sabrina">Sabrina</h2>
 ![Sabrina]({{site.url}}/assets/images/trainers/sabrina.gif)
 
-This trainer is located in Saffron City in Kanto. The pathing is explained below, TR means Top-Right, TL means Top-Left, BL means Bottom-Left, BR means Bottom-Right.
+This trainer is located in Saffron City in Kanto. Beating this trainer will reward you $9,152 without Amulet coin and $13,728 with Amulet coin. The pathing is explained below, TR means Top-Right, TL means Top-Left, BL means Bottom-Left, BR means Bottom-Right.
 
 The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL --> BL --> BL. The way back (starting from her room) is BR --> TL --> TL --> TR --> BR. Below is the possible lineup the trainer might have:
 
@@ -265,9 +338,28 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
     </li>
 </ol>
 
+- **Alakazam**, **Espeon**, **Mr. Mime**, **Wobbuffet** and **Hypno** are Psychic types. They're weak to Bug, Ghost, and Dark attacks.
+- **Exeggutor** is a Grass/Psychic. She's 4x more susceptible to Bug attacks and weak to Flying, Poison, Ghost, Fire, Ice, and Dark attacks.
+- **Furret**, **Porygon-Z**, **Snorlax**, **Wigglytuff** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves.
+- **Gallade** is Psychic/Fighting. He's weak to Flying and Ghost attacks.
+- **Gengar** is Ghost/Poison. She's weak to Ghost, Psychic, Ground, and Dark attacks but immune to Normal & Fighting moves.
+- **Golduck** is a Water type. She's weak to Grass and Electric attacks.
+- **Hitmonlee** is a Fighting type. He's weak to Flying and Psychic attacks. 
+- **Jynx** is Ice/Psychic. She's weak to Rock, Bug, Ghost, Dark, Steel, and Fire attacks.
+- **Lapras** is Water/Ice. She's weak to Fighting, Rock, Grass, and Electric attacks.
+- **Metagross** is Steel/Psychic. It's weak to Ground, Ghost, Fire, and Dark attakcs but immune to Poison moves. Additionally, only Fighting, Bug, Water, and Electric moves deal normal damage to it.
+- **Sandslash** is a Ground type. She's weak to Water, Grass, and Ice attacks but immune to Electric moves. 
+- **Scizor** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
+- **Sigilyph** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attack but immune to Ground moves.
+- **Slowbro** and **Slowking** are Water/Psychic. She's weak to Bug, Ghost, Dark, Grass, and Electric attacks.
+- **Swoobat** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attack but immune to Ground moves.
+- **Typhlosion** is a Fire type. She's weak to Ground, Rock, and Water attacks.
+- **Venomoth** is Bug/Poison. She's weak to Flying, Rock, Fire, and Psychic attacks.
+- **Xatu** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attacks but immune to Ground moves. 
+
 <h2 id="koga">Koga</h2>
 ![koga]({{site.url}}/assets/images/trainers/koga.gif)
-This trainer is located in Fuchsia City in Kanto. Here is a map of the invisible walls for Koga's gym
+This trainer is located in Fuchsia City in Kanto. Beating this trainer will reward you $9,048 without Amulet coin and $13,572 with Amulet coin. Here is a map of the invisible walls for Koga's gym
 
 <img title="koga invisible walls" src="{{site.url}}/assets/images/maps/koga-gym.png">
 
@@ -315,15 +407,40 @@ Below is the possible lineup the trainer might have:
     </li>
 </ol>
 
+- **Ariados** and **Beedrill** are Bug/Poison. They're weak to Flying, Rock, Psychic, and Fire attacks.
+- **Crobat** is a Poison/Flying type. He's weak to Rock, Electric, Psychic, and Ice attacks but immune to Ground moves. 
+- **Ditto** is a Normal type. Because of its ability, it'll instantly transform into whichever opposing Pokémon is across from it. Its speed and type effectiveness depends on who's on your team.
+- **Drapion** is Poison/Dark. He's weak to Ground attacks but immune to Psychic moves.
+- **Electrode** is an Electric type. It's weak to Ground moves.
+- **Ferrothorn** is Grass/Steel. He's 4x more susceptible to Fire attacks, weak to Fighting attacks, and immune to Poison moves.
+- **Forretress** is Bug/Steel. It's weak to Fire attacks and immune to Poison moves.
+- **Gengar** is a Ghost/Poison type. He's weak to Ground, Ghost, Psychic, and Dark attacks but immune to Normal and Fighting moves.
+- **Gliscor** is Ground/Flying. He's 4x more susceptible to Ice attacks, weak to Water attacks, and immune to Electric and Ground moves.
+- **Hypno** is a Psychic type. He's weak to Dark, Bug, and Ghost attacks.
+- **Magmortar** is a Fire type. He's weak to Water, Ground, and Rock attacks.
+- **Muk** and **Weezing** are Poison type. They're weak to Psychic attacks.
+- **Nidoking** is Poison/Ground. He's weak to Ground, Water, Psychic, and Ice attacks but immune to Electric moves.
+- **Nidoqueen** is Poison/Ground. She's weak to Ground, Water, Psychic, and Ice attacks but immune to Electric moves.
+- **Pidgeot** is a Normal/Flying type. He's weak to Rock, Ice, and Electric attacks but immune to Ghost moves.
+- **Scizor** is Bug/Steel. He's 4x more susceptible to Fire attacks but immune to Poison moves.
+- **Scyther** is Bug/Flying. He's 4x more susceptible to Rock attacks, weak to Flying, Fire, Electric, and Ice attacks, and immune to Ground moves.
+- **Skuntank** is Poison/Dark. He's weak to Ground attacks but immune to Psychic moves.
+- **Swalot** is a Poison type. He's weak to Psychic and Ground attacks.
+- **Tentacruel** is Water/Poison. He's weak to Ground, Electric, and Psychic attacks.
+- **Toxicroak** is Poison/Fighting. He's 4x more susceptible to Psychic attacks and weak to Flying and Ground attacks. Because of his ability, he'll take an additional 25% damage from Fire attacks and will heal from Water attacks.
+- **Venomoth** is Bug/Poison. He's weak to Flying, Rock, Psychic, and Fire attacks.
+- **Zoroark** is a Dark type. He's weak to Fighting and Bug attacks but immune to Psychic moves.
+
 <h2 id="blaine">Blaine</h2>
 ![blaine]({{site.url}}/assets/images/trainers/blaine.gif)
 
+This trainer is located in Cinnabar Island in Kanto. Beating this trainer will reward you $9,256 without Amulet coin and $13,884 with Amulet coin.
 <ol>
     <li>
         <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
         <img title='ninetales' src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50">
         <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50">
-        <img title='rapidash.gif' src="{{site.url}}/assets/images/pokemon/rapidash.gif.gif" width="50">
+        <img title='rapidash' src="{{site.url}}/assets/images/pokemon/rapidash.gif" width="50">
         <img title='articuno' src="{{site.url}}/assets/images/pokemon/articuno.gif" width="50">
         <img title='magcargo' src="{{site.url}}/assets/images/pokemon/magcargo.gif" width="50">
     </li>
@@ -360,6 +477,22 @@ Below is the possible lineup the trainer might have:
         <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
     </li>
 </ol>
+
+- **Arcanine**, **Rapidash**, **Flareon**, **Torkoal**, **Magmortar**, **Typhlosion** and **Ninetales** are all Fire types. They're weak to Ground, Rock, and Water attacks.
+- **Articuno** is Ice/Flying. It's 4x more susceptible to Rock attacks, weak to Steel, Fire, and Electric attacks, and immune to Ground moves.
+- **Blissey**, **Kangaskhan** and **Tauros** are Normal type. They're weak to Fighting attacks but immune to Ghost moves. 
+- **Camerupt** is Fire/Ground. He's 4x more susceptible to Water attacks, weak to Ground moves, and immune to Electric moves. 
+- **Charizard** is Fire/Flying. He's 4x more susceptible Rock attacks, weak to Water and Electric attacks, and immune to Ground moves.
+- **Dodrio** is Normal/Flying. He's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves.
+- **Electrode** is an Electric type. It's weak to Ground attacks.
+- **Golem** is Rock/Ground. He's 4x more susceptible to Water and Grass attacks, weak to Ice, Steel, Ground, and Fighting attacks, and immune to Electric moves. 
+- **Houndoom** is Dark/Fire. He's weak to Fighting, Ground, Rock, and Water attacks but immune to Psychic moves.
+- **Magcargo** is Fire/Rock. He's 4x more susceptible to Ground and Water attacks and weak to Fighting and Rock attacks. 
+- **Moltres** is Fire/Flying. It's 4x more susceptible Rock attacks, weak to Water and Electric attacks, and immune to Ground moves.
+- **Rhyperior** is Ground/Rock. He's 4x more susceptible to Water and Grass attacks, weak to Ice, Steel, Ground, and Fighting attacks, and immune to Electric moves. 
+- **Rotom** is Electric/Fire. It's weak Rock and Water attacks but immune to Ground moves.
+- **Tangrowth** is weak to Flying, Poison, Bug, Fire, and Ice attacks.
+- **Vileplume** is Grass/Poison. He's weak to Flying, Fire, Ice, and Psychic attacks.
 
 <h1 id="npc">NPC Trainer</h1>
 The NPC can be found in the route mentioned below, not all routes are mandatory but I really enjoy doing Route 13 and Route 15 (the beauties) since they pay a lot of money and are quick to do. If the name is in <span style="color:green">green</span> it means optional, only does this if you are truly desperate for cash. Again, all of them are done with Amulet Coin buff.
