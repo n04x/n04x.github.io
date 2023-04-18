@@ -6,7 +6,7 @@ permalink: /kanto-money-run/
 {% include navigation.html %}
 
 <h1>Introduction</h1>
-<p>This is a personalized route for Kanto money guide.</p>
+This is a personalized route for Kanto money guide. All the runs are done with the Amulet Coin buff.
 <h3> start with the gym trainers:</h3>
 <ul>
     <li><a href="#brock">Brock</a></li>
@@ -18,6 +18,7 @@ permalink: /kanto-money-run/
     <li><a href="#blaine">Blaine</a></li>
     <li></li>
 </ul>
+
 <h1>Gym Trainer</h1>
 <h2 id="brock">Brock</h2>
 ![Brock]({{site.url}}/assets/images/trainers/brock.gif)
@@ -308,3 +309,47 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
 </ol>
 
 <h2 id="blaine">Blaine</h2>
+![blaine]({{site.url}}/assets/images/trainers/blaine.gif)
+
+<ol>
+    <li>
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+        <img title='ninetales' src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50">
+        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50">
+        <img title='rapidash.gif' src="{{site.url}}/assets/images/pokemon/rapidash.gif.gif" width="50">
+        <img title='articuno' src="{{site.url}}/assets/images/pokemon/articuno.gif" width="50">
+        <img title='magcargo' src="{{site.url}}/assets/images/pokemon/magcargo.gif" width="50">
+    </li>
+    <li>
+        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50">
+        <img title='moltres' src="{{site.url}}/assets/images/pokemon/moltres.gif" width="50">
+        <img title='houndoom' src="{{site.url}}/assets/images/pokemon/houndoom.gif" width="50">
+        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" width="50">
+        <img title='blissey' src="{{site.url}}/assets/images/pokemon/blissey.gif" width="50">
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+    </li>
+    <li>
+        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50">
+        <img title='charizard' src="{{site.url}}/assets/images/pokemon/charizard.gif" width="50">
+        <img title='kangaskhan' src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" width="50">
+        <img title='golem' src="{{site.url}}/assets/images/pokemon/golem.gif" width="50">
+        <img title='magmortar' src="{{site.url}}/assets/images/pokemon/magmortar.gif" width="50">
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+    </li>
+    <li>
+        <img title='ninetales' src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50">
+        <img title='flareon' src="{{site.url}}/assets/images/pokemon/flareon.gif" width="50">
+        <img title='tauros' src="{{site.url}}/assets/images/pokemon/tauros.gif" width="50">
+        <img title='dodrio' src="{{site.url}}/assets/images/pokemon/dodrio.gif" width="50">
+        <img title='camerupt' src="{{site.url}}/assets/images/pokemon/camerupt.gif" width="50">
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+    </li>
+    <li>
+        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50">
+        <img title='typhlosion' src="{{site.url}}/assets/images/pokemon/typhlosion.gif" width="50">
+        <img title='heat-rotom' src="{{site.url}}/assets/images/pokemon/heat-rotom.gif" width="50">
+        <img title='tangrowth' src="{{site.url}}/assets/images/pokemon/tangrowth.gif" width="50">
+        <img title='rhyperior' src="{{site.url}}/assets/images/pokemon/rhyperior.gif" width="50">
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+    </li>
+</ol>
