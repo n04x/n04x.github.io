@@ -85,12 +85,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
 
 |Pokemon|Weakness|Immunities|
 |---|---|---|
-|Aerodactyl|
-|<span class="type rock"></span>
-<span class="type steel"></span>
-<span class="type water"></span>
-<span class="type rock"></span>
-<span class="type electric"></span><span class="type ice"></span>|<span class="type ground"></span>|
+|Aerodactyl|<span class="type rock"></span><span class="type steel"></span><span class="type water"></span><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span>|<span class="type ground"></span>|
 
 - **Aerodactyl**: 
 Weakness: 
