@@ -86,17 +86,8 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
 |Pokemon|Weakness|Immunities|
 |---|---|---|
 |Aerodactyl|<span class="type rock"></span><span class="type steel"></span><span class="type water"></span><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span>|<span class="type ground"></span>|
+|Chansey|<span class="type fighting"></span>|<span class="type ghost"></span>|
 
-- **Aerodactyl**: 
-Weakness: 
-<span class="type rock"></span>
-<span class="type steel"></span>
-<span class="type water"></span>
-<span class="type rock"></span>
-<span class="type electric">
-</span><span class="type ice">
-</span> Immunities <span class="type ground"></span>
-- **Chansey** weakness <span class="type fighting"></span> Immunities <span class="type ghost"></span>
 - **Crobat** Weakness to <span class="type rock"></span><span class="type electric"></span><span class="type psychic"></span><span class="type ice"> Immunities <span class="type ground"></span>
 - **Forretress** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
 - **Golem** is Rock/Ground. He's 4x more susceptible to Water & Grass moves, weak to Fighting, Ground, Steel, & Ice attacks, & immune to Electric moves.
