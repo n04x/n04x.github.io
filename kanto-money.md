@@ -564,3 +564,11 @@ Juggler Manson gives $1,920 without the Amulet Coin Boost and $2,880 with it.
 - Ruin Maniac Benjamin gives $2,304 without the Amulet Coin Boost and $3,456 with it. 
 
 <img title='isle6' src="{{site.url}}/assets/images/maps/isle7.jpg">
+
+# Credits
+Big thanks to **Redacted** for his Kanto Gym Leader Rematches guide, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/88353-kanto-gym-leader-rematches/).
+
+Big thanks to **Stagiie** for his Money NPC Rematches guide, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/69442-money-guide-npc-re-match-guide/)
+
+Big thanks to Bestfriends for his In-depth money making guide with multiple method that allows me to personalize it for my needs, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/106650-in-depth-money-making-guide-multiple-methods-2nd-edition/)
+

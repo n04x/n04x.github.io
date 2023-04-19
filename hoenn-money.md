@@ -267,3 +267,10 @@ This trainer is located in Sootopolis City in Hoenn. Beating this trainer will r
         <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
     </li>
 </ol>
+
+# Credits
+Big thanks to **Redacted** for his Kanto Gym Leader Rematches guide, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/91891-hoenn-gym-leader-rematches/).
+
+Big thanks to **Stagiie** for his Money NPC Rematches guide, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/69442-money-guide-npc-re-match-guide/)
+
+Big thanks to Bestfriends for his In-depth money making guide with multiple method that allows me to personalize it for my needs, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/106650-in-depth-money-making-guide-multiple-methods-2nd-edition/)
