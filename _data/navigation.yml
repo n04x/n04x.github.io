@@ -1,13 +1,13 @@
 - title: Home
   link: /
 
-- title: PokeMMO Money Guide
-  link: /money-guide/
+- title: PokeMMO Guide
+  link: /pokemmo-guide/
   sublinks:
-    - title: Kanto
+    - title: Kanto $$
       link: /kanto-money/
-    - title: Hoenn
-      link: /hoenn/
+    - title: Hoenn $$
+      link: /hoenn-money/
     - title: Sinnoh
       link: /sinnoh/
       
