@@ -83,7 +83,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
 
 ### Weakness & Immunities
 
-|Pokemon|Weakness|Immunities
+|Pokemon|Weakness|Immunities|
 |---|---|---|
 |Aerodactyl|
 |<span class="type rock"></span>
