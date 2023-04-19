@@ -83,25 +83,25 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
 
 ### Weakness & Immunities
 
-- **Aerodactyl** Weakness: <span class="type sm rock"></span><span class="type sm steel"></span><span class="type sm water"></span><span class="type sm electric"></span><span class="type sm ice"></span> and immune to <span class="type sm ground"></span>. 
-- **Chansey** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves. 
-- **Crobat** Weakness to <span class="type sm rock"></span><span class="type sm electric"></span><span class="type sm psychic"></span><span class="type ice"> Immunities <span class="type ground"></span>
-- **Forretress** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
-- **Golem** is Rock/Ground. He's 4x more susceptible to Water & Grass moves, weak to Fighting, Ground, Steel, & Ice attacks, & immune to Electric moves.
-- **Heracross** is Bug/Fighting. He's 4x more susceptible to Flying moves & weak to Fire, & Psychic attacks. 
-- **Kabutops**, **Omastar**, & **Relicanth** are Rock/Water or Water/Rock types. They're 4x more susceptible to Grass moves & weak to Fighting, Ground, & Electric attacks.
-- **Ludicolo** is Water/Grass. He's weak to Flying, Poison, & Bug attacks.
-- **Ninetales** is a Fire type. He's weak to Ground, Rock, & Water attacks.
-- **Pinsir** is a Bug type. He's weak to Flying, Rock, & Fire attacks.
-- **Rampardos** & **Sudowoodo** are Rock types. They're weak to Fighting, Ground, Steel, Water, & Grass attacks.
-- **Rhyperior** is Ground/Rock. Because of his ability, Water & Grass moves only deal 3x more damage instead of 4x. Furthermore, Fighting, Ground, Steel, & Ice attacks only deal 1.5x damage as opposed to their usual 2x. He's immune to Electric moves.
-- **Sandslash** is a Ground type. He's weak to Water, Ice, & Grass attacks but immune to Electric moves.
-- **Shuckle** is Bug/Rock. He's weak to Rock, Steel, & Water attacks.
-- **Slowbro** is Water/Psychic. It's weak to Bug, Ghost, Grass, Electric, & Dark attacks.
-- **Steelix** is Steel/Ground. He's weak to Fighting, Ground, Fire, & Water attacks & immune to Poison &Electric moves. Additionally, the only other types he doesn't resist are Ghost, Grass, Ice, & Dark. 
-- **Swampert** is Water/Ground. He's 4x more susceptible to Grass attacks & immune to Electric moves.
-- **Toxicroak** is Poison/Fighting. He's 4x more susceptible to Psychic moves & weak to Ground & Flying attacks. Because of his Ability he takes 25% additional damage from Fire moves & heals a quarter of his max health when damaged by Water moves.
-- **Tyranitar** is Rock/Dark. He's 4x more susceptible to Fighting moves, weak to Ground, Bug, Steel, Water, & Grass attacks, & immune to Psychic moves.
+- **Aerodactyl** is <span class="type sm rock"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, <span class="type sm electric"></span>, & <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> moves.
+- **Chansey** is a <span class="type sm normal"></span> type. She's weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span> moves.
+- **Crobat** is <span class="type sm poison"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, <span class="type sm psychic"></span>, & <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> moves.
+- **Forretress** is <span class="type sm bug"></span>/<span class="type sm steel"></span>. She's 4x more susceptible to <span class="type sm fire"></span> attacks but immune to <span class="type sm poison"></span> moves.
+- **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm water"></span> & <span class="type sm grass"></span> moves, weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm steel"></span>, & <span class="type sm ice"></span> attacks, & immune to <span class="type sm electric"></span> moves.
+- **Heracross** is <span class="type sm bug"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm flying"></span> moves & weak to <span class="type sm fire"></span>, & <span class="type sm psychic"></span> attacks. 
+- **Kabutops**, **Omastar**, & **Relicanth** are <span class="type sm rock"></span>/<span class="type sm water"></span> or <span class="type sm water"></span>/<span class="type sm rock"></span> types. They're 4x more susceptible to <span class="type sm grass"></span> moves & weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, & <span class="type sm electric"></span> attacks.
+- **Ludicolo** is <span class="type sm water"></span>/<span class="type sm grass"></span>. He's weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, & <span class="type sm bug"></span> attacks.
+- **Ninetales** is a <span class="type sm fire"></span> type. He's weak to <span class="type sm ground"></span>, <span class="type sm rock"></span>, & <span class="type sm water"></span> attacks.
+- **Pinsir** is a <span class="type sm bug"></span> type. He's weak to <span class="type sm flying"></span>, <span class="type sm rock"></span>, & <span class="type sm fire"></span> attacks.
+- **Rampardos** & **Sudowoodo** are <span class="type sm rock"></span> types. They're weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, & <span class="type sm grass"></span> attacks.
+- **Rhyperior** is <span class="type sm ground"></span>/<span class="type sm rock"></span>. Because of his ability, <span class="type sm water"></span> & <span class="type sm grass"></span> moves only deal 3x more damage instead of 4x. Furthermore, <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm steel"></span>, & <span class="type sm ice"></span> attacks only deal 1.5x damage as opposed to their usual 2x. He's immune to <span class="type sm electric"></span> moves.
+- **Sandslash** is a <span class="type sm ground"></span> type. He's weak to <span class="type sm water"></span>, <span class="type sm ice"></span>, & <span class="type sm grass"></span> attacks but immune to <span class="type sm electric"></span> moves.
+- **Shuckle** is <span class="type sm bug"></span>/<span class="type sm rock"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm steel"></span>, & <span class="type sm water"></span> attacks.
+- **Slowbro** is <span class="type sm water"></span>/<span class="type sm psychic"></span>. It's weak to <span class="type sm bug"></span>, <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, & <span class="type sm dark"></span> attacks.
+- **<span class="type sm steel"></span>ix** is <span class="type sm steel"></span>/<span class="type sm ground"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm fire"></span>, & <span class="type sm water"></span> attacks & immune to <span class="type sm poison"></span> & <span class="type sm electric"></span> moves. Additionally, the only other types he doesn't resist are <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm ice"></span>, & <span class="type sm dark"></span>. 
+- **Swampert** is <span class="type sm water"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm grass"></span> attacks & immune to <span class="type sm electric"></span> moves.
+- **Toxicroak** is <span class="type sm poison"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm psychic"></span> moves & weak to <span class="type sm ground"></span> & <span class="type sm flying"></span> attacks. Because of his Ability he takes 25% additional damage from <span class="type sm fire"></span> moves & heals a quarter of his max health when damaged by <span class="type sm water"></span> moves.
+- **Tyranitar** is <span class="type sm rock"></span>/<span class="type sm dark"></span>. He's 4x more susceptible to <span class="type sm fighting"></span> moves, weak to <span class="type sm ground"></span>, <span class="type sm bug"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, & <span class="type sm grass"></span> attacks, & immune to <span class="type sm psychic"></span> moves.
 
 <h2 id="misty">Misty</h2>
 ![Misty]({{site.url}}/assets/images/trainers/misty.gif)
@@ -151,22 +151,22 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Ampharos** is an Electric type. He's weak to Ground attacks.
-- **Carracosta** is Water/Rock. He's 4x more susceptible to Grass moves and weak to Fighting, Ground, and Electric attacks. He has four different speeds based on whether his items and ability aren't active, his item but not his ability is active, his ability but not his item is active, and his item and ability are both active in descending order.
-- **Cloyster** and **Lapras** are Water/Ice types. They're weak to Fighting, Rock, Grass, and Electric attacks.
-- **Dragonite** is Dragon/Flying. He's 4x more susceptible to Ice moves, weak to Rock and Dragon attacks, and immune to Ground moves.
-- **Floatzel** and **Milotic** are Water types. They're weak to Electric and Grass attacks. Because of her berry, the first electric attack to hit Milotic will deal half its damage.
-- **Jellicent** is Water/Ghost. She's weak to Ghost, Grass, Electric, and Dark attacks but immune to Normal and Fighting moves. Because of her Wacan Berry, the first Electric attack to hit her will deal half damage.
-- **Kingdra** is Water/Dragon. He's weak to Dragon attacks.
-- **Lanturn** is Water/Electric. She's weak to Ground and Grass attacks. Because of her Rindo Berry, the first Grass attack to hit her will deal half damage.
-- **Pelipper**, **Swanna** and **Gyarados** are Water/Flying. They're 4x more susceptible to Electric moves and weak to Rock attacks.
-- **Politoed**, **Golduck**, **Azumarill** and **Blastoise** are all Water types. They're weak to Electric and Grass attacks.
-- **Poliwrath** is a Water/Fighting type. He's weak to Flying, Grass, Electric, and Psychic moves.
-- **Quagsire** is Water/Ground. It's 4x more susceptible to Grass attacks and immune to Electric moves.
-- **Seaking** is a Water type. It's weak to Grass attacks. Because of its ability, it's immune to Electric moves. Any that hit it will raise its Sp. Atk.
-- **Starmie** is Water/Psychic. It's weak to Bug, Ghost, Grass, Electric, and Dark attacks. 
-- **Tentacruel** is Water/Poison. It's weak to Ground, Electric, and Psychic attacks.
-- **Togekiss** is Normal/Flying. He's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves.
+- **Ampharos** is an <span class="type sm electric"></span> type. He's weak to <span class="type sm ground"></span> 
+- **Carracosta** is <span class="type sm water"></span><span class="type sm rock"></span>. He's 4x more susceptible to <span class="type sm grass"></span> moves and weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm electric"></span>  He has four different speeds based on whether his items and ability aren't active, his item but not his ability is active, his ability but not his item is active, and his item and ability are both active in descending order.
+- **Cloyster** and **Lapras** are <span class="type sm water"></span>/<span class="type sm ice"></span> types. They're weak to <span class="type sm fighting"></span>, <span class="type sm rock"></span>, <span class="type sm grass"></span>, and <span class="type sm electric"></span> 
+- **Dragonite** is <span class="type sm dragon"></span>/<span class="type sm <span class="type sm flying"></span>"></span>. He's 4x more susceptible to <span class="type sm ice"></span> moves, weak to <span class="type sm rock"></span> and <span class="type sm dragon"></span> attacks, and immune to <span class="type sm ground"></span> 
+- **Floatzel** and **Milotic** are <span class="type sm water"></span> types. They're weak to <span class="type sm electric"></span> and <span class="type sm grass"></span>  Because of her berry, the first <span class="type sm electric"></span> attack to hit Milotic will deal half its damage.
+- **Jellicent** is <span class="type sm water"></span>/<span class="type sm ghost"></span>. She's weak to <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, and <span class="type sm dark"></span> attacks but immune to <span class="type sm normal"></span> and <span class="type sm fighting"></span>  Because of her Wacan Berry, the first <span class="type sm electric"></span> attack to hit her will deal half damage.
+- **Kingdra** is <span class="type sm water"></span>/<span class="type sm dragon"></span>. He's weak to <span class="type sm dragon"></span> 
+- **Lanturn** is <span class="type sm water"></span>/<span class="type sm electric"></span>. She's weak to <span class="type sm ground"></span> and <span class="type sm grass"></span>  Because of her Rindo Berry, the first <span class="type sm grass"></span> attack to hit her will deal half damage.
+- **Pelipper**, **Swanna** and **Gyarados** are <span class="type sm water"></span>/<span class="type sm flying"></span>. They're 4x more susceptible to <span class="type sm electric"></span> moves and weak to <span class="type sm rock"></span> 
+- **Politoed**, **Golduck**, **Azumarill** and **Blastoise** are all <span class="type sm water"></span> types. They're weak to <span class="type sm electric"></span> and <span class="type sm grass"></span> 
+- **Poliwrath** is a <span class="type sm water"></span>/<span class="type sm fighting"></span> type. He's weak to <span class="type sm flying"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, and <span class="type sm psychic"></span> 
+- **Quagsire** is <span class="type sm water"></span>/<span class="type sm ground"></span>. It's 4x more susceptible to <span class="type sm grass"></span> attacks and immune to <span class="type sm electric"></span> 
+- **Seaking** is a <span class="type sm water"></span> type. It's weak to <span class="type sm grass"></span>  Because of its ability, it's immune to <span class="type sm electric"></span>  Any that hit it will raise its Sp. Atk.
+- **Starmie** is <span class="type sm water"></span>/<span class="type sm psychic"></span>. It's weak to <span class="type sm bug"></span>, <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, and <span class="type sm dark"></span>  
+- **Tentacruel** is <span class="type sm water"></span>/Poison. It's weak to <span class="type sm ground"></span>, <span class="type sm electric"></span>, and <span class="type sm psychic"></span> 
+- **Togekiss** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> 
 
 <h2 id="ltsurge">Lt. Surge</h2>
 ![Lt Surge]({{site.url}}/assets/images/trainers/ltsurge.gif)
@@ -216,17 +216,17 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
     </li>
 </ol>
 
-- **Dodrio** is Normal/Flying. She's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves.
-- **Electivire**, **Jolteon**, **Ampharos**, **Manectric**, **Electrode**, **Pachirisu**, **Pikachu** and **Raichu** are Electric types. While their Air Balloons are active, they're immune to Ground attacks. After they're popped, they're weak to them.
-- **Fan Rotom** is an Electric/Flying type. It's weak to Rock and Ice attacks but immune to Ground moves.
-- **Fearow** is Normal/Flying. It's weak to Rock, Ice, and Electric attacks but immune to Ground and Ghost moves.
-- **Lanturn** is Water/Electric. She's weak to Grass attacks. While her Air Balloon is active, she's immune to Ground moves. Once it's popped, she's weak to them. 
-- **Lickilicky**, **Porygon-Z**, **Raticate** is a Normal type. It's weak to Fighting attacks but immune to Ghost moves. While its Air Balloon is active it is immune to Ground attacks. 
-- **Magnezone** is Electric/Steel. It's weak to Fighting and Fire attacks. While its Air Balloon is still active it's immune to Ground moves. After it's popped they deal 4x damage. 
-- **Politoed** is a Water type. He's weak to Grass and Electric moves.
-- **Quagsire** is Water/Ground. She's 4x more susceptible to Grass attacks but immune to Electric moves. 
-- **Tangrowth** is a Grass type. He's weak to Flying, Poison, Bug, Fire, and Ice attacks.
-- **Victreebel** is Grass/Poison. She's weak to Flying, Fire, Psychic, and Ice attacks. While her Air Balloon is active she's immune to Ground moves. After it's popped they deal normal damage.
+- **Dodrio** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. She's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> 
+- **Electivire**, **Jolteon**, **Ampharos**, **Manectric**, **Electrode**, **Pachirisu**, **Pikachu** and **Raichu** are <span class="type sm electric"></span> types. While their Air Balloons are active, they're immune to <span class="type sm ground"></span>  After they're popped, they're weak to them.
+- **Fan Rotom** is an <span class="type sm electric"></span>/<span class="type sm flying"></span> type. It's weak to <span class="type sm rock"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> 
+- **Fearow** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. It's weak to <span class="type sm rock"></span>, <span class="type sm ice"></span>, and <span class="type sm electric"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> 
+- **Lanturn** is <span class="type sm water"></span>/<span class="type sm electric"></span>. She's weak to <span class="type sm grass"></span>  While her Air Balloon is active, she's immune to <span class="type sm ground"></span>  Once it's popped, she's weak to them. 
+- **Lickilicky**, **Porygon-Z**, **Raticate** is a <span class="type sm normal"></span> type. It's weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span>  While its Air Balloon is active it is immune to <span class="type sm ground"></span>  
+- **Magnezone** is <span class="type sm electric"></span>/Steel. It's weak to <span class="type sm fighting"></span> and <span class="type sm fire"></span>  While its Air Balloon is still active it's immune to <span class="type sm ground"></span>  After it's popped they deal 4x damage. 
+- **Politoed** is a <span class="type sm water"></span> type. He's weak to <span class="type sm grass"></span> and <span class="type sm electric"></span> 
+- **Quagsire** is <span class="type sm water"></span>/<span class="type sm ground"></span>. She's 4x more susceptible to <span class="type sm grass"></span> attacks but immune to <span class="type sm electric"></span>  
+- **Tangrowth** is a <span class="type sm grass"></span> type. He's weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm bug"></span>, <span class="type sm fire"></span>, and <span class="type sm ice"></span> 
+- **Victreebel** is <span class="type sm grass"></span>/<span class="type sm poison"></span>. She's weak to <span class="type sm flying"></span>, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span>  While her Air Balloon is active she's immune to <span class="type sm ground"></span>  After it's popped they deal <span class="type sm normal"></span> damage.
 
 <h2 id="erika">Erika</h2>
 ![Erika]({{site.url}}/assets/images/trainers/erika.gif)
@@ -276,19 +276,19 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Abomasnow** is 4x more susceptible to Fire attacks and weak to Fighting, Flying, Poison, Rock, Bug, and Steel attacks.
-- **Blissey** and **Clefable** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves.
-- **Cherrim**, **Lilligant**, **Whimsicott**, **Tangrowth** and **Bellossom** are Grass types. They're weak to Flying, Poison, Bug, Fire, and Ice attacks. Because of her berry, the first Fire attack to hit Cherrim will deal half damage.
-- **Cradily** is Rock/Grass. She's weak to Fighting, Bug, Steel, and Ice attacks. 
-- **Dewgong** is Water/Ice. She's weak to Fighting, Rock, Grass, and Electric attacks.
-- **Dragonite** is Dragon/Flying. She's 4x more susceptible to Ice attacks, weak to Rock and Dragon attacks, and immune to Ground moves.
-- **Exeggutor** is a Grass/Psychic. She's 4x more susceptible to Bug attacks and weak to Flying, Poison, Ghost, Fire, Ice, and Dark attacks.
-- **Jumpluff** is a Grass/Flying. She's 4x more susceptible to Ice attacks, weak to Flying, Poison, Rock, and Fire attacks, and immune to Ground moves. 
-- **Marowak** is a Ground type. She's weak to Water, Grass, and Ice attacks but immune to Electric moves.
-- **Ninetales** is a Fire type. She's weak to Ground, Rock, and Water attacks.
-- **Parasect** is Bug/Grass. She's 4x more susceptible to Flying and Fire moves and weak to Poison, Rock, Bug, and Ice attacks. 
-- **Shiftry** is Grass/Dark. She's 4x more susceptible to Bug attacks, weak to Fighting, Flying, Poison, Fire, and Ice attacks, and immune to Psychic moves.
-- **Roserade**, **Victreebel**, **Venusaur** and **Vileplume** are Grass/Poison types. They're weak to Flying, Fire, Psychic, and Ice attacks.
+- **Abomasnow** is 4x more susceptible to Fire attacks and weak to Fighting, Flying, Poison, Rock, Bug, and Steel 
+- **Blissey** and **Clefable** is a Normal type. She's weak to Fighting attacks but immune to Ghost 
+- **Cherrim**, **Lilligant**, **Whimsicott**, **Tangrowth** and **Bellossom** are Grass types. They're weak to Flying, Poison, Bug, Fire, and Ice  Because of her berry, the first Fire attack to hit Cherrim will deal half damage.
+- **Cradily** is Rock/Grass. She's weak to Fighting, Bug, Steel, and Ice  
+- **Dewgong** is Water/Ice. She's weak to Fighting, Rock, Grass, and Electric 
+- **Dragonite** is Dragon/Flying. She's 4x more susceptible to Ice attacks, weak to Rock and Dragon attacks, and immune to Ground 
+- **Exeggutor** is a Grass/Psychic. She's 4x more susceptible to Bug attacks and weak to Flying, Poison, Ghost, Fire, Ice, and Dark 
+- **Jumpluff** is a Grass/Flying. She's 4x more susceptible to Ice attacks, weak to Flying, Poison, Rock, and Fire attacks, and immune to Ground  
+- **Marowak** is a Ground type. She's weak to Water, Grass, and Ice attacks but immune to Electric 
+- **Ninetales** is a Fire type. She's weak to Ground, Rock, and Water 
+- **Parasect** is Bug/Grass. She's 4x more susceptible to Flying and Fire moves and weak to Poison, Rock, Bug, and Ice  
+- **Shiftry** is Grass/Dark. She's 4x more susceptible to Bug attacks, weak to Fighting, Flying, Poison, Fire, and Ice attacks, and immune to Psychic 
+- **Roserade**, **Victreebel**, **Venusaur** and **Vileplume** are Grass/Poison types. They're weak to Flying, Fire, Psychic, and Ice 
 
 <h2 id="sabrina">Sabrina</h2>
 ![Sabrina]({{site.url}}/assets/images/trainers/sabrina.gif)
@@ -340,24 +340,24 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
     </li>
 </ol>
 
-- **Alakazam**, **Espeon**, **Mr. Mime**, **Wobbuffet** and **Hypno** are Psychic types. They're weak to Bug, Ghost, and Dark attacks.
-- **Exeggutor** is a Grass/Psychic. She's 4x more susceptible to Bug attacks and weak to Flying, Poison, Ghost, Fire, Ice, and Dark attacks.
-- **Furret**, **Porygon-Z**, **Snorlax**, **Wigglytuff** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves.
-- **Gallade** is Psychic/Fighting. He's weak to Flying and Ghost attacks.
-- **Gengar** is Ghost/Poison. She's weak to Ghost, Psychic, Ground, and Dark attacks but immune to Normal & Fighting moves.
-- **Golduck** is a Water type. She's weak to Grass and Electric attacks.
-- **Hitmonlee** is a Fighting type. He's weak to Flying and Psychic attacks. 
-- **Jynx** is Ice/Psychic. She's weak to Rock, Bug, Ghost, Dark, Steel, and Fire attacks.
-- **Lapras** is Water/Ice. She's weak to Fighting, Rock, Grass, and Electric attacks.
-- **Metagross** is Steel/Psychic. It's weak to Ground, Ghost, Fire, and Dark attakcs but immune to Poison moves. Additionally, only Fighting, Bug, Water, and Electric moves deal normal damage to it.
-- **Sandslash** is a Ground type. She's weak to Water, Grass, and Ice attacks but immune to Electric moves. 
-- **Scizor** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
-- **Sigilyph** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attack but immune to Ground moves.
-- **Slowbro** and **Slowking** are Water/Psychic. She's weak to Bug, Ghost, Dark, Grass, and Electric attacks.
-- **Swoobat** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attack but immune to Ground moves.
-- **Typhlosion** is a Fire type. She's weak to Ground, Rock, and Water attacks.
-- **Venomoth** is Bug/Poison. She's weak to Flying, Rock, Fire, and Psychic attacks.
-- **Xatu** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attacks but immune to Ground moves. 
+- **Alakazam**, **Espeon**, **Mr. Mime**, **Wobbuffet** and **Hypno** are Psychic types. They're weak to Bug, Ghost, and Dark 
+- **Exeggutor** is a Grass/Psychic. She's 4x more susceptible to Bug attacks and weak to Flying, Poison, Ghost, Fire, Ice, and Dark 
+- **Furret**, **Porygon-Z**, **Snorlax**, **Wigglytuff** is a Normal type. She's weak to Fighting attacks but immune to Ghost 
+- **Gallade** is Psychic/Fighting. He's weak to Flying and Ghost 
+- **Gengar** is Ghost/Poison. She's weak to Ghost, Psychic, Ground, and Dark attacks but immune to Normal & Fighting 
+- **Golduck** is a Water type. She's weak to Grass and Electric 
+- **Hitmonlee** is a Fighting type. He's weak to Flying and Psychic  
+- **Jynx** is Ice/Psychic. She's weak to Rock, Bug, Ghost, Dark, Steel, and Fire 
+- **Lapras** is Water/Ice. She's weak to Fighting, Rock, Grass, and Electric 
+- **Metagross** is Steel/Psychic. It's weak to Ground, Ghost, Fire, and Dark attakcs but immune to Poison  Additionally, only Fighting, Bug, Water, and Electric moves deal normal damage to it.
+- **Sandslash** is a Ground type. She's weak to Water, Grass, and Ice attacks but immune to Electric  
+- **Scizor** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison 
+- **Sigilyph** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attack but immune to Ground 
+- **Slowbro** and **Slowking** are Water/Psychic. She's weak to Bug, Ghost, Dark, Grass, and Electric 
+- **Swoobat** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attack but immune to Ground 
+- **Typhlosion** is a Fire type. She's weak to Ground, Rock, and Water 
+- **Venomoth** is Bug/Poison. She's weak to Flying, Rock, Fire, and Psychic 
+- **Xatu** is Psychic/Flying. She's weak to Rock, Ghost, Electric, Ice, and Dark attacks but immune to Ground  
 
 <h2 id="koga">Koga</h2>
 ![koga]({{site.url}}/assets/images/trainers/koga.gif)
@@ -409,29 +409,29 @@ Below is the possible lineup the trainer might have:
     </li>
 </ol>
 
-- **Ariados** and **Beedrill** are Bug/Poison. They're weak to Flying, Rock, Psychic, and Fire attacks.
-- **Crobat** is a Poison/Flying type. He's weak to Rock, Electric, Psychic, and Ice attacks but immune to Ground moves. 
+- **Ariados** and **Beedrill** are Bug/Poison. They're weak to Flying, Rock, Psychic, and Fire 
+- **Crobat** is a Poison/Flying type. He's weak to Rock, Electric, Psychic, and Ice attacks but immune to Ground  
 - **Ditto** is a Normal type. Because of its ability, it'll instantly transform into whichever opposing Pokémon is across from it. Its speed and type effectiveness depends on who's on your team.
-- **Drapion** is Poison/Dark. He's weak to Ground attacks but immune to Psychic moves.
-- **Electrode** is an Electric type. It's weak to Ground moves.
-- **Ferrothorn** is Grass/Steel. He's 4x more susceptible to Fire attacks, weak to Fighting attacks, and immune to Poison moves.
-- **Forretress** is Bug/Steel. It's weak to Fire attacks and immune to Poison moves.
-- **Gengar** is a Ghost/Poison type. He's weak to Ground, Ghost, Psychic, and Dark attacks but immune to Normal and Fighting moves.
-- **Gliscor** is Ground/Flying. He's 4x more susceptible to Ice attacks, weak to Water attacks, and immune to Electric and Ground moves.
-- **Hypno** is a Psychic type. He's weak to Dark, Bug, and Ghost attacks.
-- **Magmortar** is a Fire type. He's weak to Water, Ground, and Rock attacks.
-- **Muk** and **Weezing** are Poison type. They're weak to Psychic attacks.
-- **Nidoking** is Poison/Ground. He's weak to Ground, Water, Psychic, and Ice attacks but immune to Electric moves.
-- **Nidoqueen** is Poison/Ground. She's weak to Ground, Water, Psychic, and Ice attacks but immune to Electric moves.
-- **Pidgeot** is a Normal/Flying type. He's weak to Rock, Ice, and Electric attacks but immune to Ghost moves.
-- **Scizor** is Bug/Steel. He's 4x more susceptible to Fire attacks but immune to Poison moves.
-- **Scyther** is Bug/Flying. He's 4x more susceptible to Rock attacks, weak to Flying, Fire, Electric, and Ice attacks, and immune to Ground moves.
-- **Skuntank** is Poison/Dark. He's weak to Ground attacks but immune to Psychic moves.
-- **Swalot** is a Poison type. He's weak to Psychic and Ground attacks.
-- **Tentacruel** is Water/Poison. He's weak to Ground, Electric, and Psychic attacks.
-- **Toxicroak** is Poison/Fighting. He's 4x more susceptible to Psychic attacks and weak to Flying and Ground attacks. Because of his ability, he'll take an additional 25% damage from Fire attacks and will heal from Water attacks.
-- **Venomoth** is Bug/Poison. He's weak to Flying, Rock, Psychic, and Fire attacks.
-- **Zoroark** is a Dark type. He's weak to Fighting and Bug attacks but immune to Psychic moves.
+- **Drapion** is Poison/Dark. He's weak to Ground attacks but immune to Psychic 
+- **Electrode** is an Electric type. It's weak to Ground 
+- **Ferrothorn** is Grass/Steel. He's 4x more susceptible to Fire attacks, weak to Fighting attacks, and immune to Poison 
+- **Forretress** is Bug/Steel. It's weak to Fire attacks and immune to Poison 
+- **Gengar** is a Ghost/Poison type. He's weak to Ground, Ghost, Psychic, and Dark attacks but immune to Normal and Fighting 
+- **Gliscor** is Ground/Flying. He's 4x more susceptible to Ice attacks, weak to Water attacks, and immune to Electric and Ground 
+- **Hypno** is a Psychic type. He's weak to Dark, Bug, and Ghost 
+- **Magmortar** is a Fire type. He's weak to Water, Ground, and Rock 
+- **Muk** and **Weezing** are Poison type. They're weak to Psychic 
+- **Nidoking** is Poison/Ground. He's weak to Ground, Water, Psychic, and Ice attacks but immune to Electric 
+- **Nidoqueen** is Poison/Ground. She's weak to Ground, Water, Psychic, and Ice attacks but immune to Electric 
+- **Pidgeot** is a Normal/Flying type. He's weak to Rock, Ice, and Electric attacks but immune to Ghost 
+- **Scizor** is Bug/Steel. He's 4x more susceptible to Fire attacks but immune to Poison 
+- **Scyther** is Bug/Flying. He's 4x more susceptible to Rock attacks, weak to Flying, Fire, Electric, and Ice attacks, and immune to Ground 
+- **Skuntank** is Poison/Dark. He's weak to Ground attacks but immune to Psychic 
+- **Swalot** is a Poison type. He's weak to Psychic and Ground 
+- **Tentacruel** is Water/Poison. He's weak to Ground, Electric, and Psychic 
+- **Toxicroak** is Poison/Fighting. He's 4x more susceptible to Psychic attacks and weak to Flying and Ground  Because of his ability, he'll take an additional 25% damage from Fire attacks and will heal from Water 
+- **Venomoth** is Bug/Poison. He's weak to Flying, Rock, Psychic, and Fire 
+- **Zoroark** is a Dark type. He's weak to Fighting and Bug attacks but immune to Psychic 
 
 <h2 id="blaine">Blaine</h2>
 ![blaine]({{site.url}}/assets/images/trainers/blaine.gif)
@@ -480,21 +480,21 @@ This trainer is located in Cinnabar Island in Kanto. Beating this trainer will r
     </li>
 </ol>
 
-- **Arcanine**, **Rapidash**, **Flareon**, **Torkoal**, **Magmortar**, **Typhlosion** and **Ninetales** are all Fire types. They're weak to Ground, Rock, and Water attacks.
-- **Articuno** is Ice/Flying. It's 4x more susceptible to Rock attacks, weak to Steel, Fire, and Electric attacks, and immune to Ground moves.
-- **Blissey**, **Kangaskhan** and **Tauros** are Normal type. They're weak to Fighting attacks but immune to Ghost moves. 
-- **Camerupt** is Fire/Ground. He's 4x more susceptible to Water attacks, weak to Ground moves, and immune to Electric moves. 
-- **Charizard** is Fire/Flying. He's 4x more susceptible Rock attacks, weak to Water and Electric attacks, and immune to Ground moves.
-- **Dodrio** is Normal/Flying. He's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves.
-- **Electrode** is an Electric type. It's weak to Ground attacks.
-- **Golem** is Rock/Ground. He's 4x more susceptible to Water and Grass attacks, weak to Ice, Steel, Ground, and Fighting attacks, and immune to Electric moves. 
-- **Houndoom** is Dark/Fire. He's weak to Fighting, Ground, Rock, and Water attacks but immune to Psychic moves.
-- **Magcargo** is Fire/Rock. He's 4x more susceptible to Ground and Water attacks and weak to Fighting and Rock attacks. 
-- **Moltres** is Fire/Flying. It's 4x more susceptible Rock attacks, weak to Water and Electric attacks, and immune to Ground moves.
-- **Rhyperior** is Ground/Rock. He's 4x more susceptible to Water and Grass attacks, weak to Ice, Steel, Ground, and Fighting attacks, and immune to Electric moves. 
-- **Rotom** is Electric/Fire. It's weak Rock and Water attacks but immune to Ground moves.
-- **Tangrowth** is weak to Flying, Poison, Bug, Fire, and Ice attacks.
-- **Vileplume** is Grass/Poison. He's weak to Flying, Fire, Ice, and Psychic attacks.
+- **Arcanine**, **Rapidash**, **Flareon**, **Torkoal**, **Magmortar**, **Typhlosion** and **Ninetales** are all Fire types. They're weak to Ground, Rock, and Water 
+- **Articuno** is Ice/Flying. It's 4x more susceptible to Rock attacks, weak to Steel, Fire, and Electric attacks, and immune to Ground 
+- **Blissey**, **Kangaskhan** and **Tauros** are Normal type. They're weak to Fighting attacks but immune to Ghost  
+- **Camerupt** is Fire/Ground. He's 4x more susceptible to Water attacks, weak to Ground moves, and immune to Electric  
+- **Charizard** is Fire/Flying. He's 4x more susceptible Rock attacks, weak to Water and Electric attacks, and immune to Ground 
+- **Dodrio** is Normal/Flying. He's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost 
+- **Electrode** is an Electric type. It's weak to Ground 
+- **Golem** is Rock/Ground. He's 4x more susceptible to Water and Grass attacks, weak to Ice, Steel, Ground, and Fighting attacks, and immune to Electric  
+- **Houndoom** is Dark/Fire. He's weak to Fighting, Ground, Rock, and Water attacks but immune to Psychic 
+- **Magcargo** is Fire/Rock. He's 4x more susceptible to Ground and Water attacks and weak to Fighting and Rock  
+- **Moltres** is Fire/Flying. It's 4x more susceptible Rock attacks, weak to Water and Electric attacks, and immune to Ground 
+- **Rhyperior** is Ground/Rock. He's 4x more susceptible to Water and Grass attacks, weak to Ice, Steel, Ground, and Fighting attacks, and immune to Electric  
+- **Rotom** is Electric/Fire. It's weak Rock and Water attacks but immune to Ground 
+- **Tangrowth** is weak to Flying, Poison, Bug, Fire, and Ice 
+- **Vileplume** is Grass/Poison. He's weak to Flying, Fire, Ice, and Psychic 
 
 <h1 id="npc">NPC Trainer</h1>
 The NPC can be found in the route mentioned below, not all routes are mandatory but I really enjoy doing Route 13 and Route 15 (the beauties) since they pay a lot of money and are quick to do. If the name is in <span style="color:green">green</span> it means optional, only does this if you are truly desperate for cash. Again, all of them are done with Amulet Coin buff.
