@@ -82,11 +82,23 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
 </ol>
 
 ### Weakness & Immunities
-
-|Pokemon|Weakness|Immunities|
-|---|---|---|
-|Aerodactyl|<span class="type rock"></span><span class="type steel"></span><span class="type water"></span><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span>|<span class="type ground"></span>|
-|Chansey|<span class="type fighting"></span>|<span class="type ghost"></span>|
+<table class="tablelines">
+    <tr>
+        <th>Pokemon</th>
+        <th>Weakness</th>
+        <th>Immunities</th>
+    </tr>
+    <tr>
+        <td>Aerodactyl</td>
+        <td><span class="type rock"></span><span class="type steel"></span><span class="type water"></span><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span></td>
+        <td><span class="type ground"></span></td>
+    </tr>
+    <tr>
+        <td>Chansey</td>
+        <td><span class="type fighting"></span></td>
+        <td><span class="type ghost"></span></td>
+    </tr>
+</table>
 
 - **Crobat** Weakness to <span class="type rock"></span><span class="type electric"></span><span class="type psychic"></span><span class="type ice"> Immunities <span class="type ground"></span>
 - **Forretress** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
