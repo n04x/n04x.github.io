@@ -142,7 +142,7 @@ This trainer is located in Mauville City in Hoenn. Beating this trainer will rew
     <li> 
         <img title="manetric" src="{{site.url}}/assets/images/pokemon/manetric.gif" width="50"> 
         <img title="zebstrika" src="{{site.url}}/assets/images/pokemon/zebstrika.gif" width="50"> 
-        <img title="seaking" src="{{site.url}}/assets/images/pokemon/seakingseaking.gif" width="50"> 
+        <img title="seaking" src="{{site.url}}/assets/images/pokemon/seaking.gif" width="50"> 
         <img title="emolga" src="{{site.url}}/assets/images/pokemon/emolga.gif" width="50"> 
         <img title="magnezone" src="{{site.url}}/assets/images/pokemon/magnezone.gif" width="50"> 
         <img title="electivire" src="{{site.url}}/assets/images/pokemon/electivire.gif" width="50"> 
