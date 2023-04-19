@@ -191,18 +191,63 @@ This trainer is located in Mauville City in Hoenn. Beating this trainer will rew
 <h2 id="flannery">Flannery</h2>
 ![Flannery]({{site.url}}/assets/images/trainers/flannery.gif)
 
-This trainer is located in Lavaridge City in Hoenn. Beating this trainer will reward you $8,944 without Amulet coin and $13,416 with Amulet coin. Below is the possible lineup the trainer might have:
+This trainer is located in Lavaridge City in Hoenn. Beating this trainer will reward you $8,944 without Amulet coin and $13,416 with Amulet coin. Here is a map of the gym showing the way to Flannery
+
+<img title="Flannery map" src="{{site.url}}/assets/images/maps/flannery-gym.png">
+
+Below is the possible lineup the trainer might have:
 
 <ol>
     <li> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
+        <img title="torkoal" src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50"> 
+        <img title="houndoom" src="{{site.url}}/assets/images/pokemon/houndoom.gif" width="50"> 
+        <img title="typhlosion" src="{{site.url}}/assets/images/pokemon/typhlosion.gif" width="50"> 
+        <img title="blaziken" src="{{site.url}}/assets/images/pokemon/blaziken.gif" width="50"> 
+        <img title="charizard" src="{{site.url}}/assets/images/pokemon/charizard.gif" width="50"> 
+        <img title="darmanitan" src="{{site.url}}/assets/images/pokemon/darmanitan.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="torkoal" src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50"> 
+        <img title="arcanine" src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50"> 
+        <img title="rapidash" src="{{site.url}}/assets/images/pokemon/rapidash.gif" width="50"> 
+        <img title="chandelure" src="{{site.url}}/assets/images/pokemon/chandelure.gif" width="50"> 
+        <img title="flareon" src="{{site.url}}/assets/images/pokemon/flareon.gif" width="50"> 
+        <img title="houndoom" src="{{site.url}}/assets/images/pokemon/houndoom.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="torkoal" src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50"> 
+        <img title="typhlosion" src="{{site.url}}/assets/images/pokemon/typhlosion.gif" width="50"> 
+        <img title="houndoom" src="{{site.url}}/assets/images/pokemon/houndoom.gif" width="50"> 
+        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"> 
+        <img title="chandelure" src="{{site.url}}/assets/images/pokemon/chandelure.gif" width="50"> 
+        <img title="magmortar" src="{{site.url}}/assets/images/pokemon/magmortar.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="torkoal" src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50"> 
+        <img title="arcanine" src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50"> 
+        <img title="magcargo" src="{{site.url}}/assets/images/pokemon/magcargo.gif" width="50"> 
+        <img title="heat-rotom" src="{{site.url}}/assets/images/pokemon/heat-rotom.gif" width="50"> 
+        <img title="flareon" src="{{site.url}}/assets/images/pokemon/flareon.gif" width="50"> 
+        <img title="camerupt" src="{{site.url}}/assets/images/pokemon/camerupt.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="torkoal" src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50"> 
+        <img title="charizard" src="{{site.url}}/assets/images/pokemon/charizard.gif" width="50"> 
+        <img title="camerupt" src="{{site.url}}/assets/images/pokemon/camerupt.gif" width="50"> 
+        <img title="houndoom" src="{{site.url}}/assets/images/pokemon/houndoom.gif" width="50"> 
+        <img title="chandelure" src="{{site.url}}/assets/images/pokemon/chandelure.gif" width="50"> 
+        <img title="blaziken" src="{{site.url}}/assets/images/pokemon/blaziken.gif" width="50"> 
     </li>
 </ol>
+
+- **Arcanine**, **Flareon**, **Rapidash** **Torkoal**, **Ninetales**, **Magmortar**, **Typhlosion**, and **Darmanitan** are all Fire types. They're weak to Water, Ground, and Rock attacks.
+- **Houndoom** is Dark/Fire. He's weak to Fighting, Ground, Rock, and Water attacks but immune to Psychic moves.
+- **Blaziken** is Fire/Fighting. She's weak to Flying, Water, Ground, and Psychic attacks.
+- **Charizard** is Fire/Flying. She's 4x more susceptible to Rock attacks, weak to Water and Electric attacks, and immune to Ground moves. 
+- **Chandelure** is Ghost/Fire. She's weak to Dark, Ghost, Water, Rock, and Ground attacks but immune to Normal and Fighting moves.
+- **Magcargo** is Fire/Rock. She's 4x more susceptible to Ground and Water attacks and weak to Fighting and Rock attacks. Because of her Charti Berry, the first Ground move to hit her will deal 50% less damage.
+- **Heat Rotom** is Electric/Fire. It's weak to Rock and Water attacks. Due to its ability, it's immune to Ground moves. Because of its Passho Berry, the first Water move to hit it will deal 50% less damage. 
+- **Camerupt** is Fire/Ground. Because of her ability, Water attacks only deal 3x damage rather than their usual 4x. Furthermore, Ground attacks only deal 1.5x damage rather than their usual 2x. She's immune to Electric moves. 
 
 <h2 id="norman">Norman</h2>
 ![Norman]({{site.url}}/assets/images/trainers/norman.gif)
@@ -211,14 +256,51 @@ This trainer is located in Petalburg City in Hoenn. Beating this trainer will re
 
 <ol>
     <li> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
+        <img title="slaking" src="{{site.url}}/assets/images/pokemon/slaking.gif" width="50"> 
+        <img title="stantler" src="{{site.url}}/assets/images/pokemon/stantler.gif" width="50"> 
+        <img title="stoutland" src="{{site.url}}/assets/images/pokemon/stoutland.gif" width="50"> 
+        <img title="tauros" src="{{site.url}}/assets/images/pokemon/tauros.gif" width="50"> 
+        <img title="staraptor" src="{{site.url}}/assets/images/pokemon/staraptor.gif" width="50"> 
+        <img title="granbull" src="{{site.url}}/assets/images/pokemon/granbull.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="slaking" src="{{site.url}}/assets/images/pokemon/slaking.gif" width="50"> 
+        <img title="kecleon" src="{{site.url}}/assets/images/pokemon/kecleon.gif" width="50"> 
+        <img title="linoone" src="{{site.url}}/assets/images/pokemon/linoone.gif" width="50"> 
+        <img title="castform" src="{{site.url}}/assets/images/pokemon/castform.gif" width="50"> 
+        <img title="sawsbuck" src="{{site.url}}/assets/images/pokemon/sawsbuck.gif" width="50"> 
+        <img title="blissey" src="{{site.url}}/assets/images/pokemon/blissey.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="slaking" src="{{site.url}}/assets/images/pokemon/slaking.gif" width="50"> 
+        <img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"> 
+        <img title="ambipom" src="{{site.url}}/assets/images/pokemon/ambipom.gif" width="50"> 
+        <img title="exploud" src="{{site.url}}/assets/images/pokemon/exploud .gif" width="50"> 
+        <img title="bouffalant" src="{{site.url}}/assets/images/pokemon/bouffalant.gif" width="50"> 
+        <img title="kangaskhan" src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="slaking" src="{{site.url}}/assets/images/pokemon/slaking.gif" width="50"> 
+        <img title="blissey" src="{{site.url}}/assets/images/pokemon/blissey.gif" width="50"> 
+        <img title="bouffalant" src="{{site.url}}/assets/images/pokemon/bouffalant.gif" width="50"> 
+        <img title="zangoose" src="{{site.url}}/assets/images/pokemon/zangoose.gif" width="50"> 
+        <img title="tauros" src="{{site.url}}/assets/images/pokemon/tauros.gif" width="50"> 
+        <img title="sawsbuck" src="{{site.url}}/assets/images/pokemon/sawsbuck.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="slaking" src="{{site.url}}/assets/images/pokemon/slaking.gif" width="50"> 
+        <img title="spinda" src="{{site.url}}/assets/images/pokemon/spinda.gif" width="50"> 
+        <img title="kangaskhan" src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" width="50"> 
+        <img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"> 
+        <img title="staraptor" src="{{site.url}}/assets/images/pokemon/staraptor.gif" width="50"> 
+        <img title="stoutland" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
     </li>
 </ol>
+
+- **Slaking**, **Linoone**, **Spinda**, **Blissey**, **Stantler**, **Stoutland**, **Granbull**, **Bouffalant**, **Zangoose** and **Tauros** are all Normal types. They're weak to Fighting attacks and immune to Ghost moves.
+- **Staraptor** is Normal/Flying. He's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves. 
+- **Kecleon** and **Castform** start out as Normal types. They're initially weak to Fighting attacks and immune to Ghost moves. Because of their abilities, they may change their types. Kecleon will change to whatever type the move that last hit him was, gaining their resistances and weaknesses. Castform will change depending on the weather (Fire in sunshine, Water in rain, and Ice in hailstorms). You can use this chart of basic Pokémon matchups to determine what move is most effective against them. 
+**Sawsbuck** is Normal/Grass. She's weak to Fighting, Flying, Poison, Bug, Fire and Ice attacks but immune to Ghost moves. 
 
 <h2 id="winona">Winona</h2>
 ![Winona]({{site.url}}/assets/images/trainers/winona.gif)
