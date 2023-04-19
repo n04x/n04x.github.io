@@ -82,40 +82,12 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
 </ol>
 
 ### Weakness & Immunities
-<table class="tablelines">
-    <tr>
-        <th>Pokemon</th>
-        <th>Weakness</th>
-        <th>Immunities</th>
-    </tr>
-    <tr>
-        <td>142 Aerodactyl <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>
-        <td><span class="type rock"></span><span class="type steel"></span><span class="type water"></span><br><br><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span></td>
-        <td><span class="type ground"></span></td>
-    </tr>
-    <tr>
-        <td>Chansey</td>
-        <td><span class="type fighting"></span></td>
-        <td><span class="type ghost"></span></td>
-    </tr>
-    <tr>
-        <td>Crobat</td>
-        <td><span class="type rock"></span><span class="type electric"></span><span class="type psychic"></span><br><span class="type ice"></span></td>
-        <td><span class="type ground"></span></td>
-    </tr>
-    <tr>
-        <td>Forretress</td>
-        <td><span class="type fire">4x </span></td>
-        <td><span class="type poison"></span></td>
-    </tr>
-    <tr>
-        <td>Golem</td>
-        <td><span class="type water"></span>4x </span><span class="type grass"></span>4x </span><span class="type fighting"></span><br><span class="type steel"></span><span class="type ice"></span></td>
-        <td><span class="type electric"></td></span>
-    </tr>
-    
-</table>
 
+- **Aerodactyl** Weakness: <span class="type sm rock"></span><span class="type sm steel"></span><span class="type sm water"></span><span class="type sm electric"></span><span class="type sm ice"></span> and immune to <span class="type sm ground"></span>. 
+- **Chansey** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves. 
+- **Crobat** Weakness to <span class="type sm rock"></span><span class="type sm electric"></span><span class="type sm psychic"></span><span class="type ice"> Immunities <span class="type ground"></span>
+- **Forretress** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
+- **Golem** is Rock/Ground. He's 4x more susceptible to Water & Grass moves, weak to Fighting, Ground, Steel, & Ice attacks, & immune to Electric moves.
 - **Heracross** is Bug/Fighting. He's 4x more susceptible to Flying moves & weak to Fire, & Psychic attacks. 
 - **Kabutops**, **Omastar**, & **Relicanth** are Rock/Water or Water/Rock types. They're 4x more susceptible to Grass moves & weak to Fighting, Ground, & Electric attacks.
 - **Ludicolo** is Water/Grass. He's weak to Flying, Poison, & Bug attacks.
