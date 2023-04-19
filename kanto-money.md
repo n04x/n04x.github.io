@@ -89,7 +89,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         <th>Immunities</th>
     </tr>
     <tr>
-        <td>Aerodactyl <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>
+        <td>142 Aerodactyl <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>
         <td><span class="type rock"></span><span class="type steel"></span><span class="type water"></span><br><br><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span></td>
         <td><span class="type ground"></span></td>
     </tr>
@@ -111,8 +111,9 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
     <tr>
         <td>Golem</td>
         <td><span class="type water"></span>4x </span><span class="type grass"></span>4x </span><span class="type fighting"></span><br><span class="type steel"></span><span class="type ice"></span></td>
-        <td><span class="type electric"></td>
+        <td><span class="type electric"></td></span>
     </tr>
+    
 </table>
 
 - **Heracross** is Bug/Fighting. He's 4x more susceptible to Flying moves & weak to Fire, & Psychic attacks. 
