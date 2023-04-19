@@ -81,7 +81,8 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
     </li>
 </ol>
 
-- **Aerodactyl** is <span class="type rock">Rock</span>/<span class="type flying">Flying</span>. He's weak to Rock, Steel, Water, Electric, & Ice attacks but immune to Ground moves.
+### Weakness & Immunities
+- **Aerodactyl**: <br />Weakness: <span class="type rock">Rock</rock><span class="type steel">Steel</span><span class type="type water">Water</span> <span class="type electric">Electric</span> <span class="type electric">Ice</span> <br />Immunities <span class="type ground">Ground</span>
 - **Chansey** is a Normal type. She's weak to Fighting attacks but immune to Ghost moves.
 - **Crobat** is Poison/Flying. He's weak to Rock, Electric, Psychic, & Ice attacks but immune to Ground moves.
 - **Forretress** is Bug/Steel. She's 4x more susceptible to Fire attacks but immune to Poison moves.
