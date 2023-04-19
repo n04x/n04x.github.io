@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kanto region"
+title: "Hoenn region"
 permalink: /hoenn-money/
 ---
 
