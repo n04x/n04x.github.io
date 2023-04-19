@@ -89,8 +89,8 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         <th>Immunities</th>
     </tr>
     <tr>
-        <td>Aerodactyl</td>
-        <td><span class="type rock"></span><span class="type steel"></span><span class="type water"></span><br><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span></td>
+        <td>Aerodactyl <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>
+        <td><span class="type rock"></span><span class="type steel"></span><span class="type water"></span><br><br><span class="type rock"></span><span class="type electric"></span><span class="type ice"></span></td>
         <td><span class="type ground"></span></td>
     </tr>
     <tr>
@@ -100,17 +100,17 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
     </tr>
     <tr>
         <td>Crobat</td>
-        <td><span class="type rock"></span><span class="type electric"><span class="type psychic"></span><br><span class="type ice"></span></td>
+        <td><span class="type rock"></span><span class="type electric"></span><span class="type psychic"></span><br><span class="type ice"></span></td>
         <td><span class="type ground"></span></td>
     </tr>
     <tr>
         <td>Forretress</td>
-        <td><span class="type fire"> 4x</span></td>
+        <td><span class="type fire">4x </span></td>
         <td><span class="type poison"></span></td>
     </tr>
     <tr>
         <td>Golem</td>
-        <td><span class="type water"></span> 4x</span><span class="type grass"></span> 4x</span><span class="type fighting"></span><br><span class="type steel"></span><span class="type ice"></span></td>
+        <td><span class="type water"></span>4x </span><span class="type grass"></span>4x </span><span class="type fighting"></span><br><span class="type steel"></span><span class="type ice"></span></td>
         <td><span class="type electric"></td>
     </tr>
 </table>
