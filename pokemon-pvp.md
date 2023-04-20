@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Kanto region"
-permalink: /kanto-money/
+permalink: /pvp/
 ---
 
 # Team Archetypes (Playstyles):
