@@ -70,11 +70,11 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
     </li>
 </ol>
 
-- **Probopass** is Rock/Steel. She's 4x more susceptible to Fighting and Ground attacks, weak to Water attacks, and immune to Poison moves.
-- **Tyranitar** is Rock/Dark. She's 4x more susceptible to Fighting attacks, weak to Ground, Water, Bug, Steel, and Grass attacks, and immune to Psychic moves.
-- **Omastar** and Kabutops are Rock/Water. They're 4x more susceptible to Grass attacks and weak to Fighting, Ground, and Electric moves.
-- **Golem** is Rock/Ground. She's 4x more susceptible to Water and Grass attacks, weak to Ice, Steel, Ground, and Fighting attacks, and immune to Electric moves.
-- **Aerodactyl** is Rock/Flying. He's weak to Rock, Steel, Water, Electric, and Ice attacks  but immune to Ground moves. 
+- **Aerodactyl** is <span class="type sm rock"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks  but immune to <span class="type sm ground"></span> moves. 
+- **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. She's 4x more susceptible to <span class="type sm water"></span> and <span class="type sm grass"></span> attacks, weak to <span class="type sm ice"></span>, <span class="type sm steel"></span>, <span class="type sm ground"></span>, and <span class="type sm fighting"></span> attacks, and immune to <span class="type sm electric"></span> moves.
+- **Omastar** and **Kabutops** are <span class="type sm rock"></span>/<span class="type sm water"></span>. They're 4x more susceptible to <span class="type sm grass"></span> attacks and weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm electric"></span> moves.
+- **Probopass** is <span class="type sm rock"></span>/<span class="type sm steel"></span>. She's 4x more susceptible to <span class="type sm fighting"></span> and <span class="type sm ground"></span> attacks, weak to <span class="type sm water"></span> attacks, and immune to Poison moves.
+- **Tyranitar** is <span class="type sm rock"></span>/Dark. She's 4x more susceptible to <span class="type sm fighting"></span> attacks, weak to <span class="type sm ground"></span>, <span class="type sm water"></span>, Bug, <span class="type sm steel"></span>, and <span class="type sm grass"></span> attacks, and immune to <span class="type sm psychic"></span> moves.
 
 <h2 id="brawly">Brawly</h2>
 ![Brawly]({{site.url}}/assets/images/trainers/brawly.gif)
@@ -124,14 +124,14 @@ This trainer is located in Dewford City in Hoenn. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Hariyama**, **Mienshao**, **Hitmonlee**, **Hitmontop**, **Hitmonchan**, **Primeape** and **Machamp** are Fighting types. They're weak to Flying and Psychic moves.
-- **Staraptor** is Normal/Flying. He's weak to Rock, Ice, and Electric attacks.
-- **Medicham** is Psychic/Fighting. He's weak to Flying and Ghost attacks. 
-- **Breloom** is Grass/Fighting. He's 4x more susceptible to Flying and weak to Poison, Fire, Psychic, and Ice attacks.
-- **Scrafty** is Dark/Fighting. He's weak to Fighting and Flying attacks but immune to Psychic moves. 
-- **Zangoose** is a Normal type. He's weak to Fighting attacks but immune to Ghost moves.
-- **Sableye** is Dark/Ghost. He has no weaknesses and is immune to Normal, Fighting, and Psychic moves. Its ability will cause its Will-O-Wisp to gain a +1 priority.
-- **Lucario** is Fighting/Steel. He's weak to Fighting, Ground, and Fire attacks but immune to Poison moves. 
+- **Breloom** is <span class="type sm grass"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm flying"></span> and weak to Poison, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks.
+- **Hariyama**, **Mienshao**, **Hitmonlee**, **Hitmontop**, **Hitmonchan**, **Primeape** and **Machamp** are <span class="type sm fighting"></span> types. They're weak to <span class="type sm flying"></span> and <span class="type sm psychic"></span> moves.
+- **Lucario** is <span class="type sm fighting"></span>/<span class="type sm steel"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm fire"></span> attacks but immune to Poison moves. 
+- **Medicham** is <span class="type sm psychic"></span>/<span class="type sm fighting"></span>. He's weak to <span class="type sm flying"></span> and <span class="type sm ghost"></span> attacks. 
+- **Sableye** is Dark/<span class="type sm ghost"></span>. He has no weaknesses and is immune to <span class="type sm normal"></span>, <span class="type sm fighting"></span>, and <span class="type sm psychic"></span> moves. Its ability will cause its Will-O-Wisp to gain a +1 priority.
+- **Scrafty** is Dark/<span class="type sm fighting"></span>. He's weak to <span class="type sm fighting"></span> and <span class="type sm flying"></span> attacks but immune to <span class="type sm psychic"></span> moves. 
+- **Staraptor** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm ice"></span>, and <span class="type sm electric"></span> attacks.
+- **Zangoose** is a <span class="type sm normal"></span> type. He's weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span> moves.
 
 <h2 id="wattson">Wattson</h2>
 ![Wattson]({{site.url}}/assets/images/trainers/wattson.gif)
@@ -181,12 +181,12 @@ This trainer is located in Mauville City in Hoenn. Beating this trainer will rew
     </li>
 </ol>
 
-- **Manectric**, **Plusle**, **Minun**  **Jolteon**, **Pikachu**, **Pachirisu**, **Ampharos**, **Zebstrika**, and **Electivire** are Electric types. They're immune to Ground attacks until their Air Balloons are popped. Afterwards, they're weak to them.
-- **Seaking** is a Water type. He's weak to Grass attacks. Because of his ability, he's immune to Electric moves.
-- **Emolga** is Electric/Flying. He's weak to Rock and Ice attacks but immune to Ground moves.
-- **Magnezone** is Electric/Steel. It's 4x more susceptible to Ground attacks, weak to Fighting and Fire attacks, and immune to Poison moves. Additionally, only Ghost, Water, and Dark attacks deal normal damage to it. 
-- **Lanturn** is Water/Electric. He's weak to Grass attacks. He's weak to Ground attacks unless he has an active Air Balloon. 
-- **Wash Rotom** is Electric/Water. It's weak to Grass moves. Because of its ability, it's immune to Ground moves. Its item gives it a one time immunity to Water attacks.
+- **Emolga** is <span class="type sm electric"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> moves.
+- **Lanturn** is <span class="type sm water"></span>/<span class="type sm electric"></span>. He's weak to <span class="type sm grass"></span> attacks. He's weak to <span class="type sm ground"></span> attacks unless he has an active Air Balloon. 
+- **Magnezone** is <span class="type sm electric"></span>/<span class="type sm steel"></span>. It's 4x more susceptible to <span class="type sm ground"></span> attacks, weak to <span class="type sm fighting"></span> and <span class="type sm fire"></span> attacks, and immune to Poison moves. Additionally, only <span class="type sm ghost"></span>, <span class="type sm water"></span>, and Dark attacks deal <span class="type sm normal"></span> damage to it. 
+- **Manectric**, **Plusle**, **Minun**  **Jolteon**, **Pikachu**, **Pachirisu**, **Ampharos**, **Zebstrika**, and **Electivire** are <span class="type sm electric"></span> types. They're immune to <span class="type sm ground"></span> attacks until their Air Balloons are popped. Afterwards, they're weak to them.
+- **Seaking** is a <span class="type sm water"></span> type. He's weak to <span class="type sm grass"></span> attacks. Because of his ability, he's immune to <span class="type sm electric"></span> moves.
+- **Wash Rotom** is <span class="type sm electric"></span>/<span class="type sm water"></span>. It's weak to <span class="type sm grass"></span> moves. Because of its ability, it's immune to <span class="type sm ground"></span> moves. Its item gives it a one time immunity to <span class="type sm water"></span> attacks.
 
 <h2 id="flannery">Flannery</h2>
 ![Flannery]({{site.url}}/assets/images/trainers/flannery.gif)
@@ -240,14 +240,14 @@ Below is the possible lineup the trainer might have:
     </li>
 </ol>
 
-- **Arcanine**, **Flareon**, **Rapidash** **Torkoal**, **Ninetales**, **Magmortar**, **Typhlosion**, and **Darmanitan** are all Fire types. They're weak to Water, Ground, and Rock attacks.
-- **Houndoom** is Dark/Fire. He's weak to Fighting, Ground, Rock, and Water attacks but immune to Psychic moves.
-- **Blaziken** is Fire/Fighting. She's weak to Flying, Water, Ground, and Psychic attacks.
-- **Charizard** is Fire/Flying. She's 4x more susceptible to Rock attacks, weak to Water and Electric attacks, and immune to Ground moves. 
-- **Chandelure** is Ghost/Fire. She's weak to Dark, Ghost, Water, Rock, and Ground attacks but immune to Normal and Fighting moves.
-- **Magcargo** is Fire/Rock. She's 4x more susceptible to Ground and Water attacks and weak to Fighting and Rock attacks. Because of her Charti Berry, the first Ground move to hit her will deal 50% less damage.
-- **Heat Rotom** is Electric/Fire. It's weak to Rock and Water attacks. Due to its ability, it's immune to Ground moves. Because of its Passho Berry, the first Water move to hit it will deal 50% less damage. 
-- **Camerupt** is Fire/Ground. Because of her ability, Water attacks only deal 3x damage rather than their usual 4x. Furthermore, Ground attacks only deal 1.5x damage rather than their usual 2x. She's immune to Electric moves. 
+- **Arcanine**, **Flareon**, **Rapidash** **Torkoal**, **Ninetales**, **Magmortar**, **Typhlosion**, and **Darmanitan** are all <span class="type sm fire"></span> types. They're weak to <span class="type sm water"></span>, <span class="type sm ground"></span>, and <span class="type sm rock"></span> attacks.
+- **Blaziken** is <span class="type sm fire"></span>/<span class="type sm fighting"></span>. She's weak to <span class="type sm flying"></span>, <span class="type sm water"></span>, <span class="type sm ground"></span>, and <span class="type sm psychic"></span> attacks.
+- **Camerupt** is <span class="type sm fire"></span>/<span class="type sm ground"></span>. Because of her ability, <span class="type sm water"></span> attacks only deal 3x damage rather than their usual 4x. Furthermore, <span class="type sm ground"></span> attacks only deal 1.5x damage rather than their usual 2x. She's immune to <span class="type sm electric"></span> moves. 
+- **Chandelure** is <span class="type sm ghost"></span>/<span class="type sm fire"></span>. She's weak to Dark, <span class="type sm ghost"></span>, <span class="type sm water"></span>, <span class="type sm rock"></span>, and <span class="type sm ground"></span> attacks but immune to <span class="type sm normal"></span> and <span class="type sm fighting"></span> moves.
+- **Charizard** is <span class="type sm fire"></span>/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm rock"></span> attacks, weak to <span class="type sm water"></span> and <span class="type sm electric"></span> attacks, and immune to <span class="type sm ground"></span> moves. 
+- **Heat Rotom** is <span class="type sm electric"></span>/<span class="type sm fire"></span>. It's weak to <span class="type sm rock"></span> and <span class="type sm water"></span> attacks. Due to its ability, it's immune to <span class="type sm ground"></span> moves. Because of its Passho Berry, the first <span class="type sm water"></span> move to hit it will deal 50% less damage. 
+- **Houndoom** is Dark/<span class="type sm fire"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm rock"></span>, and <span class="type sm water"></span> attacks but immune to <span class="type sm psychic"></span> moves.
+- **Magcargo** is <span class="type sm fire"></span>/<span class="type sm rock"></span>. She's 4x more susceptible to <span class="type sm ground"></span> and <span class="type sm water"></span> attacks and weak to <span class="type sm fighting"></span> and <span class="type sm rock"></span> attacks. Because of her Charti Berry, the first <span class="type sm ground"></span> move to hit her will deal 50% less damage.
 
 <h2 id="norman">Norman</h2>
 ![Norman]({{site.url}}/assets/images/trainers/norman.gif)
@@ -297,10 +297,10 @@ This trainer is located in Petalburg City in Hoenn. Beating this trainer will re
     </li>
 </ol>
 
-- **Slaking**, **Linoone**, **Spinda**, **Blissey**, **Stantler**, **Stoutland**, **Granbull**, **Bouffalant**, **Zangoose** and **Tauros** are all Normal types. They're weak to Fighting attacks and immune to Ghost moves.
-- **Staraptor** is Normal/Flying. He's weak to Rock, Electric, and Ice attacks but immune to Ground and Ghost moves. 
-- **Kecleon** and **Castform** start out as Normal types. They're initially weak to Fighting attacks and immune to Ghost moves. Because of their abilities, they may change their types. Kecleon will change to whatever type the move that last hit him was, gaining their resistances and weaknesses. Castform will change depending on the weather (Fire in sunshine, Water in rain, and Ice in hailstorms). You can use this chart of basic Pokémon matchups to determine what move is most effective against them. 
-**Sawsbuck** is Normal/Grass. She's weak to Fighting, Flying, Poison, Bug, Fire and Ice attacks but immune to Ghost moves. 
+**Sawsbuck** is <span class="type sm normal"></span>/<span class="type sm grass"></span>. She's weak to <span class="type sm fighting"></span>, <span class="type sm flying"></span>, Poison, Bug, <span class="type sm fire"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ghost"></span> moves. 
+- **Kecleon** and **Castform** start out as <span class="type sm normal"></span> types. They're initially weak to <span class="type sm fighting"></span> attacks and immune to <span class="type sm ghost"></span> moves. Because of their abilities, they may change their types. Kecleon will change to whatever type the move that last hit him was, gaining their resistances and weaknesses. Castform will change depending on the weather (<span class="type sm fire"></span> in sunshine, <span class="type sm water"></span> in rain, and <span class="type sm ice"></span> in hailstorms). You can use this chart of basic Pokémon matchups to determine what move is most effective against them. 
+- **Slaking**, **Linoone**, **Spinda**, **Blissey**, **Stantler**, **Stoutland**, **Granbull**, **Bouffalant**, **Zangoose** and **Tauros** are all <span class="type sm normal"></span> types. They're weak to <span class="type sm fighting"></span> attacks and immune to <span class="type sm ghost"></span> moves.
+- **Staraptor** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> moves. 
 
 <h2 id="winona">Winona</h2>
 ![Winona]({{site.url}}/assets/images/trainers/winona.gif)
@@ -355,4 +355,4 @@ Big thanks to **Redacted** for his Kanto Gym Leader Rematches guide, link to it 
 
 Big thanks to **Stagiie** for his Money NPC Rematches guide, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/69442-money-guide-npc-re-match-guide/)
 
-Big thanks to Bestfriends for his In-depth money making guide with multiple method that allows me to personalize it for my needs, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/106650-in-depth-money-making-guide-multiple-methods-2nd-edition/)
+Big thanks to **Bestfriends** for his In-depth money making guide with multiple method that allows me to personalize it for my needs, link to it can be found [here](https://forums.pokemmo.com/index.php?/topic/106650-in-depth-money-making-guide-multiple-methods-2nd-edition/)
