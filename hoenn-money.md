@@ -73,8 +73,8 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
 - **Aerodactyl** is <span class="type sm rock"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks  but immune to <span class="type sm ground"></span> moves. 
 - **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. She's 4x more susceptible to <span class="type sm water"></span> and <span class="type sm grass"></span> attacks, weak to <span class="type sm ice"></span>, <span class="type sm steel"></span>, <span class="type sm ground"></span>, and <span class="type sm fighting"></span> attacks, and immune to <span class="type sm electric"></span> moves.
 - **Omastar** and **Kabutops** are <span class="type sm rock"></span>/<span class="type sm water"></span>. They're 4x more susceptible to <span class="type sm grass"></span> attacks and weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm electric"></span> moves.
-- **Probopass** is <span class="type sm rock"></span>/<span class="type sm steel"></span>. She's 4x more susceptible to <span class="type sm fighting"></span> and <span class="type sm ground"></span> attacks, weak to <span class="type sm water"></span> attacks, and immune to Poison moves.
-- **Tyranitar** is <span class="type sm rock"></span>/Dark. She's 4x more susceptible to <span class="type sm fighting"></span> attacks, weak to <span class="type sm ground"></span>, <span class="type sm water"></span>, Bug, <span class="type sm steel"></span>, and <span class="type sm grass"></span> attacks, and immune to <span class="type sm psychic"></span> moves.
+- **Probopass** is <span class="type sm rock"></span>/<span class="type sm steel"></span>. She's 4x more susceptible to <span class="type sm fighting"></span> and <span class="type sm ground"></span> attacks, weak to <span class="type sm water"></span> attacks, and immune to <span class="type sm poison"> moves.
+- **Tyranitar** is <span class="type sm rock"></span>/Dark. She's 4x more susceptible to <span class="type sm fighting"></span> attacks, weak to <span class="type sm ground"></span>, <span class="type sm water"></span>, <span class="type sm bug">, <span class="type sm steel"></span>, and <span class="type sm grass"></span> attacks, and immune to <span class="type sm psychic"></span> moves.
 
 <h2 id="brawly">Brawly</h2>
 ![Brawly]({{site.url}}/assets/images/trainers/brawly.gif)
@@ -124,9 +124,9 @@ This trainer is located in Dewford City in Hoenn. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Breloom** is <span class="type sm grass"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm flying"></span> and weak to Poison, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks.
+- **Breloom** is <span class="type sm grass"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm flying"></span> and weak to <span class="type sm poison">, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks.
 - **Hariyama**, **Mienshao**, **Hitmonlee**, **Hitmontop**, **Hitmonchan**, **Primeape** and **Machamp** are <span class="type sm fighting"></span> types. They're weak to <span class="type sm flying"></span> and <span class="type sm psychic"></span> moves.
-- **Lucario** is <span class="type sm fighting"></span>/<span class="type sm steel"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm fire"></span> attacks but immune to Poison moves. 
+- **Lucario** is <span class="type sm fighting"></span>/<span class="type sm steel"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm fire"></span> attacks but immune to <span class="type sm poison"> moves. 
 - **Medicham** is <span class="type sm psychic"></span>/<span class="type sm fighting"></span>. He's weak to <span class="type sm flying"></span> and <span class="type sm ghost"></span> attacks. 
 - **Sableye** is Dark/<span class="type sm ghost"></span>. He has no weaknesses and is immune to <span class="type sm normal"></span>, <span class="type sm fighting"></span>, and <span class="type sm psychic"></span> moves. Its ability will cause its Will-O-Wisp to gain a +1 priority.
 - **Scrafty** is Dark/<span class="type sm fighting"></span>. He's weak to <span class="type sm fighting"></span> and <span class="type sm flying"></span> attacks but immune to <span class="type sm psychic"></span> moves. 
@@ -183,7 +183,7 @@ This trainer is located in Mauville City in Hoenn. Beating this trainer will rew
 
 - **Emolga** is <span class="type sm electric"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> moves.
 - **Lanturn** is <span class="type sm water"></span>/<span class="type sm electric"></span>. He's weak to <span class="type sm grass"></span> attacks. He's weak to <span class="type sm ground"></span> attacks unless he has an active Air Balloon. 
-- **Magnezone** is <span class="type sm electric"></span>/<span class="type sm steel"></span>. It's 4x more susceptible to <span class="type sm ground"></span> attacks, weak to <span class="type sm fighting"></span> and <span class="type sm fire"></span> attacks, and immune to Poison moves. Additionally, only <span class="type sm ghost"></span>, <span class="type sm water"></span>, and Dark attacks deal <span class="type sm normal"></span> damage to it. 
+- **Magnezone** is <span class="type sm electric"></span>/<span class="type sm steel"></span>. It's 4x more susceptible to <span class="type sm ground"></span> attacks, weak to <span class="type sm fighting"></span> and <span class="type sm fire"></span> attacks, and immune to <span class="type sm poison"> moves. Additionally, only <span class="type sm ghost"></span>, <span class="type sm water"></span>, and Dark attacks deal <span class="type sm normal"></span> damage to it. 
 - **Manectric**, **Plusle**, **Minun**  **Jolteon**, **Pikachu**, **Pachirisu**, **Ampharos**, **Zebstrika**, and **Electivire** are <span class="type sm electric"></span> types. They're immune to <span class="type sm ground"></span> attacks until their Air Balloons are popped. Afterwards, they're weak to them.
 - **Seaking** is a <span class="type sm water"></span> type. He's weak to <span class="type sm grass"></span> attacks. Because of his ability, he's immune to <span class="type sm electric"></span> moves.
 - **Wash Rotom** is <span class="type sm electric"></span>/<span class="type sm water"></span>. It's weak to <span class="type sm grass"></span> moves. Because of its ability, it's immune to <span class="type sm ground"></span> moves. Its item gives it a one time immunity to <span class="type sm water"></span> attacks.
@@ -275,7 +275,7 @@ This trainer is located in Petalburg City in Hoenn. Beating this trainer will re
         <img title="slaking" src="{{site.url}}/assets/images/pokemon/slaking.gif" width="50"> 
         <img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"> 
         <img title="ambipom" src="{{site.url}}/assets/images/pokemon/ambipom.gif" width="50"> 
-        <img title="exploud" src="{{site.url}}/assets/images/pokemon/exploud .gif" width="50"> 
+        <img title="exploud" src="{{site.url}}/assets/images/pokemon/exploud.gif" width="50"> 
         <img title="bouffalant" src="{{site.url}}/assets/images/pokemon/bouffalant.gif" width="50"> 
         <img title="kangaskhan" src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" width="50"> 
     </li>
@@ -293,11 +293,11 @@ This trainer is located in Petalburg City in Hoenn. Beating this trainer will re
         <img title="kangaskhan" src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" width="50"> 
         <img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"> 
         <img title="staraptor" src="{{site.url}}/assets/images/pokemon/staraptor.gif" width="50"> 
-        <img title="stoutland" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
+        <img title="stoutland" src="{{site.url}}/assets/images/pokemon/stoutland.gif" width="50"> 
     </li>
 </ol>
 
-**Sawsbuck** is <span class="type sm normal"></span>/<span class="type sm grass"></span>. She's weak to <span class="type sm fighting"></span>, <span class="type sm flying"></span>, Poison, Bug, <span class="type sm fire"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ghost"></span> moves. 
+- **Sawsbuck** is <span class="type sm normal"></span>/<span class="type sm grass"></span>. She's weak to <span class="type sm fighting"></span>, <span class="type sm flying"></span>, <span class="type sm poison">, <span class="type sm bug">, <span class="type sm fire"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ghost"></span> moves. 
 - **Kecleon** and **Castform** start out as <span class="type sm normal"></span> types. They're initially weak to <span class="type sm fighting"></span> attacks and immune to <span class="type sm ghost"></span> moves. Because of their abilities, they may change their types. Kecleon will change to whatever type the move that last hit him was, gaining their resistances and weaknesses. Castform will change depending on the weather (<span class="type sm fire"></span> in sunshine, <span class="type sm water"></span> in rain, and <span class="type sm ice"></span> in hailstorms). You can use this chart of basic Pokémon matchups to determine what move is most effective against them. 
 - **Slaking**, **Linoone**, **Spinda**, **Blissey**, **Stantler**, **Stoutland**, **Granbull**, **Bouffalant**, **Zangoose** and **Tauros** are all <span class="type sm normal"></span> types. They're weak to <span class="type sm fighting"></span> attacks and immune to <span class="type sm ghost"></span> moves.
 - **Staraptor** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> moves. 
@@ -309,14 +309,57 @@ This trainer is located in Fortree City in Hoenn. Beating this trainer will rewa
 
 <ol>
     <li> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
-        <img title="" src="{{site.url}}/assets/images/pokemon/.gif" width="50"> 
+        <img title="masquerain" src="{{site.url}}/assets/images/pokemon/masquerain.gif" width="50"> 
+        <img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" width="50"> 
+        <img title="honchkrow" src="{{site.url}}/assets/images/pokemon/honchkrow.gif" width="50"> 
+        <img title="noctowl" src="{{site.url}}/assets/images/pokemon/noctowl.gif" width="50"> 
+        <img title="skarmory" src="{{site.url}}/assets/images/pokemon/skarmory.gif" width="50"> 
+        <img title="altaria" src="{{site.url}}/assets/images/pokemon/altaria.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="skarmory" src="{{site.url}}/assets/images/pokemon/skarmory.gif" width="50"> 
+        <img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" width="50"> 
+        <img title="sigilyph" src="{{site.url}}/assets/images/pokemon/sigilyph.gif" width="50"> 
+        <img title="honchkrow" src="{{site.url}}/assets/images/pokemon/honchkrow.gif" width="50"> 
+        <img title="masquerain" src="{{site.url}}/assets/images/pokemon/masquerain.gif" width="50"> 
+        <img title="altaria" src="{{site.url}}/assets/images/pokemon/altaria.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="altaria" src="{{site.url}}/assets/images/pokemon/altaria.gif" width="50"> 
+        <img title="swellow" src="{{site.url}}/assets/images/pokemon/swellow.gif" width="50"> 
+        <img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" width="50"> 
+        <img title="honchkrow" src="{{site.url}}/assets/images/pokemon/honchkrow.gif" width="50"> 
+        <img title="tropius" src="{{site.url}}/assets/images/pokemon/tropius.gif" width="50"> 
+        <img title="masquerain" src="{{site.url}}/assets/images/pokemon/masquerain.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="swellow" src="{{site.url}}/assets/images/pokemon/swellow.gif" width="50"> 
+        <img title="tropius" src="{{site.url}}/assets/images/pokemon/tropius.gif" width="50"> 
+        <img title="beautifly" src="{{site.url}}/assets/images/pokemon/beautifly.gif" width="50"> 
+        <img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif" width="50"> 
+        <img title="sigilyph" src="{{site.url}}/assets/images/pokemon/sigilyph.gif" width="50"> 
+        <img title="altaria" src="{{site.url}}/assets/images/pokemon/altaria.gif" width="50"> 
+    </li>
+    <li> 
+        <img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" width="50"> 
+        <img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif" width="50"> 
+        <img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" width="50"> 
+        <img title="honchkrow" src="{{site.url}}/assets/images/pokemon/honchkrow.gif" width="50"> 
+        <img title="noctowl" src="{{site.url}}/assets/images/pokemon/noctowl.gif" width="50"> 
+        <img title="altaria" src="{{site.url}}/assets/images/pokemon/altaria.gif" width="50"> 
     </li>
 </ol>
+
+- **Altaria** and **Dragonite** are <span class="type sm dragon"></span>/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm ice"></span> attacks, weak to <span class="type sm rock"></span> and <span class="type sm dragon"></span> attacks, and immune to <span class="type sm ground"></span> moves. 
+- **Beautifly** is Bug/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm rock"></span> attacks, weak to <span class="type sm flying"></span>, <span class="type sm fire"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks, and immune to <span class="type sm ground"></span> moves.
+- **Honchkrow** is Dark/<span class="type sm flying"></span>. She's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm psychic"></span> moves.
+- **Masquerain** is Bug/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm rock"></span>, weak to <span class="type sm flying"></span>, <span class="type sm fire"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span>, and immune to <span class="type sm ground"></span> moves.
+- **Noctowl** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> moves.
+- **Pelipper** and **Gyarados** are <span class="type sm water"></span>/<span class="type sm flying"></span>. They're 4x more susceptible to <span class="type sm electric"></span> attacks & weak to <span class="type sm rock"></span> attacks.
+- **Sigilyph** is <span class="type sm psychic"></span>/<span class="type sm flying"></span>. She's weak to <span class="type sm rock"></span>, <span class="type sm ghost"></span>, <span class="type sm electric"></span>, <span class="type sm ice"></span>, and Dark attacks but immune to <span class="type sm ground"></span> moves. 
+- **Skarmory** is Steel/<span class="type sm flying"></span>. She's weak to <span class="type sm fire"></span> and <span class="type sm electric"></span> attacks but immune to <span class="type sm poison"></span> and <span class="type sm ground"></span> moves.
+- **Swellow** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. She's weak to <span class="type sm electric"></span>, <span class="type sm ice"></span>, and <span class="type sm rock"></span> attacks but immune to <span class="type sm ghost"></span> and <span class="type sm ground"></span> moves.
+- **Tropius** is Grass/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm ice"></span> attacks, weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm rock"></span>, and <span class="type sm fire"></span> attacks, and immune to <span class="type sm ground"></span> moves.
 
 <h2 id="tateandliza">Tate and Liza</h2>
 ![Tate]({{site.url}}/assets/images/trainers/tate.gif) ![Liza]({{site.url}}/assets/images/trainers/liza.gif)
