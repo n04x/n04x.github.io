@@ -361,7 +361,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
             <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png" > </td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type rock"></span></td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> and <span class="type electric"></span> </td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span> </td>
             <td>Earthquake, Stone Edge, Aqua Tail, Superpower </td>
         </tr>
         <tr>
@@ -369,7 +369,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" > </td>
             <td>Skill Link</td>
             <td><span class="type water"></span><span class="type ice"></span></td>
-            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <span class="type electric"></span> </td>
+            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <br /><span class="type electric"></span> </td>
             <td>Icicle Spear, Rock Blast, Razor Shell, Shell Smash </td>
         </tr>
         <tr>
@@ -409,7 +409,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
             <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" > </td>
             <td>Water Absorb </td>
             <td><span class="type water"></span><span class="type ghost"></span> </td>
-            <td><span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type dark"></span></td>
+            <td><span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <br /><span class="type dark"></span></td>
             <td>Shadow Ball, Scald, Giga Drain, Recover </td>
         </tr>
         <tr>
@@ -433,7 +433,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Hydration </td>
             <td><span class="type water"></span><span class="type ice"></span> </td>
-            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <span class="type electric"></span> </td>
+            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <br /><span class="type electric"></span> </td>
             <td>Hydro Pump, Thunder, Ice Beam, Rest </td>
         </tr>
         <tr>
@@ -489,7 +489,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
             <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png" >/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" >/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Analytic </td>
             <td><span class="type water"></span><span class="type psychic"></span> </td>
-            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type dark"></span> </td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <br /><span class="type electric"></span> <span class="type dark"></span> </td>
             <td> Thunder, Psyshock, Ice Beam, Hydro Pump, Scald </td>
         </tr>
         <tr>
@@ -728,7 +728,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="grass-gem" src="{{site.url}}/assets/images/items/grass-gem.png"></td>
             <td>Regenerator</td>
             <td><span class="type grass"></span> </td>
-            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <span class="type fire"></span> <span class="type ice"></span> </td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <br /><span class="type fire"></span> <span class="type ice"></span> </td>
             <td>Power Whip, Reflect, Sleep Powder, Morning Sun </td>
         </tr>
         <tr>
@@ -790,19 +790,188 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Abomasnow** is 4x more susceptible to <span class="type sm fire"></span> attacks and weak to <span class="type sm fighting"></span>, <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm rock"></span>, <span class="type sm bug"></span>, and <span class="type sm steel"></span> 
-- **Blissey** and **Clefable** is a <span class="type sm normal"></span> type. She's weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span> 
-- **Cherrim**, **Lilligant**, **Whimsicott**, **Tangrowth** and **Bellossom** are <span class="type sm grass"></span> types. They're weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm bug"></span>, <span class="type sm fire"></span>, and <span class="type sm ice"></span>  Because of her berry, the first <span class="type sm fire"></span> attack to hit Cherrim will deal half damage.
-- **Cradily** is <span class="type sm rock"></span>/<span class="type sm grass"></span>. She's weak to <span class="type sm fighting"></span>, <span class="type sm bug"></span>, <span class="type sm steel"></span>, and <span class="type sm ice"></span>  
-- **Dewgong** is <span class="type sm water"></span>/<span class="type sm ice"></span>. She's weak to <span class="type sm fighting"></span>, <span class="type sm rock"></span>, <span class="type sm grass"></span>, and <span class="type sm electric"></span> 
-- **Dragonite** is <span class="type sm dragon"></span>/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm ice"></span> attacks, weak to <span class="type sm rock"></span> and <span class="type sm dragon"></span> attacks, and immune to <span class="type sm ground"></span> 
-- **Exeggutor** is a <span class="type sm grass"></span>/<span class="type sm psychic"></span>. She's 4x more susceptible to <span class="type sm bug"></span> attacks and weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm ghost"></span>, <span class="type sm fire"></span>, <span class="type sm ice"></span>, and <span class="type sm dark"></span> 
-- **Jumpluff** is a <span class="type sm grass"></span>/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm ice"></span> attacks, weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm rock"></span>, and <span class="type sm fire"></span> attacks, and immune to <span class="type sm ground"></span>  
-- **Marowak** is a <span class="type sm ground"></span> type. She's weak to <span class="type sm water"></span>, <span class="type sm grass"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm electric"></span> 
-- **Ninetales** is a <span class="type sm fire"></span> type. She's weak to <span class="type sm ground"></span>, <span class="type sm rock"></span>, and <span class="type sm water"></span> 
-- **Parasect** is <span class="type sm bug"></span>/<span class="type sm grass"></span>. She's 4x more susceptible to <span class="type sm flying"></span> and <span class="type sm fire"></span> moves and weak to <span class="type sm poison"></span>, <span class="type sm rock"></span>, <span class="type sm bug"></span>, and <span class="type sm ice"></span>  
-- **Shiftry** is <span class="type sm grass"></span>/<span class="type sm dark"></span>. She's 4x more susceptible to <span class="type sm bug"></span> attacks, weak to <span class="type sm fighting"></span>, <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm fire"></span>, and <span class="type sm ice"></span> attacks, and immune to <span class="type sm psychic"></span> 
-- **Roserade**, **Victreebel**, **Venusaur** and **Vileplume** are <span class="type sm grass"></span>/<span class="type sm poison"></span> types. They're weak to <span class="type sm flying"></span>, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> 
+<table class="tablelines">
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="abomasnow" src="{{site.url}}/assets/images/pokemon/abomasnow.gif"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Soundproof</td>
+            <td><span class="type grass"></span><span class="type ice"></span></td>
+            <td><span class="type fire">4x </span> <span class="type fighting"></span> <span class="type flying"></span> <br /><span class="type poison"></span> <span class="type rock"></span> <span class="type bug"></span> <br /><span class="type steel"></span></td>
+            <td>Rock Slide, Ice Punch, Wood Hammer, Swords Dance</td>
+        </tr>
+        <tr>
+            <td><img title="bellossom" src="{{site.url}}/assets/images/pokemon/bellossom.gif"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span></td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <br /><span class="type fire"></span> <span class="type ice"></span></td>
+            <td>Solar Beam, Hyper Beam, Hidden Power (Fire), Sleep Powder</td>
+        </tr>
+        <tr>
+            <td><img title="blissey" src="{{site.url}}/assets/images/pokemon/blissey.gif"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Healer</td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
+            <td>Ice Beam, Fire Blast, Light Screen, Soft-Boiled</td>
+        </tr>
+        <tr>
+            <td><img title="cherrim-d" src="{{site.url}}/assets/images/pokemon/cherrim-d.gif"></td>
+            <td><img title="occa-berry" src="{{site.url}}/assets/images/items/occa-berry.png"></td>
+            <td>Flower Gift</td>
+            <td><span class="type grass"></span></td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <br /><span class="type fire"></span> <span class="type ice"></span></td>
+            <td>Weather Ball, Solar Beam, Morning Sun, Helping Hand, Heal Pulse</td>
+        </tr>
+        <tr>
+            <td><img title="clefable" src="{{site.url}}/assets/images/pokemon/clefable.gif"></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/itemsred-card.png"></td>
+            <td>Unaware</td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
+            <td>Hyper Voice, Flamethrower, Moonlight, Helping Hand</td>
+        </tr>
+        <tr>
+            <td><img title="cradily" src="{{site.url}}/assets/images/pokemon/cradily.gif"></td>
+            <td><img title="chesto-berry" src="{{site.url}}/assets/images/items/chesto-berry.png"></td>
+            <td>Storm Drain</td>
+            <td><span class="type rock"></span>/<span class="type grass"></td>
+            <td><span class="type fighting"></span> <span class="type bug"></span> <span class="type steel"></span> <br /><span class="type ice"></span></td>
+            <td>Stone Edge, Solar Beam, Barrier, Synthesis</td>
+        </tr>
+        <tr>
+            <td><img title="dewgong" src="{{site.url}}/assets/images/pokemon/dewgong.gif"></td>
+            <td><img title="occa-berry" src="{{site.url}}/assets/images/items/occa-berry.png"></td>
+            <td>Thick Fat</td>
+            <td><span class="type water"></span>/<span class="type ice"></span></td>
+            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <br /><span class="type electric"></span> </td>
+            <td>Fake Out, Aqua Tail, Ice Beam, Rest</td>
+        </tr>
+        <tr>
+            <td><img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif"></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Multiscale</td>
+            <td><span class="type dragon"></span>/<span class="type flying"></span></td>
+            <td><span class="type ice">4x </span> <span class="type rock"></span> <span class="type dragon"></span></td>
+            <td>Extreme Speed, Stone Edge, Extreme Speed, Fire Punch</td>
+        </tr>
+        <tr>
+            <td><img title="exeggutor" src="{{site.url}}/assets/images/pokemon/exeggutor.gif"></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span>/<span class="type psychic"></span></td>
+            <td><span class="type bug">4x </span> <span class="type flying"></span> <span class="type poison"></span> <br /><span class="type ghost"></span> <span class="type fire"></span> <span class="type ice"></span> <br /><span class="type dark"></span></td>
+            <td>Ancient Power, Psychic, Solar Beam, Hidden Power (Ice)</td>
+        </tr>
+        <tr>
+            <td><img title="jumpluff" src="{{site.url}}/assets/images/pokemon/jumpluff.gif"></td>
+            <td><img title="flying-gem" src="{{site.url}}/assets/images/itemsflying-gem.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span>/<span class="type flying"></span></td>
+            <td><span class="type ice">4x </span> <span class="type flying"></span> <span class="type poison"></span> <br /><span class="type rock"></span> <span class="type fire"></span></td>
+            <td>Acrobatics, Seed Bomb, Swords Dance, Sleep Powder</td>
+        </tr>
+        <tr>
+            <td><img title="lilligant" src="{{site.url}}/assets/images/pokemon/lilligant.gif"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span></td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <br /><span class="type fire"></span> <span class="type ice"></span></td>
+            <td>Hidden Power (Ice), Solar Beam, Growth, Sleep Powder</td>
+        </tr>
+        <tr>
+            <td><img title="marowak" src="{{site.url}}/assets/images/pokemon/marowak.gif"></td>
+            <td><img title="thick-club" src="{{site.url}}/assets/images/items/thick-club.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type ground"></span></td>
+            <td><span class="type water"></span> <span class="type grass"></span> <span class="type ice"></span></td>
+            <td>Fire Punch, Bonemerang, Rock Slide, Low Kick</td>
+        </tr>
+        <tr>
+            <td><img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif"></td>
+            <td><img title="heat-rock" src="{{site.url}}/assets/images/items/heat-rock.png"></td>
+            <td>Drought</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
+            <td> Hidden Power (Rock), Flamethrower, Psyshock, Solar Beam, Heat Wave,  Hidden Power (Ice), Flare Blitz, Iron Tail, Zen Headbutt, Will-O-Wisp, Foul Play, Fire Blast</td>
+        </tr>
+        <tr>
+            <td><img title="parasect" src="{{site.url}}/assets/images/pokemon/parasect.gif"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Effect Spore</td>
+            <td><span class="type bug"></span>/<span class="type grass"></span></td>
+            <td><span class="type flying">4x </span> <span class="type fire">4x </span> <span class="type poison"></span> <br /><span class="type rock"></span> <span class="type bug"></span> <span class="type ice"></span></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><img title="roserade" src="{{site.url}}/assets/images/pokemon/roserade.gif"></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Poison Point</td>
+            <td><span class="type grass"></span>/<span class="type poison"></span></td>
+            <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td>Solar Beam, Sludge Bomb, Weather Ball, Extrasensory</td>
+        </tr>
+        <tr>
+            <td><img title="shiftry" src="{{site.url}}/assets/images/pokemon/shiftry.gif"></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span>/<span class="type dark"></span></td>
+            <td><span class="type bug">4x </span> <span class="type fighting"></span> <span class="type flying"></span> <br /><span class="type poison"></span> <span class="type fire"></span> <span class="type ice"></span></td>
+            <td>Rock Slide, Leaf Blade, Sucker Punch, Aerial Ace</td>
+        </tr>
+        <tr>
+            <td><img title="tangrowth" src="{{site.url}}/assets/images/pokemon/tangrowth.gif"></td>
+            <td><img title="occa-berry" src="{{site.url}}/assets/images/items/occa-berry.png"></td>
+            <td>Regenerator</td>
+            <td><span class="type grass"></span></td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <br /><span class="type fire"></span> <span class="type ice"></span></td>
+            <td>Giga Drain, Hidden Power(Rock), Reflect, Rage Powder</td>
+        </tr>
+        <tr>
+            <td><img title="venusaur" src="{{site.url}}/assets/images/pokemon/venusaur.gif"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td></td>
+            <td><span class="type grass"></span>/<span class="type poison"></span></td>
+            <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td> Solar Beam, Weather Ball, Hidden Power (Ice), Sludge Bomb, Hidden Power (Rock)</td>
+        </tr>
+        <tr>
+            <td><img title="victreebel" src="{{site.url}}/assets/images/pokemon/victreebel.gif"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td></td>
+            <td><span class="type grass"></span>/<span class="type poison"></span></td>
+            <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td>Hidden Power (Ice), Solar Beam, Weather Ball, Sludge Bomb</td>
+        </tr>
+        <tr>
+            <td><img title="vileplume" src="{{site.url}}/assets/images/pokemon/vileplume.gif"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td></td>
+            <td><span class="type grass"></span>/<span class="type poison"></span></td>
+            <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td>Sludge Bomb, Hidden Power (Ice), Solar Beam, Synthesis, Hidden Power (Rock), Giga Drain, Hidden Power (Ground), Growth, Hidden Power(Fire), Sleep Powder</td>
+        </tr>
+        <tr>
+            <td><img title="whimsicott" src="{{site.url}}/assets/images/pokemon/whimsicott.gif"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Prankster</td>
+            <td><span class="type grass"></span></td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <br /><span class="type fire"></span> <span class="type ice"></span></td>
+            <td>U-Turn, Stun Spore, Helping Hand, Tailwind</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="sabrina">Sabrina</h2>
 ![Sabrina]({{site.url}}/assets/images/trainers/sabrina.gif)
