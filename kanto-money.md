@@ -202,7 +202,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
           <td><img title="passho-berry" src="{{site.url}}/assets/images/items/passho-berry.png" ></td>
           <td>Solid Rock</td>
           <td><span class="type ground"></span><span class="type rock"></span> </td>
-          <td><span class="type water">3x </span> & <span class="type grass">3x </span> <span class="type fighting"></span> <br /><span class="type ground">1.5x </span> <span class="type steel">1.5x </span> <span class="type ice">1.5x </span></td>
+          <td><span class="type water">3x </span> <span class="type grass">3x </span> <span class="type fighting"></span> <br /><span class="type ground">1.5x </span> <span class="type steel">1.5x </span> <span class="type ice">1.5x </span></td>
           <td> Earthquake, Rock Wrecker, Megahorn, Protect </td>
         </tr>
         <tr>
@@ -234,7 +234,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td><img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png" >/ <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" >/ <img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > / <img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
             <td>Sturdy or Sheer Force</td>
             <td><span class="type steel"></span><span class="type ground"></span> </td>
-            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type sm water"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type water"></span></td>
             <td> Explosion, Rock Slide, Aqua Tail, Earthquake, Iron Tail, Protect </td>
         </tr>
         <tr>
@@ -567,17 +567,180 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
     </li>
 </ol>
 
-- **Dodrio** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. She's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> 
-- **Electivire**, **Jolteon**, **Ampharos**, **Manectric**, **Electrode**, **Pachirisu**, **Pikachu** and **Raichu** are <span class="type sm electric"></span> types. While their Air Balloons are active, they're immune to <span class="type sm ground"></span>  After they're popped, they're weak to them.
-- **Fan Rotom** is an <span class="type sm electric"></span>/<span class="type sm flying"></span> type. It's weak to <span class="type sm rock"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> 
-- **Fearow** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. It's weak to <span class="type sm rock"></span>, <span class="type sm ice"></span>, and <span class="type sm electric"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> 
-- **Lanturn** is <span class="type sm water"></span>/<span class="type sm electric"></span>. She's weak to <span class="type sm grass"></span>  While her Air Balloon is active, she's immune to <span class="type sm ground"></span>  Once it's popped, she's weak to them. 
-- **Lickilicky**, **Porygon-Z**, **Raticate** is a <span class="type sm normal"></span> type. It's weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span>  While its Air Balloon is active it is immune to <span class="type sm ground"></span>  
-- **Magnezone** is <span class="type sm electric"></span>/Steel. It's weak to <span class="type sm fighting"></span> and <span class="type sm fire"></span>  While its Air Balloon is still active it's immune to <span class="type sm ground"></span>  After it's popped they deal 4x damage. 
-- **Politoed** is a <span class="type sm water"></span> type. He's weak to <span class="type sm grass"></span> and <span class="type sm electric"></span> 
-- **Quagsire** is <span class="type sm water"></span>/<span class="type sm ground"></span>. She's 4x more susceptible to <span class="type sm grass"></span> attacks but immune to <span class="type sm electric"></span>  
-- **Tangrowth** is a <span class="type sm grass"></span> type. He's weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm bug"></span>, <span class="type sm fire"></span>, and <span class="type sm ice"></span> 
-- **Victreebel** is <span class="type sm grass"></span>/<span class="type sm poison"></span>. She's weak to <span class="type sm flying"></span>, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span>  While her Air Balloon is active she's immune to <span class="type sm ground"></span>  After it's popped they deal <span class="type sm normal"></span> damage.
+<table class="tablelines">
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="ampharos" src="{{site.url}}/assets/images/pokemon/ampharos.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Static</td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span> </td>
+            <td>Thunder, Focus Blast, Dragon Pulse, Hidden Power (Water) </td>
+        </tr>
+        <tr>
+            <td><img title="dodrio" src="{{site.url}}/assets/images/pokemon/dodrio.gif" > </td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Early Bird</td>
+            <td><span class="type normal"></span><span class="type flying"></span> </td>
+            <td><span class="Type rock"></span> <span class="Type electric"></span> <span class="Type ice"></span></td>
+            <td>Brave Bird, Jump Kick, Double-Edge, Payback </td>
+        </tr>
+        <tr>
+            <td><img title="electivire" src="{{site.url}}/assets/images/pokemon/electivire.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Vital Spirit or Motor Drive</td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span> </td>
+            <td> Wild Charge, Cross Chop, Dig, Ice Punch, Discharge, Flamethrower, Focus Blast, Hidden Power (Ice)  </td>
+        </tr>
+        <tr>
+            <td><img title="electrode" src="{{site.url}}/assets/images/pokemon/electrode.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Aftermath</td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span></td>
+            <td>Foul Play, Thunderbolt, Light Screen, Reflect </td>
+        </tr>
+        <tr>
+            <td><img title="fan-rotom" src="{{site.url}}/assets/images/pokemon/fan-rotom.gif" > </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Levitate</td>
+            <td><span class="type electric"></span><span class="type flying"></span></td>
+            <td><span class="Type rock"></span> <span class="Type ice"></span></td>
+            <td>Thunderbolt, Air Slash, Hidden Power (Water), Will-O-Wisp </td>
+        </tr>
+        <tr>
+            <td><img title="fearow" src="{{site.url}}/assets/images/pokemon/fearow.gif" > </td>
+            <td><img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
+            <td>Sniper</td>
+            <td><span class="type normal"></span><span class="type flying"></span> </td>
+            <td><span class="Type rock"></span><span class="Type ice"></span>, and <span class="Type electric"></span></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><img title="jolteon" src="{{site.url}}/assets/images/pokemon/jolteon.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Volt Absorb </td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span> </td>
+            <td>Thunderbolt, Hyper Voice, Hidden Power (Ice), Shadow Ball, Thunder, Hidden Power (Grass), Fake Tears </td>
+        </tr>
+        <tr>
+            <td><img title="lanturn" src="{{site.url}}/assets/images/pokemon/lanturn.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Water Absorb</td>
+            <td><span class="type water"></span><span class="type electric"></span> </td>
+            <td><span class="Type grass"></span> <span class="Type ground"></span> </td>
+            <td>Ice Beam, Hydro Pump, Thunder, Thunder Wave, Thunderbolt</td>
+        </tr>
+        <tr>
+            <td><img title="lickilicky" src="{{site.url}}/assets/images/pokemon/lickilicky.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Cloud Nine</td>
+            <td><span class="type normal"></span> </td>
+            <td><span class="Type fighting"></span> </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><img title="magnezone" src="{{site.url}}/assets/images/pokemon/magnezone.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Sturdy</td>
+            <td><span class="type electric"></span><span class="type steel"></span> </td>
+            <td><span class="Type fighting"></span> <span class="Type fire"></span> <span class="Type ground">4x </span> </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><img title="manetric" src="{{site.url}}/assets/images/pokemon/manetric.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Static or Lightning Rod</td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span> </td>
+            <td>Snarl, Flamethrower, Thunderbolt, Hidden Power (Ice), Discharge, Hidden Power (Grass) </td>
+        </tr>
+        <tr>
+            <td><img title="pachirisu" src="{{site.url}}/assets/images/pokemon/pachirisu.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Volt Absorb </td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span> </td>
+            <td>Super Fang, Discharge, Sweet Kiss, Light Screen </td>
+        </tr>
+        <tr>
+            <td><img title="pikachu" src="{{site.url}}/assets/images/pokemon/pikachu.gif" > </td>
+            <td><img title="light-ball" src="{{site.url}}/assets/images/items/light-ball.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span> </td>
+            <td>Fake Out, Discharge, Hidden Power (Ice), Grass Knot </td>
+        </tr>
+        <tr>
+            <td><img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" > </td>
+            <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png"></td>
+            <td>Drizzle</td>
+            <td><span class="type water"></span> </td>
+            <td><span class="Type grass"></span> <span class="Type electric"></span> </td>
+            <td>Hydro Pump, Ice Beam, Lovely Kiss, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="porygon-z" src="{{site.url}}/assets/images/pokemon/porygon-z.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Analytic</td>
+            <td><span class="type normal"></span> </td>
+            <td><span class="Type fighting"></span> </td>
+            <td>Ice Beam, Thunder, Tri Attack, Recover </td>
+        </tr>
+        <tr>
+            <td><img title="quagsire" src="{{site.url}}/assets/images/pokemon/quagsire.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Water Absorb</td>
+            <td><span class="type water"></span><span class="type ground"></span> </td>
+            <td><span class="Type grass">4x </span> </td>
+            <td>Earthquake, Ice Punch, Aqua Tail, Counter </td>
+        </tr>
+        <tr>
+            <td><img title="raichu" src="{{site.url}}/assets/images/pokemon/raichu.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Static or Lightning Rod</td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="Type ground"></span> </td>
+            <td>Volt Tackle, Brick Break, Fly, Extreme Speed, Fake Out, Discharge, Hidden Power (Ice), Focus Blast, Nasty Plot, Grass Knot,  Thunderbolt, Surf, Thunder</td>
+        </tr>
+        <tr>
+            <td><img title="raticate" src="{{site.url}}/assets/images/pokemon/raticate.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Hustle</td>
+            <td><span class="type normal"></span> </td>
+            <td><span class="Type fighting"></span> </td>
+            <td>Sucker Punch, U-Turn, Double-Edge, Wild Charge </td>
+        </tr>
+        <tr>
+            <td><img title="tangrowth" src="{{site.url}}/assets/images/pokemon/tangrowth.gif" > </td>
+            <td><img title="grass-gem" src="{{site.url}}/assets/images/items/grass-gem.png"></td>
+            <td>Regenerator</td>
+            <td><span class="type grass"></span> </td>
+            <td><span class="Type flying"></span> <span class="Type poison"></span> <span class="Type bug"></span> <span class="Type fire"></span> <span class="Type ice"></span> </td>
+            <td>Power Whip, Reflect, Sleep Powder, Morning Sun </td>
+        </tr>
+        <tr>
+            <td><img title="victreebel" src="{{site.url}}/assets/images/pokemon/victreebel.gif" > </td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span><span class="type poison"></span> </td>
+            <td><span class="Type flying"></span> <span class="Type fire"></span> <span class="Type psychic"></span> <span class="Type ice"></span></td>
+            <td>Poison Jab, Power Whip, Sleep Powder, Swords Dance</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="erika">Erika</h2>
 ![Erika]({{site.url}}/assets/images/trainers/erika.gif)
@@ -837,7 +1000,6 @@ This trainer is located in Cinnabar Island in Kanto. Beating this trainer will r
 - **Blissey**, **Kangaskhan** and **Tauros** are <span class="type sm normal"></span> type. They're weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span>  
 - **Camerupt** is <span class="type sm fire"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm water"></span> attacks, weak to <span class="type sm ground"></span> moves, and immune to <span class="type sm electric"></span>  
 - **Charizard** is <span class="type sm fire"></span>/<span class="type sm flying"></span>. He's 4x more susceptible <span class="type sm rock"></span> attacks, weak to <span class="type sm water"></span> and <span class="type sm electric"></span> attacks, and immune to <span class="type sm ground"></span> 
-- **Dodrio** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> 
 - **Electrode** is an <span class="type sm electric"></span> type. It's weak to <span class="type sm ground"></span> 
 - **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm water"></span> and <span class="type sm grass"></span> attacks, weak to <span class="type sm ice"></span>, <span class="type sm steel"></span>, <span class="type sm ground"></span>, and <span class="type sm fighting"></span> attacks, and immune to <span class="type sm electric"></span>  
 - **Houndoom** is <span class="type sm dark"></span>/<span class="type sm fire"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm rock"></span>, and <span class="type sm water"></span> attacks but immune to <span class="type sm psychic"></span> 
