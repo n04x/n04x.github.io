@@ -40,44 +40,44 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
 
 <ol>
     <li> 
-        <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"> 
-        <img title="slowbro" src="{{site.url}}/assets/images/pokemon/slowbro.gif" width="50"> 
-        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"> 
-        <img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"> 
-        <img title="heracross" src="{{site.url}}/assets/images/pokemon/heracross.gif" width="50"> 
-        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50"> 
+        <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" > 
+        <img title="slowbro" src="{{site.url}}/assets/images/pokemon/slowbro.gif" > 
+        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" > 
+        <img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" > 
+        <img title="heracross" src="{{site.url}}/assets/images/pokemon/heracross.gif" > 
+        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" > 
     </li>
     <li>
-        <img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"> 
-        <img title="toxicroak" src="{{site.url}}/assets/images/pokemon/toxicroak.gif" width="50"> 
-        <img title="pinsir" src="{{site.url}}/assets/images/pokemon/pinsir.gif" width="50"> 
-        <img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"> 
-        <img title="sudowoodo" src="{{site.url}}/assets/images/pokemon/sudowoodo.gif" width="50"> 
-        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50">
+        <img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" > 
+        <img title="toxicroak" src="{{site.url}}/assets/images/pokemon/toxicroak.gif" > 
+        <img title="pinsir" src="{{site.url}}/assets/images/pokemon/pinsir.gif" > 
+        <img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" > 
+        <img title="sudowoodo" src="{{site.url}}/assets/images/pokemon/sudowoodo.gif" > 
+        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" >
     </li>
     <li>
-        <img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" width="50"> 
-        <img title="swampert" src="{{site.url}}/assets/images/pokemon/swampert.gif" width="50"> 
-        <img title="crobat" src="{{site.url}}/assets/images/pokemon/crobat.gif" width="50"> 
-        <img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" width="50"> 
-        <img title="rhyperior" src="{{site.url}}/assets/images/pokemon/rhyperior.gif" width="50"> 
-        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50">
+        <img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" > 
+        <img title="swampert" src="{{site.url}}/assets/images/pokemon/swampert.gif" > 
+        <img title="crobat" src="{{site.url}}/assets/images/pokemon/crobat.gif" > 
+        <img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" > 
+        <img title="rhyperior" src="{{site.url}}/assets/images/pokemon/rhyperior.gif" > 
+        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" >
     </li>
     <li>
-        <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"> 
-        <img title="ludicolo" src="{{site.url}}/assets/images/pokemon/ludicolo.gif" width="50"> 
-        <img title="kabutops" src="{{site.url}}/assets/images/pokemon/kabutops.gif" width="50"> 
-        <img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" width="50"> 
-        <img title="omastar" src="{{site.url}}/assets/images/pokemon/omastar.gif" width="50"> 
-        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50">
+        <img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" > 
+        <img title="ludicolo" src="{{site.url}}/assets/images/pokemon/ludicolo.gif" > 
+        <img title="kabutops" src="{{site.url}}/assets/images/pokemon/kabutops.gif" > 
+        <img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" > 
+        <img title="omastar" src="{{site.url}}/assets/images/pokemon/omastar.gif" > 
+        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" >
     </li>
     <li>
-        <img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"> 
-        <img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" width="50"> 
-        <img title="sandslash" src="{{site.url}}/assets/images/pokemon/sandslash.gif" width="50"> 
-        <img title="shuckle" src="{{site.url}}/assets/images/pokemon/shuckle.gif" width="50"> 
-        <img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"> 
-        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50">
+        <img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" > 
+        <img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" > 
+        <img title="sandslash" src="{{site.url}}/assets/images/pokemon/sandslash.gif" > 
+        <img title="shuckle" src="{{site.url}}/assets/images/pokemon/shuckle.gif" > 
+        <img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" > 
+        <img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" >
     </li>
 </ol>
 
@@ -94,176 +94,176 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
     </thead>
     <tbody>
         <tr>
-            <td><img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>           
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50">/<img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png" width="50"></td>
+            <td><img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" ></td>           
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
             <td>Pressure</td>
             <td><span class="type rock"></span><span class="type flying"></span> </td>
             <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
             <td>Earthquake, Crunch, Stone Edge, Wide Guard</td>
         </tr>
         <tr>
-            <td><img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"></td>
-            <td><img title="eviolite" src="{{site.url}}/assets/images/items/eviolite.png" width="50"></td>
+            <td><img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" ></td>
+            <td><img title="eviolite" src="{{site.url}}/assets/images/items/eviolite.png"></td>
             <td>Healer</td>
             <td><span class="type normal"></span> </td>
             <td><span class="type fighting"></span></td>
             <td>Seismic Toss, Toxic, Wish, Protect</td>
         </tr>
         <tr>
-            <td><img title="crobat" src="{{site.url}}/assets/images/pokemon/crobat.gif" width="50"></td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
+            <td><img title="crobat" src="{{site.url}}/assets/images/pokemon/crobat.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
             <td>Infiltrator</td>
             <td><span class="type poison"></span><span class="type flying"></span> </td>
             <td><span class="type rock"></span> <span class="type electric"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
             <td> Brave Bird, Heat Wave, Sludge Bomb, Giga Drain </td>
         </tr>
         <tr>
-            <td><img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" width="50"></td>
-            <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png" width="50"></td>
+            <td><img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" ></td>
+            <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png"></td>
             <td>Sturdy</td>
             <td><span class="type bug"></span><span class="type steel"></span> </td>
             <td><span class="type fire">4x </span></td>
             <td>Pin Missile, Gyro Ball, Rest, Protect</td>
         </tr>
         <tr>
-            <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"></td>
-            <td><img title="liechi-berry" src="{{site.url}}/assets/images/items/liechi-berry.png" width="50">/ <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" width="50"></td>
+            <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" ></td>
+            <td><img title="liechi-berry" src="{{site.url}}/assets/images/items/liechi-berry.png">/ <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" ></td>
             <td>Sturdy</td>
             <td><span class="type rock"></span><span class="type ground"></span> </td>
             <td><span class="type water">4x </span> <span class="type grass">4x </span> <span class="type fighting"></span> <br /><span class="type ground"></span> <span class="type steel"></span> <span class="type ice"></span></td>
             <td> Earthquake, Stone Edge, Hammer Arm, Wide Guard </td>
         </tr>
         <tr>
-            <td><img title="heracross" src="{{site.url}}/assets/images/pokemon/heracross.gif" width="50"></td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
+            <td><img title="heracross" src="{{site.url}}/assets/images/pokemon/heracross.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" ></td>
             <td>Moxie</td>
             <td><span class="type bug"></span><span class="type fighting"></span> </td>
             <td><span class="type flying">4x </span> <span class="type fire"></span> <span class="type psychic"></span></td>
             <td> Close Combat, Megahorn, Bullet Seed, Protect </td>
         </tr>
         <tr>
-            <td><img title="kabutops" src="{{site.url}}/assets/images/pokemon/kabutops.gif" width="50"></td>
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
+            <td><img title="kabutops" src="{{site.url}}/assets/images/pokemon/kabutops.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
             <td>Swift Swim</td>
             <td><span class="type rock"></span><span class="type water"></span> </td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td> Stone Edge, Aqua Tail, Superpower, Protect </td>
         </tr>
         <tr>
-            <td><img title="ludicolo" src="{{site.url}}/assets/images/pokemon/ludicolo.gif" width="50"></td>
-            <td><img title="grass-gem" src="{{site.url}}/assets/images/items/grass-gem.png" width="50"></td>
+            <td><img title="ludicolo" src="{{site.url}}/assets/images/pokemon/ludicolo.gif" ></td>
+            <td><img title="grass-gem" src="{{site.url}}/assets/images/items/grass-gem.png" ></td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type grass"></span> </td>
             <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span></td>
             <td> Surf, Giga Drain, Ice Beam, Rain Dance </td>
         </tr>
         <tr>
-            <td><img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"></td>
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
+            <td><img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
             <td>Flash Fire</td>
             <td><span class="type fire"></span> </td>
             <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
             <td> Foul Play, Heat Wave, Energy Ball, Protect </td>
         </tr>
         <tr>
-            <td><img title="omastar" src="{{site.url}}/assets/images/pokemon/omastar.gif" width="50"></td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
+            <td><img title="omastar" src="{{site.url}}/assets/images/pokemon/omastar.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" ></td>
             <td>Swift Swim</td>
             <td><span class="type rock"></span><span class="type water"></span> </td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td> Muddy Water, Ice Beam, Earth Power, Protect </td>
         </tr>
         <tr>
-            <td><img title="pinsir" src="{{site.url}}/assets/images/pokemon/pinsir.gif" width="50"></td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
+            <td><img title="pinsir" src="{{site.url}}/assets/images/pokemon/pinsir.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" ></td>
             <td>Moxie</td>
             <td><span class="type bug"></span> </td>
             <td><span class="type flying"></span> <span class="type rock"></span> <span class="type fire"></span></td>
             <td> X-Scissor, Stone Edge, Close Combat, Protect </td>
         </tr>
         <tr>
-            <td><img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"></td>
-            <td><img title="rock-gem" src="{{site.url}}/assets/images/items/rock-gem.png" width="50"></td>
+            <td><img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" ></td>
+            <td><img title="rock-gem" src="{{site.url}}/assets/images/items/rock-gem.png" ></td>
             <td>Mold Breaker</td>
             <td><span class="type rock"></span> </td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
             <td> Earthquake, Head Smash, Crunch, Superpower, Protect </td>
         </tr>
         <tr>
-            <td><img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" width="50"></td>
-            <td><img title="rock-gem" src="{{site.url}}/assets/images/items/rock-gem.png" width="50"></td>
+            <td><img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" ></td>
+            <td><img title="rock-gem" src="{{site.url}}/assets/images/items/rock-gem.png" ></td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type rock"></span> </td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td> Head Smash, Aqua Tail, Zen Headbutt, Protect </td>
         </tr>
         <tr>
-          <td><img title="rhyperior" src="{{site.url}}/assets/images/pokemon/rhyperior.gif" width="50"></td>
-          <td><img title="passho-berry" src="{{site.url}}/assets/images/items/passho-berry.png" width="50"></td>
+          <td><img title="rhyperior" src="{{site.url}}/assets/images/pokemon/rhyperior.gif" ></td>
+          <td><img title="passho-berry" src="{{site.url}}/assets/images/items/passho-berry.png" ></td>
           <td>Solid Rock</td>
           <td><span class="type ground"></span><span class="type rock"></span> </td>
           <td><span class="type water">3x </span> & <span class="type grass">3x </span> <span class="type fighting"></span> <br /><span class="type ground">1.5x </span> <span class="type steel">1.5x </span> <span class="type ice">1.5x </span></td>
           <td> Earthquake, Rock Wrecker, Megahorn, Protect </td>
         </tr>
         <tr>
-            <td><img title="sandslash" src="{{site.url}}/assets/images/pokemon/sandslash.gif" width="50"></td>
-            <td><img title="bright-powder" src="{{site.url}}/assets/images/items/bright-powder.png" width="50"></td>
+            <td><img title="sandslash" src="{{site.url}}/assets/images/pokemon/sandslash.gif" ></td>
+            <td><img title="bright-powder" src="{{site.url}}/assets/images/items/bright-powder.png" ></td>
             <td>Sand Veil</td>
             <td><span class="type ground"></span> </td>
             <td><span class="type water"></span> <span class="type ice"></span> <span class="type grass"></span></td>
             <td> Earthquake, Stone Edge, X-Scissor, Protect </td>
         </tr>
         <tr>
-            <td><img title="shuckle" src="{{site.url}}/assets/images/pokemon/shuckle.gif" width="50"></td>
-            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png" width="50"></td>
+            <td><img title="shuckle" src="{{site.url}}/assets/images/pokemon/shuckle.gif" ></td>
+            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png" ></td>
             <td>Contrary</td>
             <td><span class="type bug"></span><span class="type rock"></span> </td>
             <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span></td>
             <td> Shell Smash, Helping Hand, Rest, Protect </td>
         </tr>
         <tr>
-            <td><img title="slowbro" src="{{site.url}}/assets/images/pokemon/slowbro.gif" width="50"></td>
-            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png" width="50"></td>
+            <td><img title="slowbro" src="{{site.url}}/assets/images/pokemon/slowbro.gif" ></td>
+            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png" ></td>
             <td>Regenerator</td>
             <td><span class="type water"></span><span class="type psychic"></span> </td>
             <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <br /><span class="type electric"></span> <span class="type dark"></span></td>
             <td> Surf, Psychic, Ice Beam, Protect </td>
         </tr>
         <tr>
-            <td><img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50"></td>
-            <td><img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png" width="50">, <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" width="50">/ <img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> / <img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
+            <td><img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" ></td>
+            <td><img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png" >, <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" >/ <img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > / <img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
             <td>Sturdy or Sheer Force</td>
             <td><span class="type steel"></span><span class="type ground"></span> </td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type sm water"></span></td>
             <td> Explosion, Rock Slide, Aqua Tail, Earthquake, Iron Tail, Protect </td>
         </tr>
         <tr>
-            <td><img title="sudowoodo" src="{{site.url}}/assets/images/pokemon/sudowoodo.gif" width="50"></td>
-            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png" width="50"></td>
+            <td><img title="sudowoodo" src="{{site.url}}/assets/images/pokemon/sudowoodo.gif" ></td>
+            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png" ></td>
             <td>Sturdy</td>
             <td><span class="type rock"></span> </td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
             <td> Wood Hammer, Head Smash, Sucker Punch, Protect </td>
         </tr>
         <tr>
-            <td><img title="swampert" src="{{site.url}}/assets/images/pokemon/swampert.gif" width="50"></td>
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
+            <td><img title="swampert" src="{{site.url}}/assets/images/pokemon/swampert.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
             <td>Torrent</td>
             <td><span class="type water"></span><span class="type ground"></span> </td>
             <td><span class="type grass">4x </span></td>
             <td> Earthquake, Aqua Tail, Ice Punch, Wide Guard </td>
         </tr>
         <tr>
-            <td><img title="toxicroak" src="{{site.url}}/assets/images/pokemon/toxicroak.gif" width="50"></td>
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
+            <td><img title="toxicroak" src="{{site.url}}/assets/images/pokemon/toxicroak.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
             <td>Dry Skin</td>
             <td><span class="type poison"></span><span class="type fighting"></span> </td>
             <td><span class="type psychic">4x </span> <span class="type ground"></span> <span class="type flying"></span></td>
             <td> Gunk Shot, Cross Chop, Sucker Punch, Protect </td>
         </tr>
         <tr>
-            <td><img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" width="50"></td>
-            <td><img title="smooth-rock" src="{{site.url}}/assets/images/items/smooth-rock.png" width="50"></td>
+            <td><img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" ></td>
+            <td><img title="smooth-rock" src="{{site.url}}/assets/images/items/smooth-rock.png" ></td>
             <td>Sand Stream</td>
             <td><span class="type rock"></span><span class="type dark"></span> </td>
             <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <br /><span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
@@ -279,44 +279,44 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
 
 <ol>
     <li>
-        <img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" width="50"> 
-        <img title="golduck" src="{{site.url}}/assets/images/pokemon/golduck.gif" width="50"> 
-        <img title="quagsire" src="{{site.url}}/assets/images/pokemon/quagsire.gif" width="50"> 
-        <img title="tentacruel" src="{{site.url}}/assets/images/pokemon/tentacruel.gif" width="50"> 
-        <img title="azumarill" src="{{site.url}}/assets/images/pokemon/azumarill.gif" width="50"> 
-        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" width="50">
+        <img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" > 
+        <img title="golduck" src="{{site.url}}/assets/images/pokemon/golduck.gif" > 
+        <img title="quagsire" src="{{site.url}}/assets/images/pokemon/quagsire.gif" > 
+        <img title="tentacruel" src="{{site.url}}/assets/images/pokemon/tentacruel.gif" > 
+        <img title="azumarill" src="{{site.url}}/assets/images/pokemon/azumarill.gif" > 
+        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" >
     </li>
     <li>
-        <img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" width="50"> 
-        <img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" width="50"> 
-        <img title="swanna" src="{{site.url}}/assets/images/pokemon/swanna.gif" width="50"> 
-        <img title="lanturn" src="{{site.url}}/assets/images/pokemon/lanturn.gif" width="50"> 
-        <img title="jellicent" src="{{site.url}}/assets/images/pokemon/jellicent.gif" width="50"> 
-        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" width="50">
+        <img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" > 
+        <img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" > 
+        <img title="swanna" src="{{site.url}}/assets/images/pokemon/swanna.gif" > 
+        <img title="lanturn" src="{{site.url}}/assets/images/pokemon/lanturn.gif" > 
+        <img title="jellicent" src="{{site.url}}/assets/images/pokemon/jellicent.gif" > 
+        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" >
     </li>
     <li>
-        <img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" width="50"> 
-        <img title="poliwrath" src="{{site.url}}/assets/images/pokemon/poliwrath.gif" width="50"> 
-        <img title="cloyster" src="{{site.url}}/assets/images/pokemon/cloyster.gif" width="50"> 
-        <img title="lapras" src="{{site.url}}/assets/images/pokemon/lapras.gif" width="50"> 
-        <img title="togekiss" src="{{site.url}}/assets/images/pokemon/togekiss.gif" width="50"> 
-        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" width="50">
+        <img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" > 
+        <img title="poliwrath" src="{{site.url}}/assets/images/pokemon/poliwrath.gif" > 
+        <img title="cloyster" src="{{site.url}}/assets/images/pokemon/cloyster.gif" > 
+        <img title="lapras" src="{{site.url}}/assets/images/pokemon/lapras.gif" > 
+        <img title="togekiss" src="{{site.url}}/assets/images/pokemon/togekiss.gif" > 
+        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" >
     </li>
     <li>
-        <img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" width="50"> 
-        <img title="floatzel" src="{{site.url}}/assets/images/pokemon/floatzel.gif" width="50"> 
-        <img title="ampharos" src="{{site.url}}/assets/images/pokemon/ampharos.gif" width="50"> 
-        <img title="milotic" src="{{site.url}}/assets/images/pokemon/milotic.gif" width="50"> 
-        <img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" width="50"> 
-        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" width="50">
+        <img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" > 
+        <img title="floatzel" src="{{site.url}}/assets/images/pokemon/floatzel.gif" > 
+        <img title="ampharos" src="{{site.url}}/assets/images/pokemon/ampharos.gif" > 
+        <img title="milotic" src="{{site.url}}/assets/images/pokemon/milotic.gif" > 
+        <img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" > 
+        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" >
     </li>
     <li>
-        <img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" width="50"> 
-        <img title="kingdra" src="{{site.url}}/assets/images/pokemon/kingdra.gif" width="50"> 
-        <img title="seaking" src="{{site.url}}/assets/images/pokemon/seaking.gif" width="50"> 
-        <img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif" width="50"> 
-        <img title="blastoise" src="{{site.url}}/assets/images/pokemon/blastoise.gif" width="50"> 
-        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" width="50">
+        <img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" > 
+        <img title="kingdra" src="{{site.url}}/assets/images/pokemon/kingdra.gif" > 
+        <img title="seaking" src="{{site.url}}/assets/images/pokemon/seaking.gif" > 
+        <img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif" > 
+        <img title="blastoise" src="{{site.url}}/assets/images/pokemon/blastoise.gif" > 
+        <img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" >
     </li>
 </ol>
 
@@ -333,184 +333,184 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
     </thead>
     <tbody>
         <tr>
-            <td><img title="ampharos" src="{{site.url}}/assets/images/pokemon/ampharos.gif" width="50"> </td>
-            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" width="50"> </td>
+            <td><img title="ampharos" src="{{site.url}}/assets/images/pokemon/ampharos.gif" > </td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" > </td>
             <td>Static</td>
             <td><span class="type electric"></span> </td>
             <td><span class="type ground"></span> </td>
             <td>Thunder, Focus Blast, Dragon Pulse, Hidden Power (Water) </td>
         </tr>
         <tr>
-            <td><img title="azumarill" src="{{site.url}}/assets/images/pokemon/azumarill.gif" width="50"> </td>
-            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png" width="50"> </td>
+            <td><img title="azumarill" src="{{site.url}}/assets/images/pokemon/azumarill.gif" > </td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png" > </td>
             <td>Huge Power</td>
             <td><span class="type water"></span></td>
             <td><span class="type electric"></span> <span class="type grass"></span> </td>
             <td>Aqua Tail, Aqua Jet, Superpower, Ice Punch </td>
         </tr>
         <tr>
-            <td><img title="blastoise" src="{{site.url}}/assets/images/pokemon/blastoise.gif" width="50"> </td>
-            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" width="50"> </td>
+            <td><img title="blastoise" src="{{site.url}}/assets/images/pokemon/blastoise.gif" > </td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" > </td>
             <td>Rain Dish</td>
             <td><span class="type water"></span></td>
             <td><span class="type electric"></span> <span class="type grass"></span> </td>
             <td>Water Spout, Zap Cannon, Ice Beam, Aura Sphere </td>
         </tr>
         <tr>
-            <td><img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" width="50"> </td>
-            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" width="50"> </td>
+            <td><img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" > </td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" > </td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type rock"></span></td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> and <span class="type electric"></span> </td>
             <td>Earthquake, Stone Edge, Aqua Tail, Superpower </td>
         </tr>
         <tr>
-            <td><img title="cloyster" src="{{site.url}}/assets/images/pokemon/cloyster.gif" width="50"> </td>
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"> </td>
+            <td><img title="cloyster" src="{{site.url}}/assets/images/pokemon/cloyster.gif" > </td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" > </td>
             <td>Skill Link</td>
             <td><span class="type water"></span><span class="type ice"></span></td>
             <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <span class="type electric"></span> </td>
             <td>Icicle Spear, Rock Blast, Razor Shell, Shell Smash </td>
         </tr>
         <tr>
-            <td><img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif" width="50"> </td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td><img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif" > </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Multiscale</td>
             <td><span class="type dragon"></span><span class="type flying"></span></td>
             <td><span class="type ice">4x </span> <span class="type rock"></span> <span class="type dragon"></span> </td>
             <td>Dragon Claw, Extreme Speed, Thunder, Hurricane </td>
         </tr>
         <tr>
-            <td><img title="floatzel" src="{{site.url}}/assets/images/pokemon/floatzel.gif" width="50"> </td>
-            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png" width="50"> </td>
+            <td><img title="floatzel" src="{{site.url}}/assets/images/pokemon/floatzel.gif" > </td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png" > </td>
             <td>Swift Swim</td>
             <td><span class="type water"></span></td>
             <td><span class="type electric"></span> <span class="type grass"></span> <span class="type electric"></span></td>
             <td>Aqua Tail, Crunch, Ice Punch, Low Kick </td>
         </tr>
         <tr>
-            <td><img title="golduck" src="{{site.url}}/assets/images/pokemon/golduck.gif" width="50"> </td>
-            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" width="50"> </td>
+            <td><img title="golduck" src="{{site.url}}/assets/images/pokemon/golduck.gif" > </td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" > </td>
             <td>Swift Swim</td>
             <td><span class="type water"></span> </td>
             <td><span class="type electric"></span> <span class="type grass"></span> </td>
             <td>Hydro Pump, Petal Dance, Psyshock, Ice Beam </td>
         </tr>
         <tr>
-            <td><img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" width="50"> </td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td><img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" > </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Intimidate </td>
             <td><span class="type water"></span><span class="type flying"></span> </td>
             <td><span class="type electric">4x </span> <span class="type rock"></span> </td>
             <td>Waterfall, Crunch, Bounce, Dragon Dance </td>
         </tr>
         <tr>
-            <td><img title="jellicent" src="{{site.url}}/assets/images/pokemon/jellicent.gif" width="50"> </td>
-            <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" width="50"> </td>
+            <td><img title="jellicent" src="{{site.url}}/assets/images/pokemon/jellicent.gif" > </td>
+            <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" > </td>
             <td>Water Absorb </td>
             <td><span class="type water"></span><span class="type ghost"></span> </td>
             <td><span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type dark"></span></td>
             <td>Shadow Ball, Scald, Giga Drain, Recover </td>
         </tr>
         <tr>
-            <td><img title="kingdra" src="{{site.url}}/assets/images/pokemon/kingdra.gif" width="50"> </td>
-            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" width="50"> </td>
+            <td><img title="kingdra" src="{{site.url}}/assets/images/pokemon/kingdra.gif" > </td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" > </td>
             <td>Swift Swim </td>
             <td><span class="type water"></span><span class="type dragon"></span> </td>
             <td><span class="type dragon"></span> </td>
             <td>Muddy Water, Ice Beam, Draco Meteor, Hydro Pump </td>
         </tr>
         <tr>
-            <td><img title="lanturn" src="{{site.url}}/assets/images/pokemon/lanturn.gif" width="50"> </td>
-            <td><img title="rindo-berry" src="{{site.url}}/assets/images/items/rindo-berry.png" width="50"> </td>
+            <td><img title="lanturn" src="{{site.url}}/assets/images/pokemon/lanturn.gif" > </td>
+            <td><img title="rindo-berry" src="{{site.url}}/assets/images/items/rindo-berry.png" > </td>
             <td>Volt Absorb </td>
             <td><span class="type water"></span><span class="type electric"></span> </td>
             <td><span class="type ground"></span> <span class="type grass"></span> </td>
             <td>Thunder, Hydro Pump, Ice Beam, Thunder Wave </td>
         </tr>
         <tr>
-            <td><img title="lapras" src="{{site.url}}/assets/images/pokemon/lapras.gif" width="50"> </td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td><img title="lapras" src="{{site.url}}/assets/images/pokemon/lapras.gif" > </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Hydration </td>
             <td><span class="type water"></span><span class="type ice"></span> </td>
             <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <span class="type electric"></span> </td>
             <td>Hydro Pump, Thunder, Ice Beam, Rest </td>
         </tr>
         <tr>
-            <td><img title="milotic" src="{{site.url}}/assets/images/pokemon/milotic.gif" width="50"> </td>
-            <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" width="50"> </td>
+            <td><img title="milotic" src="{{site.url}}/assets/images/pokemon/milotic.gif" > </td>
+            <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" > </td>
             <td>Marvel Scale </td>
             <td><span class="type water"></span> </td>
             <td><span class="type electric"></span> <span class="type grass"></span> <span class="type electric"></span></td>
             <td>Ice Beam, Scald, Mirror Coat, Recover </td>
         </tr>
         <tr>
-            <td><img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" width="50"> </td>
-            <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png" width="50"> </td>
+            <td><img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" > </td>
+            <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png" > </td>
             <td>Drizzle </td>
             <td><span class="type water"></span><span class="type flying"></span> </td>
             <td><span class="type electric">4x </span> <span class="type rock"></span> </td>
             <td>Scald, Ice Beam, Hurricane, Tailwind  U-Turn, Roost </td>
         </tr>
         <tr>
-            <td><img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" width="50"> </td>
-            <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png" width="50"> </td>
+            <td><img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" > </td>
+            <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png" > </td>
             <td>Drizzle </td>
             <td><span class="type water"></span> </td>
             <td><span class="type electric"></span> and <span class="type grass"></span> </td>
             <td>Scald, Ice Beam, Focus Blast, Psychic, Lovely Kiss Hyper Voice, Hydro Pump</td>
         </tr>
         <tr>
-            <td><img title="poliwrath" src="{{site.url}}/assets/images/pokemon/poliwrath.gif" width="50"> </td>
-            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td><img title="poliwrath" src="{{site.url}}/assets/images/pokemon/poliwrath.gif" > </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Swift Swim </td>
             <td><span class="type water"></span><span class="type fighting"></span> </td>
             <td><span class="type flying"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type psychic"></span></td>
             <td>Waterfall, Brick Break, Ice Punch, Lovely Kiss </td>
         </tr>
         <tr>
-            <td><img title="quagsire" src="{{site.url}}/assets/images/pokemon/quagsire.gif" width="50"> </td>
-            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png" width="50"> </td>
+            <td><img title="quagsire" src="{{site.url}}/assets/images/pokemon/quagsire.gif" > </td>
+            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png" > </td>
             <td>Water Absorb </td>
             <td><span class="type water"></span><span class="type ground"></span> </td>
             <td><span class="type grass">4x </span></td>
             <td>Stone Edge, Muddy Water, Earth Power, Recover </td>
         </tr>
         <tr>
-            <td><img title="seaking" src="{{site.url}}/assets/images/pokemon/seaking.gif" width="50"> </td>
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"> </td>
+            <td><img title="seaking" src="{{site.url}}/assets/images/pokemon/seaking.gif" > </td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" > </td>
             <td>Lightning Rod </td>
             <td><span class="type water"></span> </td>
             <td><span class="type grass"></span> </td>
             <td>Megahorn, Aqua Tail, Drill Run, Bounce </td>
         </tr>
         <tr>
-            <td><img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" width="50"></td>
-            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" width="50">/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td><img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" ></td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" >/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" >/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Analytic </td>
             <td><span class="type water"></span><span class="type psychic"></span> </td>
             <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type dark"></span> </td>
             <td> Thunder, Psyshock, Ice Beam, Hydro Pump, Scald </td>
         </tr>
         <tr>
-            <td><img title="swanna" src="{{site.url}}/assets/images/pokemon/swanna.gif" width="50"> </td>
-            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"> </td>
+            <td><img title="swanna" src="{{site.url}}/assets/images/pokemon/swanna.gif" > </td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" > </td>
             <td>Hydration </td>
             <td><span class="type water"></span><span class="type flying"></span> </td>
             <td><span class="type electric">4x </span> <span class="type rock"></span> </td>
             <td>Endeavor, Ice Beam, Hurricane, Scald </td>
         </tr>
         <tr>
-            <td><img title="tentacruel" src="{{site.url}}/assets/images/pokemon/tentacruel.gif" width="50"> </td>
-            <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png" width="50"> </td>
+            <td><img title="tentacruel" src="{{site.url}}/assets/images/pokemon/tentacruel.gif" > </td>
+            <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png" > </td>
             <td>Rain Dish </td>
             <td><span class="type water"></span><span class="type poison"></span> </td>
             <td><span class="type ground"></span> <span class="type electric"></span> <span class="type psychic"></span> </td>
             <td>Muddy Water, Ice Beam, Giga Drain, Rest </td>
         </tr>
         <tr>
-            <td><img title="togekiss" src="{{site.url}}/assets/images/pokemon/togekiss.gif" width="50"> </td>
-            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png" width="50"> </td>
+            <td><img title="togekiss" src="{{site.url}}/assets/images/pokemon/togekiss.gif" > </td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png" > </td>
             <td>Serene Grace </td>
             <td><span class="type normal"></span><span class="type flying"></span> </td>
             <td><span class="type rock"></span> <span class="type electric"></span> <span class="type ice"></span> </td>
@@ -526,44 +526,44 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
 
 <ol>
     <li>
-        <img title="jolteon" src="{{site.url}}/assets/images/pokemon/jolteon.gif" width="50"> 
-        <img title='dodrio' src="{{site.url}}/assets/images/pokemon/dodrio.gif" width="50"> 
-        <img title='ampharos' src="{{site.url}}/assets/images/pokemon/ampharos.gif" width="50"> 
-        <img title='victreebel' src="{{site.url}}/assets/images/pokemon/victreebel.gif" width="50"> 
-        <img title='magnezone' src="{{site.url}}/assets/images/pokemon/magnezone.gif" width="50"> 
-        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" width="50">
+        <img title="jolteon" src="{{site.url}}/assets/images/pokemon/jolteon.gif" > 
+        <img title='dodrio' src="{{site.url}}/assets/images/pokemon/dodrio.gif" > 
+        <img title='ampharos' src="{{site.url}}/assets/images/pokemon/ampharos.gif" > 
+        <img title='victreebel' src="{{site.url}}/assets/images/pokemon/victreebel.gif" > 
+        <img title='magnezone' src="{{site.url}}/assets/images/pokemon/magnezone.gif" > 
+        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" >
     </li>
     <li>
-        <img title='manetric' src="{{site.url}}/assets/images/pokemon/manetric.gif" width="50"> 
-        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" width="50"> 
-        <img title='lickilicky' src="{{site.url}}/assets/images/pokemon/lickilicky.gif" width="50"> 
-        <img title='fearow' src="{{site.url}}/assets/images/pokemon/fearow.gif" width="50"> 
-        <img title='electivire' src="{{site.url}}/assets/images/pokemon/electivire.gif" width="50"> 
-        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" width="50">
+        <img title='manetric' src="{{site.url}}/assets/images/pokemon/manetric.gif" > 
+        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" > 
+        <img title='lickilicky' src="{{site.url}}/assets/images/pokemon/lickilicky.gif" > 
+        <img title='fearow' src="{{site.url}}/assets/images/pokemon/fearow.gif" > 
+        <img title='electivire' src="{{site.url}}/assets/images/pokemon/electivire.gif" > 
+        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" >
     </li>
     <li>
-        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" width="50"> 
-        <img title='pikachu' src="{{site.url}}/assets/images/pokemon/pikachu.gif" width="50"> 
-        <img title='electivire' src="{{site.url}}/assets/images/pokemon/electivire.gif" width="50"> 
-        <img title='pachirisu' src="{{site.url}}/assets/images/pokemon/pachirisu.gif" width="50"> 
-        <img title='quagsire' src="{{site.url}}/assets/images/pokemon/quagsire.gif" width="50"> 
-        <img title='manetric' src="{{site.url}}/assets/images/pokemon/manetric.gif" width="50">
+        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" > 
+        <img title='pikachu' src="{{site.url}}/assets/images/pokemon/pikachu.gif" > 
+        <img title='electivire' src="{{site.url}}/assets/images/pokemon/electivire.gif" > 
+        <img title='pachirisu' src="{{site.url}}/assets/images/pokemon/pachirisu.gif" > 
+        <img title='quagsire' src="{{site.url}}/assets/images/pokemon/quagsire.gif" > 
+        <img title='manetric' src="{{site.url}}/assets/images/pokemon/manetric.gif" >
     </li>
     <li>
-        <img title='electivire' src="{{site.url}}/assets/images/pokemon/electivire.gif" width="50"> 
-        <img title='tangrowth' src="{{site.url}}/assets/images/pokemon/tangrowth.gif" width="50"> 
-        <img title='raticate' src="{{site.url}}/assets/images/pokemon/raticate.gif" width="50"> 
-        <img title='fan-rotom' src="{{site.url}}/assets/images/pokemon/fan-rotom.gif" width="50"> 
-        <img title='lanturn' src="{{site.url}}/assets/images/pokemon/lanturn.gif" width="50"> 
-        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" width="50">
+        <img title='electivire' src="{{site.url}}/assets/images/pokemon/electivire.gif" > 
+        <img title='tangrowth' src="{{site.url}}/assets/images/pokemon/tangrowth.gif" > 
+        <img title='raticate' src="{{site.url}}/assets/images/pokemon/raticate.gif" > 
+        <img title='fan-rotom' src="{{site.url}}/assets/images/pokemon/fan-rotom.gif" > 
+        <img title='lanturn' src="{{site.url}}/assets/images/pokemon/lanturn.gif" > 
+        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" >
     </li>
     <li>
-        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" width="50"> 
-        <img title='politoed' src="{{site.url}}/assets/images/pokemon/politoed.gif" width="50"> 
-        <img title='porygon-z' src="{{site.url}}/assets/images/pokemon/porygon-z.gif" width="50"> 
-        <img title='lanturn' src="{{site.url}}/assets/images/pokemon/lanturn.gif" width="50"> 
-        <img title='ampharos' src="{{site.url}}/assets/images/pokemon/ampharos.gif" width="50"> 
-        <img title="jolteon" src="{{site.url}}/assets/images/pokemon/jolteon.gif" width="50">
+        <img title='raichu' src="{{site.url}}/assets/images/pokemon/raichu.gif" > 
+        <img title='politoed' src="{{site.url}}/assets/images/pokemon/politoed.gif" > 
+        <img title='porygon-z' src="{{site.url}}/assets/images/pokemon/porygon-z.gif" > 
+        <img title='lanturn' src="{{site.url}}/assets/images/pokemon/lanturn.gif" > 
+        <img title='ampharos' src="{{site.url}}/assets/images/pokemon/ampharos.gif" > 
+        <img title="jolteon" src="{{site.url}}/assets/images/pokemon/jolteon.gif" >
     </li>
 </ol>
 
@@ -586,44 +586,44 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
 
 <ol>
     <li>
-        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"> 
-        <img title='victreebel' src="{{site.url}}/assets/images/pokemon/victreebel.gif" width="50"> 
-        <img title='cherrim-d' src="{{site.url}}/assets/images/pokemon/cherrim-d.gif" width="50"> 
-        <img title='blissey' src="{{site.url}}/assets/images/pokemon/blissey.gif" width="50"> 
-        <img title='cradily' src="{{site.url}}/assets/images/pokemon/cradily.gif" width="50"> 
-        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50">
+        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" > 
+        <img title='victreebel' src="{{site.url}}/assets/images/pokemon/victreebel.gif" > 
+        <img title='cherrim-d' src="{{site.url}}/assets/images/pokemon/cherrim-d.gif" > 
+        <img title='blissey' src="{{site.url}}/assets/images/pokemon/blissey.gif" > 
+        <img title='cradily' src="{{site.url}}/assets/images/pokemon/cradily.gif" > 
+        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" >
     </li>
     <li>
-        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50"> 
-        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"> 
-        <img title='shiftry' src="{{site.url}}/assets/images/pokemon/shiftry.gif" width="50"> 
-        <img title='clefable' src="{{site.url}}/assets/images/pokemon/clefable.gif" width="50"> 
-        <img title='venusaur' src="{{site.url}}/assets/images/pokemon/venusaur.gif" width="50"> 
-        <img title='parasect' src="{{site.url}}/assets/images/pokemon/parasect.gif" width="50">
+        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" > 
+        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" > 
+        <img title='shiftry' src="{{site.url}}/assets/images/pokemon/shiftry.gif" > 
+        <img title='clefable' src="{{site.url}}/assets/images/pokemon/clefable.gif" > 
+        <img title='venusaur' src="{{site.url}}/assets/images/pokemon/venusaur.gif" > 
+        <img title='parasect' src="{{site.url}}/assets/images/pokemon/parasect.gif" >
     </li>
     <li>
-        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"> 
-        <img title='lilligant' src="{{site.url}}/assets/images/pokemon/lilligant.gif" width="50"> 
-        <img title='marowak' src="{{site.url}}/assets/images/pokemon/marowak.gif" width="50"> 
-        <img title='exeggutor' src="{{site.url}}/assets/images/pokemon/exeggutor.gif" width="50"> 
-        <img title='roserade' src="{{site.url}}/assets/images/pokemon/roserade.gif" width="50"> 
-        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50">
+        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" > 
+        <img title='lilligant' src="{{site.url}}/assets/images/pokemon/lilligant.gif" > 
+        <img title='marowak' src="{{site.url}}/assets/images/pokemon/marowak.gif" > 
+        <img title='exeggutor' src="{{site.url}}/assets/images/pokemon/exeggutor.gif" > 
+        <img title='roserade' src="{{site.url}}/assets/images/pokemon/roserade.gif" > 
+        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" >
     </li>
     <li>
-        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"> 
-        <img title='venusaur' src="{{site.url}}/assets/images/pokemon/venusaur.gif" width="50"> 
-        <img title='cherrim-d' src="{{site.url}}/assets/images/pokemon/cherrim-d.gif" width="50"> 
-        <img title='jumpluff' src="{{site.url}}/assets/images/pokemon/jumpluff.gif" width="50"> 
-        <img title='bellossom' src="{{site.url}}/assets/images/pokemon/bellossom.gif" width="50"> 
-        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50">
+        <img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" > 
+        <img title='venusaur' src="{{site.url}}/assets/images/pokemon/venusaur.gif" > 
+        <img title='cherrim-d' src="{{site.url}}/assets/images/pokemon/cherrim-d.gif" > 
+        <img title='jumpluff' src="{{site.url}}/assets/images/pokemon/jumpluff.gif" > 
+        <img title='bellossom' src="{{site.url}}/assets/images/pokemon/bellossom.gif" > 
+        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" >
     </li>
     <li>
-        <img title='whimsicott' src="{{site.url}}/assets/images/pokemon/whimsicott.gif" width="50"> 
-        <img title='dragonite' src="{{site.url}}/assets/images/pokemon/dragonite.gif" width="50"> 
-        <img title='tangrowth' src="{{site.url}}/assets/images/pokemon/tangrowth.gif" width="50"> 
-        <img title='abomasnow' src="{{site.url}}/assets/images/pokemon/abomasnow.gif" width="50"> 
-        <img title='dewgong' src="{{site.url}}/assets/images/pokemon/dewgong.gif" width="50"> 
-        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50">
+        <img title='whimsicott' src="{{site.url}}/assets/images/pokemon/whimsicott.gif" > 
+        <img title='dragonite' src="{{site.url}}/assets/images/pokemon/dragonite.gif" > 
+        <img title='tangrowth' src="{{site.url}}/assets/images/pokemon/tangrowth.gif" > 
+        <img title='abomasnow' src="{{site.url}}/assets/images/pokemon/abomasnow.gif" > 
+        <img title='dewgong' src="{{site.url}}/assets/images/pokemon/dewgong.gif" > 
+        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" >
     </li>
 </ol>
 
@@ -650,44 +650,44 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
 
 <ol>
     <li>
-        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" width="50">
-        <img title='scizor' src="{{site.url}}/assets/images/pokemon/scizor.gif" width="50">
-        <img title='venomoth' src="{{site.url}}/assets/images/pokemon/venomoth.gif" width="50">
-        <img title='xatu' src="{{site.url}}/assets/images/pokemon/xatu.gif" width="50">
-        <img title='golduck' src="{{site.url}}/assets/images/pokemon/golduck.gif" width="50">
-        <img title='hypno' src="{{site.url}}/assets/images/pokemon/hypno.gif" width="50">
+        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" >
+        <img title='scizor' src="{{site.url}}/assets/images/pokemon/scizor.gif" >
+        <img title='venomoth' src="{{site.url}}/assets/images/pokemon/venomoth.gif" >
+        <img title='xatu' src="{{site.url}}/assets/images/pokemon/xatu.gif" >
+        <img title='golduck' src="{{site.url}}/assets/images/pokemon/golduck.gif" >
+        <img title='hypno' src="{{site.url}}/assets/images/pokemon/hypno.gif" >
     </li>
     <li>
-        <img title='wobbuffet' src="{{site.url}}/assets/images/pokemon/wobbuffet.gif" width="50">
-        <img title='snorlax' src="{{site.url}}/assets/images/pokemon/snorlax.gif" width="50">
-        <img title='slowbro' src="{{site.url}}/assets/images/pokemon/slowbro.gif" width="50">
-        <img title='exeggutor' src="{{site.url}}/assets/images/pokemon/exeggutor.gif" width="50">
-        <img title='hitmonlee' src="{{site.url}}/assets/images/pokemon/hitmonlee.gif" width="50">
-        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" width="50">
+        <img title='wobbuffet' src="{{site.url}}/assets/images/pokemon/wobbuffet.gif" >
+        <img title='snorlax' src="{{site.url}}/assets/images/pokemon/snorlax.gif" >
+        <img title='slowbro' src="{{site.url}}/assets/images/pokemon/slowbro.gif" >
+        <img title='exeggutor' src="{{site.url}}/assets/images/pokemon/exeggutor.gif" >
+        <img title='hitmonlee' src="{{site.url}}/assets/images/pokemon/hitmonlee.gif" >
+        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" >
     </li>
     <li>
-        <img title='swoobat' src="{{site.url}}/assets/images/pokemon/swoobat.gif" width="50">
-        <img title='slowking' src="{{site.url}}/assets/images/pokemon/slowking.gif" width="50">
-        <img title='wigglytuff' src="{{site.url}}/assets/images/pokemon/wigglytuff.gif" width="50">
-        <img title='gengar' src="{{site.url}}/assets/images/pokemon/gengar.gif" width="50">
-        <img title='jynx' src="{{site.url}}/assets/images/pokemon/jynx.gif" width="50">
-        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" width="50">
+        <img title='swoobat' src="{{site.url}}/assets/images/pokemon/swoobat.gif" >
+        <img title='slowking' src="{{site.url}}/assets/images/pokemon/slowking.gif" >
+        <img title='wigglytuff' src="{{site.url}}/assets/images/pokemon/wigglytuff.gif" >
+        <img title='gengar' src="{{site.url}}/assets/images/pokemon/gengar.gif" >
+        <img title='jynx' src="{{site.url}}/assets/images/pokemon/jynx.gif" >
+        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" >
     </li>
     <li>
-        <img title='metagross' src="{{site.url}}/assets/images/pokemon/metagross.gif" width="50">
-        <img title='espeon' src="{{site.url}}/assets/images/pokemon/espeon.gif" width="50">
-        <img title='gallade' src="{{site.url}}/assets/images/pokemon/gallade.gif" width="50">
-        <img title='typhlosion' src="{{site.url}}/assets/images/pokemon/typhlosion.gif" width="50">
-        <img title='porygon-z' src="{{site.url}}/assets/images/pokemon/porygon-z.gif" width="50">
-        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" width="50">
+        <img title='metagross' src="{{site.url}}/assets/images/pokemon/metagross.gif" >
+        <img title='espeon' src="{{site.url}}/assets/images/pokemon/espeon.gif" >
+        <img title='gallade' src="{{site.url}}/assets/images/pokemon/gallade.gif" >
+        <img title='typhlosion' src="{{site.url}}/assets/images/pokemon/typhlosion.gif" >
+        <img title='porygon-z' src="{{site.url}}/assets/images/pokemon/porygon-z.gif" >
+        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" >
     </li>
     <li>
-        <img title='sigilyph' src="{{site.url}}/assets/images/pokemon/sigilyph.gif" width="50">
-        <img title='lapras' src="{{site.url}}/assets/images/pokemon/lapras.gif" width="50">
-        <img title='furret' src="{{site.url}}/assets/images/pokemon/furret.gif" width="50">
-        <img title='mrmime' src="{{site.url}}/assets/images/pokemon/mrmime.gif" width="50">
-        <img title='sandslash' src="{{site.url}}/assets/images/pokemon/sandslash.gif" width="50">
-        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" width="50">
+        <img title='sigilyph' src="{{site.url}}/assets/images/pokemon/sigilyph.gif" >
+        <img title='lapras' src="{{site.url}}/assets/images/pokemon/lapras.gif" >
+        <img title='furret' src="{{site.url}}/assets/images/pokemon/furret.gif" >
+        <img title='mrmime' src="{{site.url}}/assets/images/pokemon/mrmime.gif" >
+        <img title='sandslash' src="{{site.url}}/assets/images/pokemon/sandslash.gif" >
+        <img title='alakazam' src="{{site.url}}/assets/images/pokemon/alakazam.gif" >
     </li>
 </ol>
 
@@ -720,44 +720,44 @@ This trainer is located in Fuchsia City in Kanto. Beating this trainer will rewa
 Below is the possible lineup the trainer might have:
 <ol>
     <li>
-        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
-        <img title='nidoqueen' src="{{site.url}}/assets/images/pokemon/nidoqueen.gif" width="50">
-        <img title='pidgeot' src="{{site.url}}/assets/images/pokemon/pidgeot.gif" width="50">
-        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" width="50">
-        <img title='gengar' src="{{site.url}}/assets/images/pokemon/gengar.gif" width="50">
-        <img title='crobat' src="{{site.url}}/assets/images/pokemon/crobat.gif" width="50">
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" >
+        <img title='nidoqueen' src="{{site.url}}/assets/images/pokemon/nidoqueen.gif" >
+        <img title='pidgeot' src="{{site.url}}/assets/images/pokemon/pidgeot.gif" >
+        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" >
+        <img title='gengar' src="{{site.url}}/assets/images/pokemon/gengar.gif" >
+        <img title='crobat' src="{{site.url}}/assets/images/pokemon/crobat.gif" >
     </li>
     <li>
-        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
-        <img title='zoroark' src="{{site.url}}/assets/images/pokemon/zoroark.gif" width="50">
-        <img title='scyther' src="{{site.url}}/assets/images/pokemon/scyther.gif" width="50">
-        <img title='forretress' src="{{site.url}}/assets/images/pokemon/forretress.gif" width="50">
-        <img title='toxicroak' src="{{site.url}}/assets/images/pokemon/toxicroak.gif" width="50">
-        <img title='nidoqueen' src="{{site.url}}/assets/images/pokemon/nidoqueen.gif" width="50">
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" >
+        <img title='zoroark' src="{{site.url}}/assets/images/pokemon/zoroark.gif" >
+        <img title='scyther' src="{{site.url}}/assets/images/pokemon/scyther.gif" >
+        <img title='forretress' src="{{site.url}}/assets/images/pokemon/forretress.gif" >
+        <img title='toxicroak' src="{{site.url}}/assets/images/pokemon/toxicroak.gif" >
+        <img title='nidoqueen' src="{{site.url}}/assets/images/pokemon/nidoqueen.gif" >
     </li>
     <li>
-        <img title='tentacruel' src="{{site.url}}/assets/images/pokemon/tentacruel.gif" width="50">
-        <img title='gliscor' src="{{site.url}}/assets/images/pokemon/gliscor.gif" width="50">
-        <img title='venomoth' src="{{site.url}}/assets/images/pokemon/venomoth.gif" width="50">
-        <img title='drapion' src="{{site.url}}/assets/images/pokemon/drapion.gif" width="50">
-        <img title='magmortar' src="{{site.url}}/assets/images/pokemon/magmortar.gif" width="50">
-        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
+        <img title='tentacruel' src="{{site.url}}/assets/images/pokemon/tentacruel.gif" >
+        <img title='gliscor' src="{{site.url}}/assets/images/pokemon/gliscor.gif" >
+        <img title='venomoth' src="{{site.url}}/assets/images/pokemon/venomoth.gif" >
+        <img title='drapion' src="{{site.url}}/assets/images/pokemon/drapion.gif" >
+        <img title='magmortar' src="{{site.url}}/assets/images/pokemon/magmortar.gif" >
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" >
     </li>
     <li>
-        <img title='ariados' src="{{site.url}}/assets/images/pokemon/ariados.gif" width="50">
-        <img title='ferrothorn' src="{{site.url}}/assets/images/pokemon/ferrothorn.gif" width="50">
-        <img title='muk' src="{{site.url}}/assets/images/pokemon/muk.gif" width="50">
-        <img title='scizor' src="{{site.url}}/assets/images/pokemon/scizor.gif" width="50">
-        <img title='skuntank' src="{{site.url}}/assets/images/pokemon/skuntank.gif" width="50">
-        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
+        <img title='ariados' src="{{site.url}}/assets/images/pokemon/ariados.gif" >
+        <img title='ferrothorn' src="{{site.url}}/assets/images/pokemon/ferrothorn.gif" >
+        <img title='muk' src="{{site.url}}/assets/images/pokemon/muk.gif" >
+        <img title='scizor' src="{{site.url}}/assets/images/pokemon/scizor.gif" >
+        <img title='skuntank' src="{{site.url}}/assets/images/pokemon/skuntank.gif" >
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" >
     </li>
     <li>
-        <img title='nidoking' src="{{site.url}}/assets/images/pokemon/nidoking.gif" width="50">
-        <img title='beedrill' src="{{site.url}}/assets/images/pokemon/beedrill.gif" width="50">
-        <img title='ditto' src="{{site.url}}/assets/images/pokemon/ditto.gif" width="50">
-        <img title='hypno' src="{{site.url}}/assets/images/pokemon/hypno.gif" width="50">
-        <img title='swalot' src="{{site.url}}/assets/images/pokemon/swalot.gif" width="50">
-        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" width="50">
+        <img title='nidoking' src="{{site.url}}/assets/images/pokemon/nidoking.gif" >
+        <img title='beedrill' src="{{site.url}}/assets/images/pokemon/beedrill.gif" >
+        <img title='ditto' src="{{site.url}}/assets/images/pokemon/ditto.gif" >
+        <img title='hypno' src="{{site.url}}/assets/images/pokemon/hypno.gif" >
+        <img title='swalot' src="{{site.url}}/assets/images/pokemon/swalot.gif" >
+        <img title='weezing' src="{{site.url}}/assets/images/pokemon/weezing.gif" >
     </li>
 </ol>
 
@@ -791,44 +791,44 @@ Below is the possible lineup the trainer might have:
 This trainer is located in Cinnabar Island in Kanto. Beating this trainer will reward you $9,256 without Amulet coin and $13,884 with Amulet coin.
 <ol>
     <li>
-        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
-        <img title='ninetales' src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50">
-        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" width="50">
-        <img title='rapidash' src="{{site.url}}/assets/images/pokemon/rapidash.gif" width="50">
-        <img title='articuno' src="{{site.url}}/assets/images/pokemon/articuno.gif" width="50">
-        <img title='magcargo' src="{{site.url}}/assets/images/pokemon/magcargo.gif" width="50">
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" >
+        <img title='ninetales' src="{{site.url}}/assets/images/pokemon/ninetales.gif" >
+        <img title='vileplume' src="{{site.url}}/assets/images/pokemon/vileplume.gif" >
+        <img title='rapidash' src="{{site.url}}/assets/images/pokemon/rapidash.gif" >
+        <img title='articuno' src="{{site.url}}/assets/images/pokemon/articuno.gif" >
+        <img title='magcargo' src="{{site.url}}/assets/images/pokemon/magcargo.gif" >
     </li>
     <li>
-        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50">
-        <img title='moltres' src="{{site.url}}/assets/images/pokemon/moltres.gif" width="50">
-        <img title='houndoom' src="{{site.url}}/assets/images/pokemon/houndoom.gif" width="50">
-        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" width="50">
-        <img title='blissey' src="{{site.url}}/assets/images/pokemon/blissey.gif" width="50">
-        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" >
+        <img title='moltres' src="{{site.url}}/assets/images/pokemon/moltres.gif" >
+        <img title='houndoom' src="{{site.url}}/assets/images/pokemon/houndoom.gif" >
+        <img title='electrode' src="{{site.url}}/assets/images/pokemon/electrode.gif" >
+        <img title='blissey' src="{{site.url}}/assets/images/pokemon/blissey.gif" >
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" >
     </li>
     <li>
-        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50">
-        <img title='charizard' src="{{site.url}}/assets/images/pokemon/charizard.gif" width="50">
-        <img title='kangaskhan' src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" width="50">
-        <img title='golem' src="{{site.url}}/assets/images/pokemon/golem.gif" width="50">
-        <img title='magmortar' src="{{site.url}}/assets/images/pokemon/magmortar.gif" width="50">
-        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" >
+        <img title='charizard' src="{{site.url}}/assets/images/pokemon/charizard.gif" >
+        <img title='kangaskhan' src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" >
+        <img title='golem' src="{{site.url}}/assets/images/pokemon/golem.gif" >
+        <img title='magmortar' src="{{site.url}}/assets/images/pokemon/magmortar.gif" >
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" >
     </li>
     <li>
-        <img title='ninetales' src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50">
-        <img title='flareon' src="{{site.url}}/assets/images/pokemon/flareon.gif" width="50">
-        <img title='tauros' src="{{site.url}}/assets/images/pokemon/tauros.gif" width="50">
-        <img title='dodrio' src="{{site.url}}/assets/images/pokemon/dodrio.gif" width="50">
-        <img title='camerupt' src="{{site.url}}/assets/images/pokemon/camerupt.gif" width="50">
-        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+        <img title='ninetales' src="{{site.url}}/assets/images/pokemon/ninetales.gif" >
+        <img title='flareon' src="{{site.url}}/assets/images/pokemon/flareon.gif" >
+        <img title='tauros' src="{{site.url}}/assets/images/pokemon/tauros.gif" >
+        <img title='dodrio' src="{{site.url}}/assets/images/pokemon/dodrio.gif" >
+        <img title='camerupt' src="{{site.url}}/assets/images/pokemon/camerupt.gif" >
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" >
     </li>
     <li>
-        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" width="50">
-        <img title='typhlosion' src="{{site.url}}/assets/images/pokemon/typhlosion.gif" width="50">
-        <img title='heat-rotom' src="{{site.url}}/assets/images/pokemon/heat-rotom.gif" width="50">
-        <img title='tangrowth' src="{{site.url}}/assets/images/pokemon/tangrowth.gif" width="50">
-        <img title='rhyperior' src="{{site.url}}/assets/images/pokemon/rhyperior.gif" width="50">
-        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" width="50">
+        <img title='torkoal' src="{{site.url}}/assets/images/pokemon/torkoal.gif" >
+        <img title='typhlosion' src="{{site.url}}/assets/images/pokemon/typhlosion.gif" >
+        <img title='heat-rotom' src="{{site.url}}/assets/images/pokemon/heat-rotom.gif" >
+        <img title='tangrowth' src="{{site.url}}/assets/images/pokemon/tangrowth.gif" >
+        <img title='rhyperior' src="{{site.url}}/assets/images/pokemon/rhyperior.gif" >
+        <img title='arcanine' src="{{site.url}}/assets/images/pokemon/arcanine.gif" >
     </li>
 </ol>
 
