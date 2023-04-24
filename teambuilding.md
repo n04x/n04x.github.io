@@ -45,12 +45,19 @@ In order to see the META Pokemon, you can click on PvP --> Matchmaking Signup th
 
 [TEAM](https://pokepast.es/9ded2753ca8f240d) and [TEAM Variation](https://pokepast.es/671b5196d6ec4a43)
 
+Scizor is my Physical Wallbreaker and Revenge killer
+
+![Scizor Move]({{site.url}}/assets/images/pvp/scizor-moves.png) ![Scizor IV]({{site.url}}/assets/images/pvp/scizor-iv.png) ![Scizor EV]({{site.url}}/assets/images/pvp/scizor-ev.png) 
+
+
 # Sun Team
 The Sun Team is probably the best all around team for Gym Leader rematch since the rework of Amulet Coin buff. You open with Torkoal and Typhlosion. The rest of the team can be Chlorophyll Sweepers of your choice (below are my party).
 
-![Torkoal Move]({{site.url}}/assets/images/pvp/torkoal-moves.png) ![Torkoal Move]({{site.url}}/assets/images/pvp/torkoal-iv.png) ![Torkoal Move]({{site.url}}/assets/images/pvp/torkoal-ev.png) 
+![Torkoal Move]({{site.url}}/assets/images/pvp/torkoal-moves.png) ![Torkoal IV]({{site.url}}/assets/images/pvp/torkoal-iv.png) ![Torkoal EV]({{site.url}}/assets/images/pvp/torkoal-ev.png) 
 
-![Typhlosion Move]({{site.url}}/assets/images/pvp/typhlosion-moves.png) ![Typhlosion Move]({{site.url}}/assets/images/pvp/typhlosion-iv.png) ![Typhlosion Move]({{site.url}}/assets/images/pvp/typhlosion-ev.png) 
+![Typhlosion Move]({{site.url}}/assets/images/pvp/typhlosion-moves.png) ![Typhlosion IV]({{site.url}}/assets/images/pvp/typhlosion-iv.png) ![Typhlosion EV]({{site.url}}/assets/images/pvp/typhlosion-ev.png) 
+
+![Exeggutor Move]({{site.url}}/assets/images/pvp/exeggutor-moves.png) ![Exeggutor IV]({{site.url}}/assets/images/pvp/exeggutor-iv.png) ![Exeggutor EV]({{site.url}}/assets/images/pvp/exeggutor-ev.png) 
 
 # Pokemon Catcher
 The best pokemon catcher is Smeagles, I have set him up to be able to farm almost every pokemon available efficiently. The first move False Swipes ensure that pokemon never get KO. The second move, Spore sleeps the pokemon to make it easier to catch, and the Soak is exclusive for Ghost type pokemon such as Gastly. Its IV doesn't matter since it is not used for any PvP, and only as a Pokemon Catcher, so that means focus on Attack and Speed to be sure to always attack first.
