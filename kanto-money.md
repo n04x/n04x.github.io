@@ -36,7 +36,7 @@ Below is the table of my personal money run earning for Kanto:
 <h2 id="brock">Brock</h2>
 ![Brock]({{site.url}}/assets/images/trainers/brock.gif)
 
-This trainer is located in Pewter City in Kanto. Beating this trainer will reward you $8,632 without Amulet coin and $12,948 with Amulet coin. Below is the possible lineup the trainer might have:
+This trainer is located in Pewter City in Kanto. Beating this trainer will reward you $8,632 without Amulet coin and $12,948 with Amulet coin.
 
 <ol>
     <li> 
@@ -81,27 +81,195 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
     </li>
 </ol>
 
-### Weakness & Immunities
-
-- **Aerodactyl** is <span class="type sm rock"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, <span class="type sm electric"></span>, & <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> moves.
-- **Chansey** is a <span class="type sm normal"></span> type. She's weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span> moves.
-- **Crobat** is <span class="type sm poison"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, <span class="type sm psychic"></span>, & <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> moves.
-- **Forretress** is <span class="type sm bug"></span>/<span class="type sm steel"></span>. She's 4x more susceptible to <span class="type sm fire"></span> attacks but immune to <span class="type sm poison"></span> moves.
-- **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm water"></span> & <span class="type sm grass"></span> moves, weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm steel"></span>, & <span class="type sm ice"></span> attacks, & immune to <span class="type sm electric"></span> moves.
-- **Heracross** is <span class="type sm bug"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm flying"></span> moves & weak to <span class="type sm fire"></span>, & <span class="type sm psychic"></span> attacks. 
-- **Kabutops**, **Omastar**, & **Relicanth** are <span class="type sm rock"></span>/<span class="type sm water"></span> or <span class="type sm water"></span>/<span class="type sm rock"></span> types. They're 4x more susceptible to <span class="type sm grass"></span> moves & weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, & <span class="type sm electric"></span> attacks.
-- **Ludicolo** is <span class="type sm water"></span>/<span class="type sm grass"></span>. He's weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, & <span class="type sm bug"></span> attacks.
-- **Ninetales** is a <span class="type sm fire"></span> type. He's weak to <span class="type sm ground"></span>, <span class="type sm rock"></span>, & <span class="type sm water"></span> attacks.
-- **Pinsir** is a <span class="type sm bug"></span> type. He's weak to <span class="type sm flying"></span>, <span class="type sm rock"></span>, & <span class="type sm fire"></span> attacks.
-- **Rampardos** & **Sudowoodo** are <span class="type sm rock"></span> types. They're weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, & <span class="type sm grass"></span> attacks.
-- **Rhyperior** is <span class="type sm ground"></span>/<span class="type sm rock"></span>. Because of his ability, <span class="type sm water"></span> & <span class="type sm grass"></span> moves only deal 3x more damage instead of 4x. Furthermore, <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm steel"></span>, & <span class="type sm ice"></span> attacks only deal 1.5x damage as opposed to their usual 2x. He's immune to <span class="type sm electric"></span> moves.
-- **Sandslash** is a <span class="type sm ground"></span> type. He's weak to <span class="type sm water"></span>, <span class="type sm ice"></span>, & <span class="type sm grass"></span> attacks but immune to <span class="type sm electric"></span> moves.
-- **Shuckle** is <span class="type sm bug"></span>/<span class="type sm rock"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm steel"></span>, & <span class="type sm water"></span> attacks.
-- **Slowbro** is <span class="type sm water"></span>/<span class="type sm psychic"></span>. It's weak to <span class="type sm bug"></span>, <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, & <span class="type sm dark"></span> attacks.
-- **Steelix** is <span class="type sm steel"></span>/<span class="type sm ground"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm fire"></span>, & <span class="type sm water"></span> attacks & immune to <span class="type sm poison"></span> & <span class="type sm electric"></span> moves. Additionally, the only other types he doesn't resist are <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm ice"></span>, & <span class="type sm dark"></span>. 
-- **Swampert** is <span class="type sm water"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm grass"></span> attacks & immune to <span class="type sm electric"></span> moves.
-- **Toxicroak** is <span class="type sm poison"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm psychic"></span> moves & weak to <span class="type sm ground"></span> & <span class="type sm flying"></span> attacks. Because of his Ability he takes 25% additional damage from <span class="type sm fire"></span> moves & heals a quarter of his max health when damaged by <span class="type sm water"></span> moves.
-- **Tyranitar** is <span class="type sm rock"></span>/<span class="type sm dark"></span>. He's 4x more susceptible to <span class="type sm fighting"></span> moves, weak to <span class="type sm ground"></span>, <span class="type sm bug"></span>, <span class="type sm steel"></span>, <span class="type sm water"></span>, & <span class="type sm grass"></span> attacks, & immune to <span class="type sm psychic"></span> moves.
+<table class="tablelines">
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>
+            <td>Focus Sash or Power Herb</td>
+            <td>Pressure</td>
+            <td><span class="type rock"></span><span class="type flying"></span> </td>
+            <span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type electric"></span> <span class="type ice"></span>
+            <td>Earthquake, Crunch, Stone Edge, Wide Guard</td>
+        </tr>
+        <tr>
+            <td><img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"></td>
+            <td>Eviolite</td>
+            <td>Healer</td>
+            <td><span class="type normal"></span> </td>
+            <td><span class="type fighting"></span><td>
+            <td>Seismic Toss, Toxic, Wish, Protect</td>
+        </tr>
+        <tr>
+            <td><img title="crobat" src="{{site.url}}/assets/images/pokemon/crobat.gif" width="50"></td>
+            <td>Life Orb</td>
+            <td>Infiltrator</td>
+            <td><span class="type poison"></span><span class="type flying"></span> </td>
+            <td><span class="type rock"></span> <span class="type electric"></span> <span class="type psychic"></span> <span class="type ice"></span>
+        </tr>
+        <tr>
+            <td><img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" width="50"></td>
+            <td>Lum Berry</td>
+            <td>Sturdy</td>
+            <td><span class="type bug"></span><span class="type steel"></span> </td>
+            <td><span class="type fire">4x </span></td>
+            <td>Pin Missile, Gyro Ball, Rest, Protect</td>
+        </tr>
+        <tr>
+            <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"></td></td>
+            <td>Liechi Berry or Ground Gem</td>
+            <td>Sturdy</td>
+            <td><span class="type rock"></span><span class="type ground"></span> </td>
+            <td><span class="type water">4x </span> <span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type ice"></span></td>
+            <td> Earthquake, Stone Edge, Hammer Arm, Wide Guard </td>
+        </tr>
+        <tr>
+            <td><img title="heracross" src="{{site.url}}/assets/images/pokemon/heracross.gif" width="50"></td>
+            <td>Life Orb</td>
+            <td>Moxie</td>
+            <td><span class="type bug"></span><span class="type fighting"></span> </td>
+            <td><span class="type flying">4x </span> <span class="type fire"></span> <span class="type psychic"></span></td>
+            <td> Close Combat, Megahorn, Bullet Seed, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="kabutops" src="{{site.url}}/assets/images/pokemon/kabutops.gif" width="50"></td>
+            <td>Focus Sash</td>
+            <td>Swift Swim</td>
+            <td><span class="type rock"></span><span class="type water"></span> </td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
+            <td> Stone Edge, Aqua Tail, Superpower, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="ludicolo" src="{{site.url}}/assets/images/pokemon/ludicolo.gif" width="50"></td>
+            <td>Grass Gem</td>
+            <td>Swift Swim</td>
+            <td><td><span class="type water"></span><span class="type grass"></span> </td></td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span></td>
+            <td> Surf, Giga Drain, Ice Beam, Rain Dance </td>
+        </tr>
+        <tr>
+            <td><img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"></td>
+            <td>Focus Sash</td>
+            <td>Flash Fire</td>
+            <td><span class="type fire"></span> </td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
+            <td> Foul Play, Heat Wave, Energy Ball, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="omastar" src="{{site.url}}/assets/images/pokemon/omastar.gif" width="50"></td>
+            <td>Life Orb</td>
+            <td>Swift Swim</td>
+            <td><span class="type rock"></span><span class="type water"></span> </td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
+            <td> Muddy Water, Ice Beam, Earth Power, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="pinsir" src="{{site.url}}/assets/images/pokemon/pinsir.gif" width="50"></td>
+            <td>Life Orb</td>
+            <td>Moxie</td>
+            <td><span class="type bug"></span> </td>
+            <td><span class="type flying"></span> <span class="type rock"></span> <span class="type fire"></span></td>
+            <td> X-Scissor, Stone Edge, Close Combat, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"></td>
+            <td>Rock Gem</td>
+            <td>Mold Breaker</td>
+            <td><span class="type rock"></span> </td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td> Earthquake, Head Smash, Crunch, Superpower, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" width="50"></td>
+            <td>Rock Gem</td>
+            <td>Swift Swim</td>
+            <td><td><span class="type water"></span><span class="type rock"></span> </td></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
+            <td> Head Smash, Aqua Tail, Zen Headbutt, Protect </td>
+        </tr>
+        <tr>
+          <td><img title="rhyperior" src="{{site.url}}/assets/images/pokemon/rhyperior.gif" width="50"></td>
+          <td>Passho Berry</td>
+          <td>Solid Rock</td>
+          <td><span class="type ground"></span><span class="type rock"></span> </td>
+          <td><span class="type water">3x </span> & <span class="type grass">3x </span> <span class="type fighting"></span> <span class="type ground">1.5x </span> <span class="type steel">1.5x </span> <span class="type ice">1.5x </span></td>
+          <td> Earthquake, Rock Wrecker, Megahorn, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="sandslash" src="{{site.url}}/assets/images/pokemon/sandslash.gif" width="50"></td>
+            <td>Bright Powder</td>
+            <td>Sand Veil</td>
+            <td><span class="type ground"></span> </td>
+            <td><span class="type sm water"></span> <span class="type sm ice"></span> <span class="type sm grass"></td>
+            <td> Earthquake, Stone Edge, X-Scissor, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="shuckle" src="{{site.url}}/assets/images/pokemon/shuckle.gif" width="50"></td>
+            <td>Leftovers</td>
+            <td>Contrary</td>
+            <td><span class="type bug"></span><span class="type rock"></span> </td>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span></td>
+            <td> Shell Smash, Helping Hand, Rest, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="slowbro" src="{{site.url}}/assets/images/pokemon/slowbro.gif" width="50"></td>
+            <td>Sitrus Berry</td>
+            <td>Regenerator</td>
+            <td><span class="type water"></span><span class="type psychic"></span> </td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type sm dark"></td>
+            <td> Surf, Psychic, Ice Beam, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50"></td>
+            <td>Normal Gem, Ground Gem, Life Orb or Forcus Sash</td>
+            <td>Sturdy or Sheer Force</td>
+            <td><span class="type steel"></span><span class="type ground"></span> </td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <span class="type sm water"></span></td>
+            <td> Explosion, Rock Slide, Aqua Tail, Earthquake, Iron Tail, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="sudowoodo" src="{{site.url}}/assets/images/pokemon/sudowoodo.gif" width="50"></td>
+            <td>Sitrus Berry</td>
+            <td>Sturdy</td>
+            <td><span class="type rock"></span> </td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td> Wood Hammer, Head Smash, Sucker Punch, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="swampert" src="{{site.url}}/assets/images/pokemon/swampert.gif" width="50"></td>
+            <td>Focus Sash</td>
+            <td>Torrent</td>
+            <td><span class="type water"></span><span class="type ground"></span> </td>
+            <td><span class="type grass">4x </span></td>
+            <td> Earthquake, Aqua Tail, Ice Punch, Wide Guard </td>
+        </tr>
+        <tr>
+            <td><img title="toxicroak" src="{{site.url}}/assets/images/pokemon/toxicroak.gif" width="50"></td>
+            <td>Focus Sash</td>
+            <td>Dry Skin</td>
+            <td><span class="type poison"></span><span class="type fighting"></span> </td>
+            <td><span class="type psychic">4x </span> <span class="type ground"></span> <span class="type flying"></span></td>
+            <td> Gunk Shot, Cross Chop, Sucker Punch, Protect </td>
+        </tr>
+        <tr>
+            <td><img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" width="50"></td>
+            <td>Smooth Rock</td>
+            <td>Sand Stream</td>
+            <td><span class="type rock"></span><span class="type dark"></span> </td>
+            <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td> Rock Slide, Stone Edge, Earthquake, Crunch, Protect </td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="misty">Misty</h2>
 ![Misty]({{site.url}}/assets/images/trainers/misty.gif)
@@ -361,6 +529,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
 
 <h2 id="koga">Koga</h2>
 ![koga]({{site.url}}/assets/images/trainers/koga.gif)
+
 This trainer is located in Fuchsia City in Kanto. Beating this trainer will reward you $9,048 without Amulet coin and $13,572 with Amulet coin. Here is a map of the invisible walls for Koga's gym
 
 <img title="koga invisible walls" src="{{site.url}}/assets/images/maps/koga-gym.png">
@@ -508,22 +677,22 @@ The NPC can be found in the route mentioned below, not all routes are mandatory 
 </ul>
 
 <h2 id="route11" style="color:green">Route 11</h2>
-Fly to Vermillion, head southeast into Route 11. Fight 4 Gamers here.
+Fly to Vermillion, head southeast into Route 11. Fight 4 Gamers here. Each gamer grants $4,116 with amulet coin when you beat them for a total of $16,464 with amulet coin
 
 <img title='route11' src="{{site.url}}/assets/images/maps/route11.png">
 
 <h2 id="route8" style="color:green">Route 8</h2>
-Fly to Lavender then go west into Route 8. Fight 2 Gamers here.
+Fly to Lavender then go west into Route 8. Fight 2 Gamers here. Each gamer grants $4,284 with amulet coin when you beat them for a total of $8,568z with amulet coin
 
 <img title='route8' src="{{site.url}}/assets/images/maps/route8.png">
 
 <h2 id="route15">Route 15</h2>
-Fly to Fuchsia and head east into Route 15. Fight 2 Beauty here.
+Fly to Fuchsia and head east into Route 15. Fight 2 Beauty here. Each beauty reward $4,368 with amulet coin when you beat them for a total of $8,736 with amulet coin
 
 <img title='route15' src="{{site.url}}/assets/images/maps/route15.png">
 
 <h2 id="route13">Route 13</h2>
-Fly to Fuchsia and head east into Route 15. Fight 2 Beauty here.
+Keep going through Route 14 in East and go north to Route 13. Fight 2 Beauty here. Each beauty reward $4,284 with amulet coin when you beat them for a total of $8,568 with amulet coin
 
 <img title='route13' src="{{site.url}}/assets/images/maps/route13.png">
 
@@ -536,7 +705,7 @@ Make sure to have your Amulet Coin Boost on before trying it for maximum effecti
 </ul>
 
 <h2 id='isle5'>Isle 5</h2>
-The green dots on the northern island are the best trainers in the game for cash, always do those. The Ladies at Resort Generous (north of Isle 5) give $3,264 without the Amulet Coin Boost and $4,896 with Amulet Coin.
+The green dots on the northern island are the best trainers in the game for cash, always do those. The Ladies at Resort Generous (north of Isle 5) give $3,264 without the Amulet Coin Boost and $6,018 with Amulet Coin.
 
 <img title='isle5' src="{{site.url}}/assets/images/maps/isle5.png">
 

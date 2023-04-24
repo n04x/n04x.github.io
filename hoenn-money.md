@@ -20,6 +20,13 @@ Below is the table of my personal money run earning for Hoenn:
 
 <ul>
    <li><a href="#roxanne">Roxanne</a></li> 
+   <li><a href="#brawly">Roxanne</a></li> 
+   <li><a href="#wattson">Roxanne</a></li> 
+   <li><a href="#flannery">Roxanne</a></li> 
+   <li><a href="#norman">Roxanne</a></li> 
+   <li><a href="#winona">Roxanne</a></li> 
+   <li><a href="#tateandliza">Roxanne</a></li> 
+   <li><a href="#juan">Roxanne</a></li> 
 </ul>
 
 <h2 id="roxanne">Roxanne</h2>
@@ -38,7 +45,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
     </li>
     <li> 
         <img title="gigalith" src="{{site.url}}/assets/images/pokemon/gigalith.gif" width="50"> 
-        <img title="Steelix" src="{{site.url}}/assets/images/pokemon/Steelix.gif" width="50"> 
+        <img title="Steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50"> 
         <img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" width="50"> 
         <img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"> 
         <img title="bastiodon" src="{{site.url}}/assets/images/pokemon/bastiodon.gif" width="50"> 
@@ -73,7 +80,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
 - **Aerodactyl** is <span class="type sm rock"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm <span class="type sm steel"></span>"></span>, <span class="type sm water"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks  but immune to <span class="type sm ground"></span> moves. 
 - **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. She's 4x more susceptible to <span class="type sm water"></span> and <span class="type sm <span class="type sm grass"></span>"></span> attacks, weak to <span class="type sm ice"></span>, <span class="type sm <span class="type sm steel"></span>"></span>, <span class="type sm ground"></span>, and <span class="type sm fighting"></span> attacks, and immune to <span class="type sm electric"></span> moves.
 - **Omastar** and **Kabutops** are <span class="type sm rock"></span>/<span class="type sm water"></span>. They're 4x more susceptible to <span class="type sm <span class="type sm grass"></span>"></span> attacks and weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm electric"></span> moves.
-- **Probopass** is <span class="type sm rock"></span>/<span class="type sm <span class="type sm steel"></span>"></span>. She's 4x more susceptible to <span class="type sm fighting"></span> and <span class="type sm ground"></span> attacks, weak to <span class="type sm water"></span> attacks, and immune to <span class="type sm poison"> moves.
+- **Probopass** is <span class="type sm rock"></span>/<span class="type sm <span class=type sm steel"></span>></span>. She's 4x more susceptible to <span class="type sm fighting"></span> and <span class="type sm ground"></span> attacks, weak to <span class="type sm water"></span> attacks, and immune to <span class="type sm poison"> moves.
 - **Tyranitar** is <span class="type sm rock"></span>/<span class="type sm dark"></span>. She's 4x more susceptible to <span class="type sm fighting"></span> attacks, weak to <span class="type sm ground"></span>, <span class="type sm water"></span>, <span class="type sm bug"></span>, <span class="type sm <span class="type sm steel"></span>"></span>, and <span class="type sm <span class="type sm grass"></span>"></span> attacks, and immune to <span class="type sm psychic"></span> moves.
 
 <h2 id="brawly">Brawly</h2>
@@ -297,7 +304,7 @@ This trainer is located in Petalburg City in Hoenn. Beating this trainer will re
     </li>
 </ol>
 
-- **Sawsbuck** is <span class="type sm normal"></span>/<span class="type sm <span class="type sm grass"></span>"></span>. She's weak to <span class="type sm fighting"></span>, <span class="type sm flying"></span>, <span class="type sm poison">, <span class="type sm bug"></span>, <span class="type sm fire"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ghost"></span> moves. 
+- **Sawsbuck** is <span class="type sm normal"></span>/<span class="type sm grass"></span></span>. She's weak to <span class="type sm fighting"></span>, <span class="type sm flying"></span>, <span class="type sm poison">, <span class="type sm bug"></span>, <span class="type sm fire"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ghost"></span> moves. 
 - **Kecleon** and **Castform** start out as <span class="type sm normal"></span> types. They're initially weak to <span class="type sm fighting"></span> attacks and immune to <span class="type sm ghost"></span> moves. Because of their abilities, they may change their types. Kecleon will change to whatever type the move that last hit him was, gaining their resistances and weaknesses. Castform will change depending on the weather (<span class="type sm fire"></span> in sunshine, <span class="type sm water"></span> in rain, and <span class="type sm ice"></span> in hailstorms). You can use this chart of basic Pokémon matchups to determine what move is most effective against them. 
 - **Slaking**, **Linoone**, **Spinda**, **Blissey**, **Stantler**, **Stoutland**, **Granbull**, **Bouffalant**, **Zangoose** and **Tauros** are all <span class="type sm normal"></span> types. They're weak to <span class="type sm fighting"></span> attacks and immune to <span class="type sm ghost"></span> moves.
 - **Staraptor** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> moves. 
