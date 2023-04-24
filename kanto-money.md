@@ -98,7 +98,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Focus Sash or Power Herb</td>
             <td>Pressure</td>
             <td><span class="type rock"></span><span class="type flying"></span> </td>
-            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type electric"></span> <span class="type ice"></span></td>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
             <td>Earthquake, Crunch, Stone Edge, Wide Guard</td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Life Orb</td>
             <td>Infiltrator</td>
             <td><span class="type poison"></span><span class="type flying"></span> </td>
-            <td><span class="type rock"></span> <span class="type electric"></span> <span class="type psychic"></span> <span class="type ice"></span>
+            <td><span class="type rock"></span> <span class="type electric"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
             <td> Brave Bird, Heat Wave, Sludge Bomb, Giga Drain </td>
         </tr>
         <tr>
@@ -126,11 +126,11 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Pin Missile, Gyro Ball, Rest, Protect</td>
         </tr>
         <tr>
-            <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"></td></td>
+            <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"></td>
             <td>Liechi Berry or Ground Gem</td>
             <td>Sturdy</td>
             <td><span class="type rock"></span><span class="type ground"></span> </td>
-            <td><span class="type water">4x </span> <span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type ice"></span></td>
+            <td><span class="type water">4x </span> <span class="type grass">4x </span> <span class="type fighting"></span> <br /><span class="type ground"></span> <span class="type steel"></span> <span class="type ice"></span></td>
             <td> Earthquake, Stone Edge, Hammer Arm, Wide Guard </td>
         </tr>
         <tr>
@@ -146,7 +146,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Focus Sash</td>
             <td>Swift Swim</td>
             <td><span class="type rock"></span><span class="type water"></span> </td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td> Stone Edge, Aqua Tail, Superpower, Protect </td>
         </tr>
         <tr>
@@ -170,7 +170,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Life Orb</td>
             <td>Swift Swim</td>
             <td><span class="type rock"></span><span class="type water"></span> </td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td> Muddy Water, Ice Beam, Earth Power, Protect </td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Rock Gem</td>
             <td>Mold Breaker</td>
             <td><span class="type rock"></span> </td>
-            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
             <td> Earthquake, Head Smash, Crunch, Superpower, Protect </td>
         </tr>
         <tr>
@@ -194,7 +194,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Rock Gem</td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type rock"></span> </td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td> Head Smash, Aqua Tail, Zen Headbutt, Protect </td>
         </tr>
         <tr>
@@ -202,7 +202,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
           <td>Passho Berry</td>
           <td>Solid Rock</td>
           <td><span class="type ground"></span><span class="type rock"></span> </td>
-          <td><span class="type water">3x </span> & <span class="type grass">3x </span> <span class="type fighting"></span> <span class="type ground">1.5x </span> <span class="type steel">1.5x </span> <span class="type ice">1.5x </span></td>
+          <td><span class="type water">3x </span> & <span class="type grass">3x </span> <span class="type fighting"></span> <br /><span class="type ground">1.5x </span> <span class="type steel">1.5x </span> <span class="type ice">1.5x </span></td>
           <td> Earthquake, Rock Wrecker, Megahorn, Protect </td>
         </tr>
         <tr>
@@ -210,7 +210,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Bright Powder</td>
             <td>Sand Veil</td>
             <td><span class="type ground"></span> </td>
-            <td><span class="type sm water"></span> <span class="type sm ice"></span> <span class="type sm grass"></td>
+            <td><span class="type water"></span> <span class="type ice"></span> <span class="type grass"></span></td>
             <td> Earthquake, Stone Edge, X-Scissor, Protect </td>
         </tr>
         <tr>
@@ -226,7 +226,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Sitrus Berry</td>
             <td>Regenerator</td>
             <td><span class="type water"></span><span class="type psychic"></span> </td>
-            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type sm dark"></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <br /><span class="type electric"></span> <span class="type dark"></span></td>
             <td> Surf, Psychic, Ice Beam, Protect </td>
         </tr>
         <tr>
@@ -234,7 +234,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Normal Gem, Ground Gem, Life Orb or Forcus Sash</td>
             <td>Sturdy or Sheer Force</td>
             <td><span class="type steel"></span><span class="type ground"></span> </td>
-            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <span class="type sm water"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type sm water"></span></td>
             <td> Explosion, Rock Slide, Aqua Tail, Earthquake, Iron Tail, Protect </td>
         </tr>
         <tr>
@@ -242,7 +242,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Sitrus Berry</td>
             <td>Sturdy</td>
             <td><span class="type rock"></span> </td>
-            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
             <td> Wood Hammer, Head Smash, Sucker Punch, Protect </td>
         </tr>
         <tr>
@@ -266,7 +266,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Smooth Rock</td>
             <td>Sand Stream</td>
             <td><span class="type rock"></span><span class="type dark"></span> </td>
-            <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <br /><span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
             <td> Rock Slide, Stone Edge, Earthquake, Crunch, Protect </td>
         </tr>
     </tbody>
