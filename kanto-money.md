@@ -320,22 +320,204 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Ampharos** is an <span class="type sm electric"></span> type. He's weak to <span class="type sm ground"></span> 
-- **Carracosta** is <span class="type sm water"></span><span class="type sm rock"></span>. He's 4x more susceptible to <span class="type sm grass"></span> moves and weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm electric"></span>  He has four different speeds based on whether his items and ability aren't active, his item but not his ability is active, his ability but not his item is active, and his item and ability are both active in descending order.
-- **Cloyster** and **Lapras** are <span class="type sm water"></span>/<span class="type sm ice"></span> types. They're weak to <span class="type sm fighting"></span>, <span class="type sm rock"></span>, <span class="type sm grass"></span>, and <span class="type sm electric"></span> 
-- **Dragonite** is <span class="type sm dragon"></span>/<span class="type sm <span class=type sm flying"></span></span>. He's 4x more susceptible to <span class="type sm ice"></span> moves, weak to <span class="type sm rock"></span> and <span class="type sm dragon"></span> attacks, and immune to <span class="type sm ground"></span> 
-- **Floatzel** and **Milotic** are <span class="type sm water"></span> types. They're weak to <span class="type sm electric"></span> and <span class="type sm grass"></span>  Because of her berry, the first <span class="type sm electric"></span> attack to hit Milotic will deal half its damage.
-- **Jellicent** is <span class="type sm water"></span>/<span class="type sm ghost"></span>. She's weak to <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, and <span class="type sm dark"></span> attacks but immune to <span class="type sm normal"></span> and <span class="type sm fighting"></span>  Because of her Wacan Berry, the first <span class="type sm electric"></span> attack to hit her will deal half damage.
-- **Kingdra** is <span class="type sm water"></span>/<span class="type sm dragon"></span>. He's weak to <span class="type sm dragon"></span> 
-- **Lanturn** is <span class="type sm water"></span>/<span class="type sm electric"></span>. She's weak to <span class="type sm ground"></span> and <span class="type sm grass"></span>  Because of her Rindo Berry, the first <span class="type sm grass"></span> attack to hit her will deal half damage.
-- **Pelipper**, **Swanna** and **Gyarados** are <span class="type sm water"></span>/<span class="type sm flying"></span>. They're 4x more susceptible to <span class="type sm electric"></span> moves and weak to <span class="type sm rock"></span> 
-- **Politoed**, **Golduck**, **Azumarill** and **Blastoise** are all <span class="type sm water"></span> types. They're weak to <span class="type sm electric"></span> and <span class="type sm grass"></span> 
-- **Poliwrath** is a <span class="type sm water"></span>/<span class="type sm fighting"></span> type. He's weak to <span class="type sm flying"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, and <span class="type sm psychic"></span> 
-- **Quagsire** is <span class="type sm water"></span>/<span class="type sm ground"></span>. It's 4x more susceptible to <span class="type sm grass"></span> attacks and immune to <span class="type sm electric"></span> 
-- **Seaking** is a <span class="type sm water"></span> type. It's weak to <span class="type sm grass"></span>  Because of its ability, it's immune to <span class="type sm electric"></span>  Any that hit it will raise its Sp. Atk.
-- **Starmie** is <span class="type sm water"></span>/<span class="type sm psychic"></span>. It's weak to <span class="type sm bug"></span>, <span class="type sm ghost"></span>, <span class="type sm grass"></span>, <span class="type sm electric"></span>, and <span class="type sm dark"></span>  
-- **Tentacruel** is <span class="type sm water"></span>/Poison. It's weak to <span class="type sm ground"></span>, <span class="type sm electric"></span>, and <span class="type sm psychic"></span> 
-- **Togekiss** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> and <span class="type sm ghost"></span> 
+<table class="tablelines">
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="ampharos" src="{{site.url}}/assets/images/pokemon/ampharos.gif" width="50"> </td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" width="50"> </td>
+            <td>Static</td>
+            <td><span class="type electric"></span> </td>
+            <td><span class="type ground"></span> </td>
+            <td>Thunder, Focus Blast, Dragon Pulse, Hidden Power (Water) </td>
+        </tr>
+        <tr>
+            <td><img title="azumarill" src="{{site.url}}/assets/images/pokemon/azumarill.gif" width="50"> </td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png" width="50"> </td>
+            <td>Huge Power</td>
+            <td><span class="type water"></span></td>
+            <td><span class="type electric"></span> <span class="type grass"></span> </td>
+            <td>Aqua Tail, Aqua Jet, Superpower, Ice Punch </td>
+        </tr>
+        <tr>
+            <td><img title="blastoise" src="{{site.url}}/assets/images/pokemon/blastoise.gif" width="50"> </td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" width="50"> </td>
+            <td>Rain Dish</td>
+            <td><span class="type water"></span></td>
+            <td><span class="type electric"></span> <span class="type grass"></span> </td>
+            <td>Water Spout, Zap Cannon, Ice Beam, Aura Sphere </td>
+        </tr>
+        <tr>
+            <td><img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" width="50"> </td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" width="50"> </td>
+            <td>Swift Swim</td>
+            <td><span class="type water"></span><span class="type rock"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> and <span class="type electric"></span> </td>
+            <td>Earthquake, Stone Edge, Aqua Tail, Superpower </td>
+        </tr>
+        <tr>
+            <td><img title="cloyster" src="{{site.url}}/assets/images/pokemon/cloyster.gif" width="50"> </td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"> </td>
+            <td>Skill Link</td>
+            <td><span class="type water"></span><span class="type ice"></span></td>
+            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <span class="type electric"></span> </td>
+            <td>Icicle Spear, Rock Blast, Razor Shell, Shell Smash </td>
+        </tr>
+        <tr>
+            <td><img title="dragonite" src="{{site.url}}/assets/images/pokemon/dragonite.gif" width="50"> </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td>Multiscale</td>
+            <td><span class="type dragon"></span><span class="type flying"></span></td>
+            <td><span class="type ice">4x </span> <span class="type rock"></span> <span class="type dragon"></span> </td>
+            <td>Dragon Claw, Extreme Speed, Thunder, Hurricane </td>
+        </tr>
+        <tr>
+            <td><img title="floatzel" src="{{site.url}}/assets/images/pokemon/floatzel.gif" width="50"> </td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png" width="50"> </td>
+            <td>Swift Swim</td>
+            <td><span class="type water"></span></td>
+            <td><span class="type electric"></span> <span class="type grass"></span> <span class="type electric"></span></td>
+            <td>Aqua Tail, Crunch, Ice Punch, Low Kick </td>
+        </tr>
+        <tr>
+            <td><img title="golduck" src="{{site.url}}/assets/images/pokemon/golduck.gif" width="50"> </td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" width="50"> </td>
+            <td>Swift Swim</td>
+            <td><span class="type water"></span> </td>
+            <td><span class="type electric"></span> <span class="type grass"></span> </td>
+            <td>Hydro Pump, Petal Dance, Psyshock, Ice Beam </td>
+        </tr>
+        <tr>
+            <td><img title="gyarados" src="{{site.url}}/assets/images/pokemon/gyarados.gif" width="50"> </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td>Intimidate </td>
+            <td><span class="type water"></span><span class="type flying"></span> </td>
+            <td><span class="type electric">4x </span> <span class="type rock"></span> </td>
+            <td>Waterfall, Crunch, Bounce, Dragon Dance </td>
+        </tr>
+        <tr>
+            <td><img title="jellicent" src="{{site.url}}/assets/images/pokemon/jellicent.gif" width="50"> </td>
+            <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" width="50"> </td>
+            <td>Water Absorb </td>
+            <td><span class="type water"></span><span class="type ghost"></span> </td>
+            <td><span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type dark"></span></td>
+            <td>Shadow Ball, Scald, Giga Drain, Recover </td>
+        </tr>
+        <tr>
+            <td><img title="kingdra" src="{{site.url}}/assets/images/pokemon/kingdra.gif" width="50"> </td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png" width="50"> </td>
+            <td>Swift Swim </td>
+            <td><span class="type water"></span><span class="type dragon"></span> </td>
+            <td><span class="type dragon"></span> </td>
+            <td>Muddy Water, Ice Beam, Draco Meteor, Hydro Pump </td>
+        </tr>
+        <tr>
+            <td><img title="lanturn" src="{{site.url}}/assets/images/pokemon/lanturn.gif" width="50"> </td>
+            <td><img title="rindo-berry" src="{{site.url}}/assets/images/items/rindo-berry.png" width="50"> </td>
+            <td>Volt Absorb </td>
+            <td><span class="type water"></span><span class="type electric"></span> </td>
+            <td><span class="type ground"></span> <span class="type grass"></span> </td>
+            <td>Thunder, Hydro Pump, Ice Beam, Thunder Wave </td>
+        </tr>
+        <tr>
+            <td><img title="lapras" src="{{site.url}}/assets/images/pokemon/lapras.gif" width="50"> </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td>Hydration </td>
+            <td><span class="type water"></span><span class="type ice"></span> </td>
+            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <span class="type electric"></span> </td>
+            <td>Hydro Pump, Thunder, Ice Beam, Rest </td>
+        </tr>
+        <tr>
+            <td><img title="milotic" src="{{site.url}}/assets/images/pokemon/milotic.gif" width="50"> </td>
+            <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" width="50"> </td>
+            <td>Marvel Scale </td>
+            <td><span class="type water"></span> </td>
+            <td><span class="type electric"></span> <span class="type grass"></span> <span class="type electric"></span></td>
+            <td>Ice Beam, Scald, Mirror Coat, Recover </td>
+        </tr>
+        <tr>
+            <td><img title="pelipper" src="{{site.url}}/assets/images/pokemon/pelipper.gif" width="50"> </td>
+            <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png" width="50"> </td>
+            <td>Drizzle </td>
+            <td><span class="type water"></span><span class="type flying"></span> </td>
+            <td><span class="type electric">4x </span> <span class="type rock"></span> </td>
+            <td>Scald, Ice Beam, Hurricane, Tailwind  U-Turn, Roost </td>
+        </tr>
+        <tr>
+            <td><img title="politoed" src="{{site.url}}/assets/images/pokemon/politoed.gif" width="50"> </td>
+            <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png" width="50"> </td>
+            <td>Drizzle </td>
+            <td><span class="type water"></span> </td>
+            <td><span class="type electric"></span> and <span class="type grass"></span> </td>
+            <td>Scald, Ice Beam, Focus Blast, Psychic, Lovely Kiss Hyper Voice, Hydro Pump</td>
+        </tr>
+        <tr>
+            <td><img title="poliwrath" src="{{site.url}}/assets/images/pokemon/poliwrath.gif" width="50"> </td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td>Swift Swim </td>
+            <td><span class="type water"></span><span class="type fighting"></span> </td>
+            <td><span class="type flying"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type psychic"></span></td>
+            <td>Waterfall, Brick Break, Ice Punch, Lovely Kiss </td>
+        </tr>
+        <tr>
+            <td><img title="quagsire" src="{{site.url}}/assets/images/pokemon/quagsire.gif" width="50"> </td>
+            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png" width="50"> </td>
+            <td>Water Absorb </td>
+            <td><span class="type water"></span><span class="type ground"></span> </td>
+            <td><span class="type grass">4x </span></td>
+            <td>Stone Edge, Muddy Water, Earth Power, Recover </td>
+        </tr>
+        <tr>
+            <td><img title="seaking" src="{{site.url}}/assets/images/pokemon/seaking.gif" width="50"> </td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"> </td>
+            <td>Lightning Rod </td>
+            <td><span class="type water"></span> </td>
+            <td><span class="type grass"></span> </td>
+            <td>Megahorn, Aqua Tail, Drill Run, Bounce </td>
+        </tr>
+        <tr>
+            <td><img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" width="50"></td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" width="50">/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> </td>
+            <td>Analytic </td>
+            <td><span class="type water"></span><span class="type psychic"></span> </td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type dark"></span> </td>
+            <td> Thunder, Psyshock, Ice Beam, Hydro Pump, Scald </td>
+        </tr>
+        <tr>
+            <td><img title="swanna" src="{{site.url}}/assets/images/pokemon/swanna.gif" width="50"> </td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"> </td>
+            <td>Hydration </td>
+            <td><span class="type water"></span><span class="type flying"></span> </td>
+            <td><span class="type electric">4x </span> <span class="type rock"></span> </td>
+            <td>Endeavor, Ice Beam, Hurricane, Scald </td>
+        </tr>
+        <tr>
+            <td><img title="tentacruel" src="{{site.url}}/assets/images/pokemon/tentacruel.gif" width="50"> </td>
+            <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png" width="50"> </td>
+            <td>Rain Dish </td>
+            <td><span class="type water"></span><span class="type poison"></span> </td>
+            <td><span class="type ground"></span> <span class="type electric"></span> <span class="type psychic"></span> </td>
+            <td>Muddy Water, Ice Beam, Giga Drain, Rest </td>
+        </tr>
+        <tr>
+            <td><img title="togekiss" src="{{site.url}}/assets/images/pokemon/togekiss.gif" width="50"> </td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png" width="50"> </td>
+            <td>Serene Grace </td>
+            <td><span class="type normal"></span><span class="type flying"></span> </td>
+            <td><span class="type rock"></span> <span class="type electric"></span> <span class="type ice"></span> </td>
+            <td>Tri Attack, Air Slash, Aura Sphere, Roost</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="ltsurge">Lt. Surge</h2>
 ![Lt Surge]({{site.url}}/assets/images/trainers/ltsurge.gif)
