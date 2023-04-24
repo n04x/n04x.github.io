@@ -98,7 +98,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Focus Sash or Power Herb</td>
             <td>Pressure</td>
             <td><span class="type rock"></span><span class="type flying"></span> </td>
-            <span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type electric"></span> <span class="type ice"></span>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type electric"></span> <span class="type ice"></span></td>
             <td>Earthquake, Crunch, Stone Edge, Wide Guard</td>
         </tr>
         <tr>
