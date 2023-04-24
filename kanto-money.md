@@ -584,7 +584,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Static</td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span> </td>
+            <td><span class="type ground"></span> </td>
             <td>Thunder, Focus Blast, Dragon Pulse, Hidden Power (Water) </td>
         </tr>
         <tr>
@@ -592,7 +592,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Early Bird</td>
             <td><span class="type normal"></span><span class="type flying"></span> </td>
-            <td><span class="Type rock"></span> <span class="Type electric"></span> <span class="Type ice"></span></td>
+            <td><span class="type rock"></span> <span class="type electric"></span> <span class="type ice"></span></td>
             <td>Brave Bird, Jump Kick, Double-Edge, Payback </td>
         </tr>
         <tr>
@@ -600,7 +600,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Vital Spirit or Motor Drive</td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span> </td>
+            <td><span class="type ground"></span> </td>
             <td> Wild Charge, Cross Chop, Dig, Ice Punch, Discharge, Flamethrower, Focus Blast, Hidden Power (Ice)  </td>
         </tr>
         <tr>
@@ -608,7 +608,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Aftermath</td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span></td>
+            <td><span class="type ground"></span></td>
             <td>Foul Play, Thunderbolt, Light Screen, Reflect </td>
         </tr>
         <tr>
@@ -616,7 +616,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
             <td>Levitate</td>
             <td><span class="type electric"></span><span class="type flying"></span></td>
-            <td><span class="Type rock"></span> <span class="Type ice"></span></td>
+            <td><span class="type rock"></span> <span class="type ice"></span></td>
             <td>Thunderbolt, Air Slash, Hidden Power (Water), Will-O-Wisp </td>
         </tr>
         <tr>
@@ -624,7 +624,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
             <td>Sniper</td>
             <td><span class="type normal"></span><span class="type flying"></span> </td>
-            <td><span class="Type rock"></span><span class="Type ice"></span>, and <span class="Type electric"></span></td>
+            <td><span class="type rock"></span><span class="type ice"></span>, and <span class="type electric"></span></td>
             <td></td>
         </tr>
         <tr>
@@ -632,7 +632,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Volt Absorb </td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span> </td>
+            <td><span class="type ground"></span> </td>
             <td>Thunderbolt, Hyper Voice, Hidden Power (Ice), Shadow Ball, Thunder, Hidden Power (Grass), Fake Tears </td>
         </tr>
         <tr>
@@ -640,7 +640,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Water Absorb</td>
             <td><span class="type water"></span><span class="type electric"></span> </td>
-            <td><span class="Type grass"></span> <span class="Type ground"></span> </td>
+            <td><span class="type grass"></span> <span class="type ground"></span> </td>
             <td>Ice Beam, Hydro Pump, Thunder, Thunder Wave, Thunderbolt</td>
         </tr>
         <tr>
@@ -648,7 +648,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Cloud Nine</td>
             <td><span class="type normal"></span> </td>
-            <td><span class="Type fighting"></span> </td>
+            <td><span class="type fighting"></span> </td>
             <td></td>
         </tr>
         <tr>
@@ -656,7 +656,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Sturdy</td>
             <td><span class="type electric"></span><span class="type steel"></span> </td>
-            <td><span class="Type fighting"></span> <span class="Type fire"></span> <span class="Type ground">4x </span> </td>
+            <td><span class="type fighting"></span> <span class="type fire"></span> <span class="type ground">4x </span> </td>
             <td></td>
         </tr>
         <tr>
@@ -664,7 +664,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Static or Lightning Rod</td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span> </td>
+            <td><span class="type ground"></span> </td>
             <td>Snarl, Flamethrower, Thunderbolt, Hidden Power (Ice), Discharge, Hidden Power (Grass) </td>
         </tr>
         <tr>
@@ -672,7 +672,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Volt Absorb </td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span> </td>
+            <td><span class="type ground"></span> </td>
             <td>Super Fang, Discharge, Sweet Kiss, Light Screen </td>
         </tr>
         <tr>
@@ -680,7 +680,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="light-ball" src="{{site.url}}/assets/images/items/light-ball.png"></td>
             <td>Lightning Rod</td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span> </td>
+            <td><span class="type ground"></span> </td>
             <td>Fake Out, Discharge, Hidden Power (Ice), Grass Knot </td>
         </tr>
         <tr>
@@ -688,7 +688,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="damp-rock" src="{{site.url}}/assets/images/items/damp-rock.png"></td>
             <td>Drizzle</td>
             <td><span class="type water"></span> </td>
-            <td><span class="Type grass"></span> <span class="Type electric"></span> </td>
+            <td><span class="type grass"></span> <span class="type electric"></span> </td>
             <td>Hydro Pump, Ice Beam, Lovely Kiss, Protect </td>
         </tr>
         <tr>
@@ -696,7 +696,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Analytic</td>
             <td><span class="type normal"></span> </td>
-            <td><span class="Type fighting"></span> </td>
+            <td><span class="type fighting"></span> </td>
             <td>Ice Beam, Thunder, Tri Attack, Recover </td>
         </tr>
         <tr>
@@ -704,7 +704,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Water Absorb</td>
             <td><span class="type water"></span><span class="type ground"></span> </td>
-            <td><span class="Type grass">4x </span> </td>
+            <td><span class="type grass">4x </span> </td>
             <td>Earthquake, Ice Punch, Aqua Tail, Counter </td>
         </tr>
         <tr>
@@ -712,7 +712,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Static or Lightning Rod</td>
             <td><span class="type electric"></span> </td>
-            <td><span class="Type ground"></span> </td>
+            <td><span class="type ground"></span> </td>
             <td>Volt Tackle, Brick Break, Fly, Extreme Speed, Fake Out, Discharge, Hidden Power (Ice), Focus Blast, Nasty Plot, Grass Knot,  Thunderbolt, Surf, Thunder</td>
         </tr>
         <tr>
@@ -720,7 +720,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Hustle</td>
             <td><span class="type normal"></span> </td>
-            <td><span class="Type fighting"></span> </td>
+            <td><span class="type fighting"></span> </td>
             <td>Sucker Punch, U-Turn, Double-Edge, Wild Charge </td>
         </tr>
         <tr>
@@ -728,7 +728,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="grass-gem" src="{{site.url}}/assets/images/items/grass-gem.png"></td>
             <td>Regenerator</td>
             <td><span class="type grass"></span> </td>
-            <td><span class="Type flying"></span> <span class="Type poison"></span> <span class="Type bug"></span> <span class="Type fire"></span> <span class="Type ice"></span> </td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <span class="type fire"></span> <span class="type ice"></span> </td>
             <td>Power Whip, Reflect, Sleep Powder, Morning Sun </td>
         </tr>
         <tr>
@@ -736,7 +736,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
             <td>Chlorophyll</td>
             <td><span class="type grass"></span><span class="type poison"></span> </td>
-            <td><span class="Type flying"></span> <span class="Type fire"></span> <span class="Type psychic"></span> <span class="Type ice"></span></td>
+            <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <span class="type ice"></span></td>
             <td>Poison Jab, Power Whip, Sleep Powder, Swords Dance</td>
         </tr>
     </tbody>
