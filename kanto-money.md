@@ -94,8 +94,8 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
     </thead>
     <tbody>
         <tr>
-            <td><img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>
-            <td>Focus Sash or Power Herb</td>
+            <td><img title="aerodactyle" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>           
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50">/<img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png" width="50"></td>
             <td>Pressure</td>
             <td><span class="type rock"></span><span class="type flying"></span> </td>
             <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
@@ -103,7 +103,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="chansey" src="{{site.url}}/assets/images/pokemon/chansey.gif" width="50"></td>
-            <td>Eviolite</td>
+            <td><img title="eviolite" src="{{site.url}}/assets/images/items/eviolite.png" width="50"></td>
             <td>Healer</td>
             <td><span class="type normal"></span> </td>
             <td><span class="type fighting"></span></td>
@@ -111,7 +111,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="crobat" src="{{site.url}}/assets/images/pokemon/crobat.gif" width="50"></td>
-            <td>Life Orb</td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
             <td>Infiltrator</td>
             <td><span class="type poison"></span><span class="type flying"></span> </td>
             <td><span class="type rock"></span> <span class="type electric"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
@@ -119,7 +119,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" width="50"></td>
-            <td>Lum Berry</td>
+            <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png" width="50"></td>
             <td>Sturdy</td>
             <td><span class="type bug"></span><span class="type steel"></span> </td>
             <td><span class="type fire">4x </span></td>
@@ -127,7 +127,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" width="50"></td>
-            <td>Liechi Berry or Ground Gem</td>
+            <td><img title="liechi-berry" src="{{site.url}}/assets/images/items/liechi-berry.png" width="50">/ <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" width="50"></td>
             <td>Sturdy</td>
             <td><span class="type rock"></span><span class="type ground"></span> </td>
             <td><span class="type water">4x </span> <span class="type grass">4x </span> <span class="type fighting"></span> <br /><span class="type ground"></span> <span class="type steel"></span> <span class="type ice"></span></td>
@@ -135,7 +135,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="heracross" src="{{site.url}}/assets/images/pokemon/heracross.gif" width="50"></td>
-            <td>Life Orb</td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
             <td>Moxie</td>
             <td><span class="type bug"></span><span class="type fighting"></span> </td>
             <td><span class="type flying">4x </span> <span class="type fire"></span> <span class="type psychic"></span></td>
@@ -143,7 +143,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="kabutops" src="{{site.url}}/assets/images/pokemon/kabutops.gif" width="50"></td>
-            <td>Focus Sash</td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
             <td>Swift Swim</td>
             <td><span class="type rock"></span><span class="type water"></span> </td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
@@ -151,7 +151,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="ludicolo" src="{{site.url}}/assets/images/pokemon/ludicolo.gif" width="50"></td>
-            <td>Grass Gem</td>
+            <td><img title="grass-gem" src="{{site.url}}/assets/images/items/grass-gem.png" width="50"></td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type grass"></span> </td>
             <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span></td>
@@ -159,7 +159,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" width="50"></td>
-            <td>Focus Sash</td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
             <td>Flash Fire</td>
             <td><span class="type fire"></span> </td>
             <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
@@ -167,7 +167,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="omastar" src="{{site.url}}/assets/images/pokemon/omastar.gif" width="50"></td>
-            <td>Life Orb</td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
             <td>Swift Swim</td>
             <td><span class="type rock"></span><span class="type water"></span> </td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
@@ -175,7 +175,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="pinsir" src="{{site.url}}/assets/images/pokemon/pinsir.gif" width="50"></td>
-            <td>Life Orb</td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"></td>
             <td>Moxie</td>
             <td><span class="type bug"></span> </td>
             <td><span class="type flying"></span> <span class="type rock"></span> <span class="type fire"></span></td>
@@ -183,7 +183,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"></td>
-            <td>Rock Gem</td>
+            <td><img title="rock-gem" src="{{site.url}}/assets/images/items/rock-gem.png" width="50"></td>
             <td>Mold Breaker</td>
             <td><span class="type rock"></span> </td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
@@ -191,7 +191,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" width="50"></td>
-            <td>Rock Gem</td>
+            <td><img title="rock-gem" src="{{site.url}}/assets/images/items/rock-gem.png" width="50"></td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type rock"></span> </td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
@@ -199,7 +199,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
           <td><img title="rhyperior" src="{{site.url}}/assets/images/pokemon/rhyperior.gif" width="50"></td>
-          <td>Passho Berry</td>
+          <td><img title="passho-berry" src="{{site.url}}/assets/images/items/passho-berry.png" width="50"></td>
           <td>Solid Rock</td>
           <td><span class="type ground"></span><span class="type rock"></span> </td>
           <td><span class="type water">3x </span> & <span class="type grass">3x </span> <span class="type fighting"></span> <br /><span class="type ground">1.5x </span> <span class="type steel">1.5x </span> <span class="type ice">1.5x </span></td>
@@ -207,7 +207,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="sandslash" src="{{site.url}}/assets/images/pokemon/sandslash.gif" width="50"></td>
-            <td>Bright Powder</td>
+            <td><img title="bright-powder" src="{{site.url}}/assets/images/items/bright-powder.png" width="50"></td>
             <td>Sand Veil</td>
             <td><span class="type ground"></span> </td>
             <td><span class="type water"></span> <span class="type ice"></span> <span class="type grass"></span></td>
@@ -215,7 +215,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="shuckle" src="{{site.url}}/assets/images/pokemon/shuckle.gif" width="50"></td>
-            <td>Leftovers</td>
+            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png" width="50"></td>
             <td>Contrary</td>
             <td><span class="type bug"></span><span class="type rock"></span> </td>
             <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span></td>
@@ -223,7 +223,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="slowbro" src="{{site.url}}/assets/images/pokemon/slowbro.gif" width="50"></td>
-            <td>Sitrus Berry</td>
+            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png" width="50"></td>
             <td>Regenerator</td>
             <td><span class="type water"></span><span class="type psychic"></span> </td>
             <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <br /><span class="type electric"></span> <span class="type dark"></span></td>
@@ -231,7 +231,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50"></td>
-            <td>Normal Gem, Ground Gem, Life Orb or Forcus Sash</td>
+            <td><img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png" width="50">, <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" width="50">/ <img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" width="50"> / <img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
             <td>Sturdy or Sheer Force</td>
             <td><span class="type steel"></span><span class="type ground"></span> </td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type sm water"></span></td>
@@ -239,7 +239,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="sudowoodo" src="{{site.url}}/assets/images/pokemon/sudowoodo.gif" width="50"></td>
-            <td>Sitrus Berry</td>
+            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png" width="50"></td>
             <td>Sturdy</td>
             <td><span class="type rock"></span> </td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
@@ -247,7 +247,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="swampert" src="{{site.url}}/assets/images/pokemon/swampert.gif" width="50"></td>
-            <td>Focus Sash</td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
             <td>Torrent</td>
             <td><span class="type water"></span><span class="type ground"></span> </td>
             <td><span class="type grass">4x </span></td>
@@ -255,7 +255,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="toxicroak" src="{{site.url}}/assets/images/pokemon/toxicroak.gif" width="50"></td>
-            <td>Focus Sash</td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" width="50"></td>
             <td>Dry Skin</td>
             <td><span class="type poison"></span><span class="type fighting"></span> </td>
             <td><span class="type psychic">4x </span> <span class="type ground"></span> <span class="type flying"></span></td>
@@ -263,7 +263,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" width="50"></td>
-            <td>Smooth Rock</td>
+            <td><img title="smooth-rock" src="{{site.url}}/assets/images/items/smooth-rock.png" width="50"></td>
             <td>Sand Stream</td>
             <td><span class="type rock"></span><span class="type dark"></span> </td>
             <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <br /><span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
