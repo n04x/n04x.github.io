@@ -231,7 +231,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
         </tr>
         <tr>
             <td><img title="steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" ></td>
-            <td><img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png" >, <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" >/ <img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > / <img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
+            <td><img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png" >/ <img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png" >/ <img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > / <img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" ></td>
             <td>Sturdy or Sheer Force</td>
             <td><span class="type steel"></span><span class="type ground"></span> </td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type sm water"></span></td>
@@ -350,7 +350,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
         </tr>
         <tr>
             <td><img title="blastoise" src="{{site.url}}/assets/images/pokemon/blastoise.gif" > </td>
-            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" > </td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png" > </td>
             <td>Rain Dish</td>
             <td><span class="type water"></span></td>
             <td><span class="type electric"></span> <span class="type grass"></span> </td>
@@ -358,7 +358,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
         </tr>
         <tr>
             <td><img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" > </td>
-            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" > </td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png" > </td>
             <td>Swift Swim</td>
             <td><span class="type water"></span><span class="type rock"></span></td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> and <span class="type electric"></span> </td>
@@ -486,7 +486,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
         </tr>
         <tr>
             <td><img title="starmie" src="{{site.url}}/assets/images/pokemon/starmie.gif" ></td>
-            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png.png" >/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" >/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
+            <td><img title="choice-scarf.png" src="{{site.url}}/assets/images/items/choice-scarf.png" >/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png" >/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png" > </td>
             <td>Analytic </td>
             <td><span class="type water"></span><span class="type psychic"></span> </td>
             <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type grass"></span> <span class="type electric"></span> <span class="type dark"></span> </td>
