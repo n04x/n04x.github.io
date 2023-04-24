@@ -106,7 +106,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Eviolite</td>
             <td>Healer</td>
             <td><span class="type normal"></span> </td>
-            <td><span class="type fighting"></span><td>
+            <td><span class="type fighting"></span></td>
             <td>Seismic Toss, Toxic, Wish, Protect</td>
         </tr>
         <tr>
@@ -115,6 +115,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td>Infiltrator</td>
             <td><span class="type poison"></span><span class="type flying"></span> </td>
             <td><span class="type rock"></span> <span class="type electric"></span> <span class="type psychic"></span> <span class="type ice"></span>
+            <td> Brave Bird, Heat Wave, Sludge Bomb, Giga Drain </td>
         </tr>
         <tr>
             <td><img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" width="50"></td>
@@ -152,7 +153,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td><img title="ludicolo" src="{{site.url}}/assets/images/pokemon/ludicolo.gif" width="50"></td>
             <td>Grass Gem</td>
             <td>Swift Swim</td>
-            <td><td><span class="type water"></span><span class="type grass"></span> </td></td>
+            <td><span class="type water"></span><span class="type grass"></span> </td>
             <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span></td>
             <td> Surf, Giga Drain, Ice Beam, Rain Dance </td>
         </tr>
@@ -192,7 +193,7 @@ This trainer is located in Pewter City in Kanto. Beating this trainer will rewar
             <td><img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" width="50"></td>
             <td>Rock Gem</td>
             <td>Swift Swim</td>
-            <td><td><span class="type water"></span><span class="type rock"></span> </td></td>
+            <td><span class="type water"></span><span class="type rock"></span> </td>
             <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
             <td> Head Smash, Aqua Tail, Zen Headbutt, Protect </td>
         </tr>
