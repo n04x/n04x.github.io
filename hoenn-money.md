@@ -166,7 +166,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Weak Armour</td>
             <td><span class="type rock"></span>/<span class="type water"></span></td>
-            <td><span class="type <span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td>X-Scissor, Stone Edge, Superpower, Aqua Tail, Rock Slide</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Weak Armour</td>
             <td><span class="type rock"></span>/<span class="type water"></span></td>
-            <td><span class="type <span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td>Muddy Water, Ice Beam, Earth Power, Shell Smash</td>
         </tr>
         <tr>
@@ -219,6 +219,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
         </tr>
     </tbody>
 </table>
+
 
 <h2 id="brawly">Brawly</h2>
 ![Brawly]({{site.url}}/assets/images/trainers/brawly.gif)
