@@ -20,13 +20,13 @@ Below is the table of my personal money run earning for Hoenn:
 
 <ul>
    <li><a href="#roxanne">Roxanne</a></li> 
-   <li><a href="#brawly">Roxanne</a></li> 
-   <li><a href="#wattson">Roxanne</a></li> 
-   <li><a href="#flannery">Roxanne</a></li> 
-   <li><a href="#norman">Roxanne</a></li> 
-   <li><a href="#winona">Roxanne</a></li> 
-   <li><a href="#tateandliza">Roxanne</a></li> 
-   <li><a href="#juan">Roxanne</a></li> 
+   <li><a href="#brawly">Brawly</a></li> 
+   <li><a href="#wattson">Wattson</a></li> 
+   <li><a href="#flannery">Flannery</a></li> 
+   <li><a href="#norman">Norman</a></li> 
+   <li><a href="#winona">Winona</a></li> 
+   <li><a href="#tateandliza">Tate and Liza</a></li> 
+   <li><a href="#juan">Juan</a></li> 
 </ul>
 
 <h2 id="roxanne">Roxanne</h2>
@@ -86,7 +86,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
 <h2 id="brawly">Brawly</h2>
 ![Brawly]({{site.url}}/assets/images/trainers/brawly.gif)
 
-This trainer is located in Dewford City in Hoenn. Beating this trainer will reward you $8,736 without Amulet coin and $13,104 with Amulet coin. Below is the possible lineup the trainer might have:
+This trainer is located in Dewford Town in Hoenn. Beating this trainer will reward you $8,736 without Amulet coin and $13,104 with Amulet coin. Below is the possible lineup the trainer might have:
 
 <ol>
     <li> 

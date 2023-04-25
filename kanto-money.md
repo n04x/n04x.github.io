@@ -836,7 +836,7 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
         </tr>
         <tr>
             <td><img title="clefable" src="{{site.url}}/assets/images/pokemon/clefable.gif"></td>
-            <td><img title="red-card" src="{{site.url}}/assets/images/itemsred-card.png"></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
             <td>Unaware</td>
             <td><span class="type normal"></span></td>
             <td><span class="type fighting"></span></td>
@@ -876,7 +876,7 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
         </tr>
         <tr>
             <td><img title="jumpluff" src="{{site.url}}/assets/images/pokemon/jumpluff.gif"></td>
-            <td><img title="flying-gem" src="{{site.url}}/assets/images/itemsflying-gem.png"></td>
+            <td><img title="flying-gem" src="{{site.url}}/assets/images/items/flying-gem.png"></td>
             <td>Chlorophyll</td>
             <td><span class="type grass"></span>/<span class="type flying"></span></td>
             <td><span class="type ice">4x </span> <span class="type flying"></span> <span class="type poison"></span> <br /><span class="type rock"></span> <span class="type fire"></span></td>
@@ -1040,7 +1040,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png">/<img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png">/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Inner Focus, Synchronize or Magic Guard</td>
             <td><span class="type psychic"></span></td>
-            <td><span class="type sm bug"></span> <span class="type sm ghost"></span> <span class="type sm dark"></span></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type dark"></span></td>
             <td> Psychic, Focus Blast, Shadow Ball, Reflect, Psyshock, Light Screen, Energy Ball </td>
         </tr>
         <tr>
@@ -1048,55 +1048,55 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Magic Bounce</td>
             <td><span class="type psychic"></span></td>
-            <td><span class="type sm bug"></span> <span class="type sm ghost"></span> <span class="type sm dark"></span></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type dark"></span></td>
             <td>Psychic, Shadow Ball, Hidden Power (Fighting), Light Screen</td>
         </tr>
         <tr>
             <td><img title="exeggutor" src="{{site.url}}/assets/images/pokemon/exeggutor.gif" ></td>
-            <td><img title="sitrus-clay" src="{{site.url}}/assets/images/items/sitrus-clay.png"></td>
+            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png"></td>
             <td>Harvest</td>
-            <td><span class="type sm grass"></span>/<span class="type sm psychic"></span></td>
-            <td><span class="type sm bug">4x </span> <span class="type sm flying"></span> <span class="type sm poison"></span> <br /><span class="type sm ghost"></span> <span class="type sm fire"></span> <span class="type sm ice"></span> <br /><span class="type sm dark"></span> </td>
+            <td><span class="type grass"></span>/<span class="type psychic"></span></td>
+            <td><span class="type bug">4x </span> <span class="type flying"></span> <span class="type poison"></span> <br /><span class="type ghost"></span> <span class="type fire"></span> <span class="type ice"></span> <br /><span class="type dark"></span> </td>
             <td>Ancient Power, Psychic, Giga Drain, Sleep Powder</td>
         </tr>
         <tr>
             <td><img title="furret" src="{{site.url}}/assets/images/pokemon/furret.gif" ></td>
             <td><img title="silk-scarf" src="{{site.url}}/assets/images/items/silk-scarf.png"></td>
             <td>Keen Eye</td>
-            <td><span class="type sm normal"></span></td>
-            <td><span class="type sm fighting"></span></td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
             <td>Last Resort, Protect</td>
         </tr>
         <tr>
             <td><img title="gallade" src="{{site.url}}/assets/images/pokemon/gallade.gif" ></td>
             <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
             <td>Justified</td>
-            <td><span class="type sm psychic"></span>/<span class="type sm fighting"></span></td>
-            <td><span class="type sm flying"></span> <span class="type sm ghost"></span> </td>
+            <td><span class="type psychic"></span>/<span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type ghost"></span> </td>
             <td></td>
         </tr>
         <tr>
             <td><img title="gengar" src="{{site.url}}/assets/images/pokemon/gengar.gif" ></td>
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
             <td>Cursed Body</td>
-            <td><span class="type sm ghost"></span>/<span class="type sm poison"></span></td>
-            <td><span class="type sm ghost"></span> <span class="type sm psychic"></span> <span class="type sm ground"></span> <br /><span class="type sm dark"></span></td>
+            <td><span class="type ghost"></span>/<span class="type poison"></span></td>
+            <td><span class="type ghost"></span> <span class="type psychic"></span> <span class="type ground"></span> <br /><span class="type dark"></span></td>
             <td></td>
         </tr>
         <tr>
             <td><img title="golduck" src="{{site.url}}/assets/images/pokemon/golduck.gif" ></td>
             <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
             <td>Cloud Nine</td>
-            <td><span class="type sm water"></span></td>
-            <td><span class="type sm grass"></span> <span class="type sm electric"></span></td>
+            <td><span class="type water"></span></td>
+            <td><span class="type grass"></span> <span class="type electric"></span></td>
             <td></td>
         </tr>
         <tr>
             <td><img title="hitmonlee" src="{{site.url}}/assets/images/pokemon/hitmonlee.gif" ></td>
             <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
             <td>Reckless</td>
-            <td><span class="type sm fighting"></span></td>
-            <td><span class="type sm flying"></span> <span class="type sm psychic"></span></td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
             <td></td>
         </tr>
         <tr>
@@ -1104,31 +1104,31 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
             <td>Insomnia</td>
             <td><span class="type psychic"></span></td>
-            <td><span class="type sm bug"></span> <span class="type sm ghost"></span> <span class="type sm dark"></span></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type dark"></span></td>
             <td>Psyshock, Focus Blast, Calm Mind, Barrier</td>
         </tr>
         <tr>
             <td><img title="jynx" src="{{site.url}}/assets/images/pokemon/jynx.gif" ></td>
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Dry Skin</td>
-            <td><span class="type sm ice"></span>/<span class="type sm psychic"></span></td>
-            <td><span class="type sm rock"></span> <span class="type sm bug"></span> <span class="type sm ghost"></span> <br /><span class="type sm dark"></span> <span class="type sm steel"></span> <span class="type sm fire"></span> </td>
+            <td><span class="type ice"></span>/<span class="type psychic"></span></td>
+            <td><span class="type rock"></span> <span class="type bug"></span> <span class="type ghost"></span> <br /><span class="type dark"></span> <span class="type steel"></span> <span class="type fire"></span> </td>
             <td>Fake Out, Counter, Ice Beam, Psyshock</td>
         </tr>
         <tr>
             <td><img title="lapras" src="{{site.url}}/assets/images/pokemon/lapras.gif" ></td>
             <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png"></td>
             <td>Water Absorb</td>
-            <td><span class="type sm water"></span>/<span class="type sm ice"></span></td>
-            <td><span class="type sm fighting"></span> <span class="type sm rock"></span> <span class="type sm grass"></span> <br /><span class="type sm electric"></span></td>
+            <td><span class="type water"></span>/<span class="type ice"></span></td>
+            <td><span class="type fighting"></span> <span class="type rock"></span> <span class="type grass"></span> <br /><span class="type electric"></span></td>
             <td>Ice Beam, Hydro Pump, Thunderbolt, Rest</td>
         </tr>
         <tr>
             <td><img title="metagross" src="{{site.url}}/assets/images/pokemon/metagross.gif" ></td>
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Clear Body</td>
-            <td><span class="type sm steel"></span>/<span class="type sm psychic"></span></td>
-            <td><span class="type sm ground"></span> <span class="type sm ghost"></span> <span class="type sm fire"></span> <br /><span class="type sm dark"></span></td>
+            <td><span class="type steel"></span>/<span class="type psychic"></span></td>
+            <td><span class="type ground"></span> <span class="type ghost"></span> <span class="type fire"></span> <br /><span class="type dark"></span></td>
             <td>Rock Slide, Meteor Mash, Hammer Arm, Reflect</td>
         </tr>
         <tr>
@@ -1136,95 +1136,95 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Soundproof</td>
             <td><span class="type psychic"></span></td>
-            <td><span class="type sm bug"></span> <span class="type sm ghost"></span> <span class="type sm dark"></span></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type dark"></span></td>
             <td>Foul Play, Psychic, Reflect, Light Screen</td>
         </tr>
         <tr>
             <td><img title="porygon-z" src="{{site.url}}/assets/images/pokemon/porygon-z.gif" ></td>
             <td><img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png"></td>
             <td>Adaptability</td>
-            <td><span class="type sm normal"></span></td>
-            <td><span class="type sm fighting"></span></td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
             <td>Hyper Beam, Dark Pulse, Ice Beam, Thunderbolt</td>
         </tr>
         <tr>
             <td><img title="sandslash" src="{{site.url}}/assets/images/pokemon/sandslash.gif" ></td>
             <td><img title="zoom-lens" src="{{site.url}}/assets/images/items/zoom-lens.png"></td>
             <td>Sand Veil</td>
-            <td><span class="type sm ground"></span></td>
-            <td><span class="type sm water"></span> <span class="type sm grass"></span> <span class="type sm ice"></span></td>
+            <td><span class="type ground"></span></td>
+            <td><span class="type water"></span> <span class="type grass"></span> <span class="type ice"></span></td>
             <td></td>
         </tr>
         <tr>
             <td><img title="scizor" src="{{site.url}}/assets/images/pokemon/scizor.gif" ></td>
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Technician</td>
-            <td><span class="type sm bug"></span>/<span class="type sm steel"></span></td>
-            <td><span class="type sm fire">4x </span></td>
+            <td><span class="type bug"></span>/<span class="type steel"></span></td>
+            <td><span class="type fire">4x </span></td>
             <td>Bullet Punch, Superpower, U-Turn, Light Screen</td>
         </tr>
         <tr>
             <td><img title="sigilyph" src="{{site.url}}/assets/images/pokemon/sigilyph.gif" ></td>
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Tinted Lens</td>
-            <td><span class="type sm psychic"></span>/<span class="type sm flying"></span></td>
-            <td><span class="type sm rock"></span> <span class="type sm ghost"></span> <span class="type sm electric"></span> <br /><span class="type sm ice"></span> <span class="type sm dark"></span></td>
+            <td><span class="type psychic"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type ghost"></span> <span class="type electric"></span> <br /><span class="type ice"></span> <span class="type dark"></span></td>
             <td>Heat Wave, Psyshock, Reflect, Light Screen</td>
         </tr>
         <tr>
             <td><img title="slowbro" src="{{site.url}}/assets/images/pokemon/slowbro.gif" ></td>
             <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
             <td>Regenerator</td>
-            <td><span class="type sm water"></span>/<span class="type sm psychic"></span></td>
-            <td><span class="type sm bug"></span> <span class="type sm ghost"></span> <span class="type sm dark"></span> <br /><span class="type sm grass"></span> <span class="type sm electric"></span></td>
+            <td><span class="type water"></span>/<span class="type psychic"></span></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type dark"></span> <br /><span class="type grass"></span> <span class="type electric"></span></td>
             <td>Scald, Flamethrower, Calm Mind, Slack Off</td>
         </tr>
         <tr>
             <td><img title="slowking" src="{{site.url}}/assets/images/pokemon/slowking.gif" ></td>
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Regenerator</td>
-            <td><span class="type sm water"></span>/<span class="type sm psychic"></span></td>
-            <td><span class="type sm bug"></span> <span class="type sm ghost"></span> <span class="type sm dark"></span> <br /><span class="type sm grass"></span> <span class="type sm electric"></span></td>
+            <td><span class="type water"></span>/<span class="type psychic"></span></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type dark"></span> <br /><span class="type grass"></span> <span class="type electric"></span></td>
             <td>Psyshock, Scald, Light Screen, Slack Off</td>
         </tr>
         <tr>
             <td><img title="snorlax" src="{{site.url}}/assets/images/pokemon/snorlax.gif" ></td>
             <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
             <td>Thick Fat</td>
-            <td><span class="type sm normal"></span></td>
-            <td><span class="type sm fighting"></span></td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
             <td>Body Slam, Fire Punch, Rest, Curse</td>
         </tr>
         <tr>
             <td><img title="swoobat" src="{{site.url}}/assets/images/pokemon/swoobat.gif" ></td>
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Unaware</td>
-            <td><span class="type sm psychic"></span>/<span class="type sm flying"></span></td>
-            <td><span class="type sm rock"></span> <span class="type sm ghost"></span> <span class="type sm electric"></span> <br /><span class="type sm ice"></span> <span class="type sm dark"></span></td>
+            <td><span class="type psychic"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type ghost"></span> <span class="type electric"></span> <br /><span class="type ice"></span> <span class="type dark"></span></td>
             <td></td>
         </tr>
         <tr>
             <td><img title="typhlosion" src="{{site.url}}/assets/images/pokemon/typhlosion.gif" ></td>
             <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
             <td>Flash Fire</td>
-            <td><span class="type sm fire"></span></td>
-            <td><span class="type sm ground"></span> <span class="type sm rock"></span> <span class="type sm water"></span> </td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span> </td>
             <td>Eruption, Focus Blast, Hidden Power (Ice), Fire Blast</td>
         </tr>
         <tr>
             <td><img title="venomoth" src="{{site.url}}/assets/images/pokemon/venomoth.gif" ></td>
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
             <td>Tinted Lens</td>
-            <td><span class="type sm bug"></span>/<span class="type sm poison"></span></td>
-            <td><span class="type sm flying"></span> <span class="type sm rock"></span> <span class="type sm fire"></span> <br /><span class="type sm psychic"></span></td>
+            <td><span class="type bug"></span>/<span class="type poison"></span></td>
+            <td><span class="type flying"></span> <span class="type rock"></span> <span class="type fire"></span> <br /><span class="type psychic"></span></td>
             <td>Bug Buzz, Hidden Power (Ground), Quiver Dance, Sleep Powder</td>
         </tr>
         <tr>
             <td><img title="wigglytuff" src="{{site.url}}/assets/images/pokemon/wigglytuff.gif" ></td>
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Cute Charm</td>
-            <td><span class="type sm normal"></span></td>
-            <td><span class="type sm fighting"></span></td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
             <td>Counter, Hyper Voice, Reflect, Light Screen</td>
         </tr>
         <tr>
@@ -1232,15 +1232,15 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
             <td>Shadow Tag</td>
             <td><span class="type psychic"></span></td>
-            <td><span class="type sm bug"></span> <span class="type sm ghost"></span> <span class="type sm dark"></span></td>
+            <td><span class="type bug"></span> <span class="type ghost"></span> <span class="type dark"></span></td>
             <td>Counter, Mirror Coat, Destiny Bond, Charm</td>
         </tr>
         <tr>
             <td><img title="xatu" src="{{site.url}}/assets/images/pokemon/xatu.gif" ></td>
             <td><img title="light-clay" src="{{site.url}}/assets/images/items/light-clay.png"></td>
             <td>Magic Bounce</td>
-            <td><span class="type sm psychic"></span>/<span class="type sm flying"></span></td>
-            <td><span class="type sm rock"></span> <span class="type sm ghost"></span> <span class="type sm electric"></span> <br /><span class="type sm ice"></span> <span class="type sm dark"></span></td>
+            <td><span class="type psychic"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type ghost"></span> <span class="type electric"></span> <br /><span class="type ice"></span> <span class="type dark"></span></td>
         </tr>
     </tbody>
 </table>
@@ -1296,29 +1296,219 @@ Below is the possible lineup the trainer might have:
     </li>
 </ol>
 
-- **Ariados** and **Beedrill** are <span class="type sm bug"></span>/<span class="type sm poison"></span>. They're weak to <span class="type sm flying"></span>, <span class="type sm rock"></span>, <span class="type sm psychic"></span>, and <span class="type sm fire"></span> 
-- **Crobat** is a <span class="type sm poison"></span>/<span class="type sm flying"></span> type. He's weak to <span class="type sm rock"></span>, <span class="type sm electric"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span>  
-- **Ditto** is a <span class="type sm normal"></span> type. Because of its ability, it'll instantly transform into whichever opposing Pokémon is across from it. Its speed and type effectiveness depends on who's on your team.
-- **Drapion** is <span class="type sm poison"></span>/<span class="type sm dark"></span>. He's weak to <span class="type sm ground"></span> attacks but immune to <span class="type sm psychic"></span> 
-- **Electrode** is an <span class="type sm electric"></span> type. It's weak to <span class="type sm ground"></span> 
-- **Ferrothorn** is <span class="type sm grass"></span>/<span class="type sm steel"></span>. He's 4x more susceptible to <span class="type sm fire"></span> attacks, weak to <span class="type sm fighting"></span> attacks, and immune to <span class="type sm poison"></span> 
-- **Forretress** is <span class="type sm bug"></span>/<span class="type sm steel"></span>. It's weak to <span class="type sm fire"></span> attacks and immune to <span class="type sm poison"></span> 
-- **Gengar** is a <span class="type sm ghost"></span>/<span class="type sm poison"></span> type. He's weak to <span class="type sm ground"></span>, <span class="type sm ghost"></span>, <span class="type sm psychic"></span>, and <span class="type sm dark"></span> attacks but immune to <span class="type sm normal"></span> and <span class="type sm fighting"></span> 
-- **Gliscor** is <span class="type sm ground"></span>/<span class="type sm flying"></span>. He's 4x more susceptible to <span class="type sm ice"></span> attacks, weak to <span class="type sm water"></span> attacks, and immune to <span class="type sm electric"></span> and <span class="type sm ground"></span> 
-- **Hypno** is a <span class="type sm psychic"></span> type. He's weak to <span class="type sm dark"></span>, <span class="type sm bug"></span>, and <span class="type sm ghost"></span> 
-- **Magmortar** is a <span class="type sm fire"></span> type. He's weak to <span class="type sm water"></span>, <span class="type sm ground"></span>, and <span class="type sm rock"></span> 
-- **Muk** and **Weezing** are <span class="type sm poison"></span> type. They're weak to <span class="type sm psychic"></span> 
-- **Nidoking** is <span class="type sm poison"></span>/<span class="type sm ground"></span>. He's weak to <span class="type sm ground"></span>, <span class="type sm water"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm electric"></span> 
-- **Nidoqueen** is <span class="type sm poison"></span>/<span class="type sm ground"></span>. She's weak to <span class="type sm ground"></span>, <span class="type sm water"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks but immune to <span class="type sm electric"></span> 
-- **Pidgeot** is a <span class="type sm normal"></span>/<span class="type sm flying"></span> type. He's weak to <span class="type sm rock"></span>, <span class="type sm ice"></span>, and <span class="type sm electric"></span> attacks but immune to <span class="type sm ghost"></span> 
-- **Scizor** is <span class="type sm bug"></span>/<span class="type sm steel"></span>. He's 4x more susceptible to <span class="type sm fire"></span> attacks but immune to <span class="type sm poison"></span> 
-- **Scyther** is <span class="type sm bug"></span>/<span class="type sm flying"></span>. He's 4x more susceptible to <span class="type sm rock"></span> attacks, weak to <span class="type sm flying"></span>, <span class="type sm fire"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks, and immune to <span class="type sm ground"></span> 
-- **Skuntank** is <span class="type sm poison"></span>/<span class="type sm dark"></span>. He's weak to <span class="type sm ground"></span> attacks but immune to <span class="type sm psychic"></span> 
-- **Swalot** is a <span class="type sm poison"></span> type. He's weak to <span class="type sm psychic"></span> and <span class="type sm ground"></span> 
-- **Tentacruel** is <span class="type sm water"></span>/<span class="type sm poison"></span>. He's weak to <span class="type sm ground"></span>, <span class="type sm electric"></span>, and <span class="type sm psychic"></span> 
-- **Toxicroak** is <span class="type sm poison"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm psychic"></span> attacks and weak to <span class="type sm flying"></span> and <span class="type sm ground"></span>  Because of his ability, he'll take an additional 25% damage from <span class="type sm fire"></span> attacks and will heal from <span class="type sm water"></span> 
-- **Venomoth** is <span class="type sm bug"></span>/<span class="type sm poison"></span>. He's weak to <span class="type sm flying"></span>, <span class="type sm rock"></span>, <span class="type sm psychic"></span>, and <span class="type sm fire"></span> 
-- **Zoroark** is a <span class="type sm dark"></span> type. He's weak to <span class="type sm fighting"></span> and <span class="type sm bug"></span> attacks but immune to <span class="type sm psychic"></span> 
+<table>
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="ariados" src="{{site.url}}/assets/images/pokemon/ariados.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Swarm</td>
+            <td><span class="type bug"></span>/<span class="type poison"></span></td>
+            <td></td>
+            <td>Poison Jab, Megahorn, Foul Play, Toxic Spikes</td>
+        </tr>
+        <tr>
+            <td><img title="beedrill" src="{{site.url}}/assets/images/pokemon/beedrill.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td></td>
+            <td><span class="type bug"></span>/<span class="type poison"></span></td>
+            <td></td>
+            <td>Endeavor, U-Turn, Tailwind, Toxic Spikes</td>
+        </tr>
+        <tr>
+            <td><img title="crobat" src="{{site.url}}/assets/images/pokemon/crobat.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Infiltrator</td>
+            <td><span class="type poison"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type electric"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td>U-Turn, Brave Bird, Heat Wave, Giga Drain</td>
+        </tr>
+        <tr>
+            <td><img title="ditto" src="{{site.url}}/assets/images/pokemon/ditto.gif" ></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Imposter</td>
+            <td><span class="type normal"></span></td>
+            <td>Depend on Transform</td>
+            <td>Transform</td>
+        </tr>
+        <tr>
+            <td><img title="drapion" src="{{site.url}}/assets/images/pokemon/drapion.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Sniper</td>
+            <td><span class="type poison"></span>/<span class="type dark"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Crunch, Poison Jab, Aqua Tail, Toxic Spikes</td>
+        </tr>
+        <tr>
+            <td><img title="electrode" src="{{site.url}}/assets/images/pokemon/electrode.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Soundproof</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Foul Play, Volt Switch, Thunderbolt, Hidden Power (Ice)</td>
+        </tr>
+        <tr>
+            <td><img title="ferrothorn" src="{{site.url}}/assets/images/pokemon/ferrothorn.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Iron Barbs</td>
+            <td><span class="type grass"></span>/<span class="type steel"></span></td>
+            <td><span class="type fire">4x </span> <span class="type fighting"></span></td>
+            <td>Power Whip, Gyro Ball, Spikes, Stealth Rock</td>
+        </tr>
+        <tr>
+            <td><img title="forretress" src="{{site.url}}/assets/images/pokemon/forretress.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Sturdy</td>
+            <td><span class="type bug"></span>/<span class="type steel"></span></td>
+            <td><span class="type fire"></span></td>
+            <td>Gyro Ball, Pin Missile, Spikes, Stealth Rock</td>
+        </tr>
+        <tr>
+            <td><img title="gengar" src="{{site.url}}/assets/images/pokemon/gengar.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Levitate</td>
+            <td><span class="type ghost"></span>/<span class="type poison"></span></td>
+            <td><span class="type ground"></span> <span class="type ghost"></span> <span class="type psychic"></span <br /><span class="type dark"></span></td>
+            <td>Shadow Ball, Focus Blast, Sludge Bomb, Thunderbolt</td>
+        </tr>
+        <tr>
+            <td><img title="gliscor" src="{{site.url}}/assets/images/pokemon/gliscor.gif" ></td>
+            <td><img title="toxic-orb" src="{{site.url}}/assets/images/items/toxic-orb.png"></td>
+            <td>Poison Heal</td>
+            <td><span class="type ground"></span>/<span class="type flying"></span></td>
+            <td><span class="type ice">4x </span> <span class="type water"></span></td>
+            <td>Dig, U-Turn, Stealth Rock, Roost</td>
+        </tr>
+        <tr>
+            <td><img title="hypno" src="{{site.url}}/assets/images/pokemon/hypno.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Insomnia</td>
+            <td><span class="type psychic"></span></td>
+            <td><span class="type dark"></span> <span class="type bug"></span> <span class="type ghost"></span></td>
+            <td>Foul Play, Toxic, Wish, Protect</td>
+        </tr>
+        <tr>
+            <td><img title="magmortar" src="{{site.url}}/assets/images/pokemon/magmortar.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Vital Spirit</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type water"></span> <span class="type ground"></span> <span class="type rock"></span></td>
+            <td>Heat Wave, Fire Blast, Thunderbolt, Focus Blast</td>
+        </tr>
+        <tr>
+            <td><img title="muk" src="{{site.url}}/assets/images/pokemon/muk.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Poison Touch</td>
+            <td><span class="type poison"></span></td>
+            <td><span class="type psychic"></span></td>
+            <td>Fire Punch, Gunk Shot, Shadow Sneak, Ice Punch</td>
+        </tr>
+        <tr>
+            <td><img title="nidoking" src="{{site.url}}/assets/images/pokemon/nidoking.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Sheer Force</td>
+            <td><span class="type poison"></span>/<span class="type ground"></span></td>
+            <td><span class="type ground"></span> <span class="type water"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td>Ice Beam, Earth Power, Thunderbolt, Stealth Rock</td>
+        </tr>
+        <tr>
+            <td><img title="nidoqueen" src="{{site.url}}/assets/images/pokemon/nidoqueen.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Sheer Force</td>
+            <td><span class="type poison"></span>/<span class="type ground"></span></td>
+            <td><span class="type ground"></span> <span class="type water"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td>U-Turn, Earth Power, Sludge Bomb, Moonlight, Thunderbolt, Stealth Rock </td>
+        </tr>
+        <tr>
+            <td><img title="pidgeot" src="{{site.url}}/assets/images/pokemon/pidgeot.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Tangled Feet</td>
+            <td><span class="type normal"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type ice"></span> <span class="type electric"></span></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><img title="scizor" src="{{site.url}}/assets/images/pokemon/scizor.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Technician</td>
+            <td><span class="type bug"></span>/<span class="type steel"></span></td>
+            <td><span class="type fire">4x </span></td>
+            <td>Bullet Punch, Bug Bite, Superpower, Morning Sun</td>
+        </tr>
+        <tr>
+            <td><img title="scyther" src="{{site.url}}/assets/images/pokemon/scyther.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Technician</td>
+            <td><span class="type bug"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock">4x </span> <span class="type flying"></span> <span class="type fire"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><img title="skuntank" src="{{site.url}}/assets/images/pokemon/skuntank.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Aftermath</td>
+            <td><span class="type poison"></span>/<span class="type dark"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Foul Play, Poison Jab, Sucker Punch, Fire Blast</td>
+        </tr>
+        <tr>
+            <td><img title="swalot" src="{{site.url}}/assets/images/pokemon/swalot.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Liquid Ooze</td>
+            <td><span class="type poison"></span></td>
+            <td><span class="type psychic"></span> <span class="type ground"></span></td>
+            <td>Gunk Shot, Seed Bomb, Ice Beam, Destiny Bond</td>
+        </tr>
+        <tr>
+            <td><img title="tentacruel" src="{{site.url}}/assets/images/pokemon/tentacruel.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Liquid Ooze</td>
+            <td><span class="type water"></span>/<span class="type poison"></span></td>
+            <td><span class="type ground"></span> <span class="type electric"></span> <span class="type psychic"></span></td>
+            <td>Muddy Water, Ice Beam, Giga Drain, Toxic Spikes</td>
+        </tr>
+        <tr>
+            <td><img title="toxicroak" src="{{site.url}}/assets/images/pokemon/toxicroak.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Dry Skin</td>
+            <td><span class="type poison"></span>/<span class="type fighting"></span></td>
+            <td><span class="type psychic">4x </span> <span class="type flying"></span> <span class="type ground"></span></td>
+            <td>Sucker Punch, Gunk Shot, Cross Chop, Ice Punch</td>
+        </tr>
+        <tr>
+            <td><img title="venomoth" src="{{site.url}}/assets/images/pokemon/venomoth.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Tinted Lens</td>
+            <td><span class="type bug"></span>/<span class="type poison"></span></td>
+            <td><span class="type flying"></span> <span class="type rock"></span> <span class="type psychic"></span> <br /><span class="type fire"></span></td>
+            <td>Bug Buzz, Giga Drain, Hidden Power (Fire), Sleep Powder</td>
+        </tr>
+        <tr>
+            <td><img title="weezing" src="{{site.url}}/assets/images/pokemon/weezing.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png"></td>
+            <td>Levitate</td>
+            <td><span class="type poison"></span></td>
+            <td><span class="type psychic"></span></td>
+            <td>Pain Split, Flamethrower, Sludge Bomb, Toxic Spikes, Hidden Power (Ice), Thunderbolt, Dark Pulse </td>
+        </tr>
+        <tr>
+            <td><img title="zoroark" src="{{site.url}}/assets/images/pokemon/zoroark.gif" ></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Illusion</td>
+            <td><span class="type dark"></span></td>
+            <td><span class="type fighting"></span> <span class="type bug"></span></td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="blaine">Blaine</h2>
 ![blaine]({{site.url}}/assets/images/trainers/blaine.gif)
@@ -1367,20 +1557,204 @@ This trainer is located in Cinnabar Island in Kanto. Beating this trainer will r
     </li>
 </ol>
 
-- **Arcanine**, **Rapidash**, **Flareon**, **Torkoal**, **Magmortar**, **Typhlosion** and **Ninetales** are all <span class="type sm fire"></span> types. They're weak to <span class="type sm ground"></span>, <span class="type sm rock"></span>, and <span class="type sm water"></span> 
-- **Articuno** is <span class="type sm ice"></span>/<span class="type sm flying"></span>. It's 4x more susceptible to <span class="type sm rock"></span> attacks, weak to <span class="type sm steel"></span>, <span class="type sm fire"></span>, and <span class="type sm electric"></span> attacks, and immune to <span class="type sm ground"></span> 
-- **Blissey**, **Kangaskhan** and **Tauros** are <span class="type sm normal"></span> type. They're weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span>  
-- **Camerupt** is <span class="type sm fire"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm water"></span> attacks, weak to <span class="type sm ground"></span> moves, and immune to <span class="type sm electric"></span>  
-- **Charizard** is <span class="type sm fire"></span>/<span class="type sm flying"></span>. He's 4x more susceptible <span class="type sm rock"></span> attacks, weak to <span class="type sm water"></span> and <span class="type sm electric"></span> attacks, and immune to <span class="type sm ground"></span> 
-- **Electrode** is an <span class="type sm electric"></span> type. It's weak to <span class="type sm ground"></span> 
-- **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. He's 4x more susceptible to <span class="type sm water"></span> and <span class="type sm grass"></span> attacks, weak to <span class="type sm ice"></span>, <span class="type sm steel"></span>, <span class="type sm ground"></span>, and <span class="type sm fighting"></span> attacks, and immune to <span class="type sm electric"></span>  
-- **Houndoom** is <span class="type sm dark"></span>/<span class="type sm fire"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm rock"></span>, and <span class="type sm water"></span> attacks but immune to <span class="type sm psychic"></span> 
-- **Magcargo** is <span class="type sm fire"></span>/<span class="type sm rock"></span>. He's 4x more susceptible to <span class="type sm ground"></span> and <span class="type sm water"></span> attacks and weak to <span class="type sm fighting"></span> and <span class="type sm rock"></span>  
-- **Moltres** is <span class="type sm fire"></span>/<span class="type sm flying"></span>. It's 4x more susceptible <span class="type sm rock"></span> attacks, weak to <span class="type sm water"></span> and <span class="type sm electric"></span> attacks, and immune to <span class="type sm ground"></span> 
-- **Rhyperior** is <span class="type sm ground"></span>/<span class="type sm rock"></span>. He's 4x more susceptible to <span class="type sm water"></span> and <span class="type sm grass"></span> attacks, weak to <span class="type sm ice"></span>, <span class="type sm steel"></span>, <span class="type sm ground"></span>, and <span class="type sm fighting"></span> attacks, and immune to <span class="type sm electric"></span>  
-- **Rotom** is <span class="type sm electric"></span>/<span class="type sm fire"></span>. It's weak <span class="type sm rock"></span> and <span class="type sm water"></span> attacks but immune to <span class="type sm ground"></span> 
-- **Tangrowth** is weak to <span class="type sm flying"></span>, <span class="type sm poison"></span>, <span class="type sm bug"></span>, <span class="type sm fire"></span>, and <span class="type sm ice"></span> 
-- **Vileplume** is <span class="type sm grass"></span>/<span class="type sm poison"></span>. He's weak to <span class="type sm flying"></span>, <span class="type sm fire"></span>, <span class="type sm ice"></span>, and <span class="type sm psychic"></span> 
+<table>
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="arcanine" src="{{site.url}}/assets/images/pokemon/arcanine.gif" ></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png">/<img title="charcoal" src="{{site.url}}/assets/images/items/charcoal.png">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="electric-gem" src="{{site.url}}/assets/images/items/electric-gem.png"></td>
+            <td>Intimidate</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span> </td>
+            <td>Wild Charge, Flare Blitz, Close Combat, Extreme Speed, Morning Sun, Heat Wave, Solar Beam, Dragon Pulse</td>
+        </tr>
+        <tr>
+            <td><img title="articuno" src="{{site.url}}/assets/images/pokemon/articuno.gif" ></td>
+            <td><img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
+            <td>Pressure</td>
+            <td><span class="type ice"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock">4x </span> <span class="type steel"></span> <span class="type fire"></span> <br /><span class="type electric"></span></td>
+            <td>Sky Attack, Ice Beam, Hidden Power (Ground), Roost</td>
+        </tr>
+        <tr>
+            <td><img title="blissey" src="{{site.url}}/assets/images/pokemon/blissey.gif" ></td>
+            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
+            <td>Healer</td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
+            <td>Hyper Voice, Helping Hand, Soft-Boiled, Light Screen</td>
+        </tr>
+        <tr>
+            <td><img title="camerupt" src="{{site.url}}/assets/images/pokemon/camerupt.gif" ></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Solid Rock</td>
+            <td><span class="type fire"></span>/<span class="type ground"></span></td>
+            <td><span class="type water">4x </span> <span class="type ground"></span></td>
+            <td>Heat Wave, Hidden Power (Ice), Earth Power, Solar Beam</td>
+        </tr>
+        <tr>
+            <td><img title="charizard" src="{{site.url}}/assets/images/pokemon/charizard.gif" ></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Solar Power</td>
+            <td><span class="type fire"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock">4x </span> <span class="type water"></span> <span class="type electric"></span></td>
+            <td>Hidden Power (Ice), Fire Blast, Solar Beam, Focus Blast</td>
+        </tr>
+        <tr>
+            <td><img title="dodrio" src="{{site.url}}/assets/images/pokemon/dodrio.gif" ></td>
+            <td><img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
+            <td>Early Bird</td>
+            <td><span class="type normal"></span><span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type electric"></span> <span class="type ice"></span></td>
+            <td>Sky Attack, Jump Kick, Double-Edge, Swords Dance</td>
+        </tr>
+        <tr>
+            <td><img title="electrode" src="{{site.url}}/assets/images/pokemon/electrode.gif" ></td>
+            <td><img title="red-card" src="{{site.url}}/assets/images/items/red-card.png">/<img title="eject-button" src="{{site.url}}/assets/images/items/eject-button.png"></td>
+            <td>Soundproof/Aftermath</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Foul Play, Volt Switch, Thunderbolt, Hidden Power (Ice), Hyper Beam</td>
+        </tr>
+        <tr>
+            <td><img title="flareon" src="{{site.url}}/assets/images/pokemon/flareon.gif" ></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type water"></span> <span class="type ground"></span> <span class="type rock"></span></td>
+            <td>Flare Blitz, Superpower, Dig, Giga Impact</td>
+        </tr>
+        <tr>
+            <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" ></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Sturdy</td>
+            <td><span class="type rock"></span>/<span class="type ground"></span></td>
+            <td><span class="type water">4x </span> and <span class="type grass">4x </span> <span class="type ice"></span> <br /><span class="type steel"></span> <span class="type ground"></span> <span class="type fighting"></span></td>
+            <td>Rock Slide, Thunder Punch, Gyro Ball, Fire Punch</td>
+        </tr>
+        <tr>
+            <td><img title="heat-rotom" src="{{site.url}}/assets/images/pokemon/heat-rotom.gif" ></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Levitate</td>
+            <td><span class="type electric"></span>/<span class="type fire"></span></td>
+            <td><span class="type rock"></span> <span class="type water"></span></td>
+            <td>Foul Play, Thunderbolt, Overheat, Hidden Power (Ice)</td>
+        </tr>
+        <tr>
+            <td><img title="houndoom" src="{{site.url}}/assets/images/pokemon/houndoom.gif" ></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type dark"></span>/<span class="type fire"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type rock"></span> <br /><span class="type water"></span></td>
+            <td>Heat Wave, Hidden Power (Ice), Dark Pulse, Solar Beam</td>
+        </tr>
+        <tr>
+            <td><img title="kangaskhan" src="{{site.url}}/assets/images/pokemon/kangaskhan.gif" ></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Scrappy</td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
+            <td>Return, Fake Out, Hammer Arm, Sucker Punch</td>
+        </tr>
+        <tr>
+            <td><img title="magcargo" src="{{site.url}}/assets/images/pokemon/magcargo.gif" ></td>
+            <td><img title="fire-gem" src="{{site.url}}/assets/images/items/fire-gem.png"></td>
+            <td>Flame Body</td>
+            <td><span class="type fire"></span>/<span class="type rock"></span></td>
+            <td><span class="type ground">4x </span> <span class="type water">4x </span> <span class="type fighting"></span> <br /><span class="type rock"></span></td>
+            <td>Heat Wave, Solar Beam, Earth Power, Recover</td>
+        </tr>
+        <tr>
+            <td><img title="magmortar" src="{{site.url}}/assets/images/pokemon/magmortar.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Vital Spirit</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type water"></span> <span class="type ground"></span> <span class="type rock"></span></td>
+            <td>Heat Wave, Thunderbolt, Solar Beam, Focus Blast</td>
+        </tr>
+        <tr>
+            <td><img title="moltres" src="{{site.url}}/assets/images/pokemon/moltres.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Flame Body</td>
+            <td><span class="type fire"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock">4x </span> <span class="type water"></span> <span class="type electric"></span></td>
+            <td>Ancient Power, Solar Beam, Air Slash, Fire Blast</td>
+        </tr>
+        <tr>
+            <td><img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" ></td>
+            <td><img title="heat-rock" src="{{site.url}}/assets/images/items/heat-rock.png"></td>
+            <td>Drought</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
+            <td>Heat Wave, Psyshock, Solar Beam, Hidden Power (Ice), Fire Blast</td>
+        </tr>
+        <tr>
+            <td><img title="rapidash" src="{{site.url}}/assets/images/pokemon/rapidash.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> and <span class="type water"></span></td>
+            <td>Wild Charge, Flare Blitz, Megahorn, Drill Run</td>
+        </tr>
+        <tr>
+            <td><img title="rhyperior" src="{{site.url}}/assets/images/pokemon/rhyperior.gif" ></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Solid Rock</td>
+            <td><span class="type ground"></span>/<span class="type rock"></span></td>
+            <td><span class="type water">4x </span> and <span class="type grass">4x </span> <span class="type ice"></span> <br /><span class="type steel"></span> <span class="type ground"></span> <span class="type fighting"></span></td>
+            <td>Rock Slide, Drill Run, Ice Punch, Megahorn</td>
+        </tr>
+        <tr>
+            <td><img title="tangrowth" src="{{site.url}}/assets/images/pokemon/tangrowth.gif" ></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span></td>
+            <td><span class="type flying"></span> <span class="type poison"></span> <span class="type bug"></span> <span class="type fire"></span> <span class="type ice"></span></td>
+            <td>Brick Break, Rock Slide, Power Whip, Return</td>
+        </tr>
+        <tr>
+            <td><img title="tauros" src="{{site.url}}/assets/images/pokemon/tauros.gif" ></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Intimidate</td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
+            <td>Stone Edge, Double-Edge, Wild Charge, Iron Tail</td>
+        </tr>
+        <tr>
+            <td><img title="torkoal" src="{{site.url}}/assets/images/pokemon/torkoal.gif" ></td>
+            <td><img title="heat-rock" src="{{site.url}}/assets/images/items/heat-rock.png"></td>
+            <td>Drought</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
+            <td>Heat Wave, Superpower, Solar Beam, Earth Power, Stealth Rock, Lava Plume</td>
+        </tr>
+        <tr>
+            <td><img title="typhlosion" src="{{site.url}}/assets/images/pokemon/typhlosion.gif" ></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span> </td>
+            <td>Eruption, Solar Beam, Hidden Power (Ice), Extrasensory</td>
+        </tr>
+        <tr>
+            <td><img title="vileplume" src="{{site.url}}/assets/images/pokemon/vileplume.gif" ></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Chlorophyll</td>
+            <td><span class="type grass"></span>/<span class="type poison"></span></td>
+            <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
+            <td>Sludge Bomb, Solar Beam, Hidden Power (Ice), Giga Drain</td>
+        </tr>
+    </tbody>
+</table>
 
 <h1 id="npc">NPC Trainer</h1>
 The NPC can be found in the route mentioned below, not all routes are mandatory but I really enjoy doing Route 13 and Route 15 (the beauties) since they pay a lot of money and are quick to do. If the name is in <span style="color:green">green</span> it means optional, only does this if you are truly desperate for cash. Again, all of them are done with Amulet Coin buff.
