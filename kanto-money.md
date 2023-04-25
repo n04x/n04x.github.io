@@ -623,9 +623,9 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td><img title="fearow" src="{{site.url}}/assets/images/pokemon/fearow.gif" > </td>
             <td><img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
             <td>Sniper</td>
-            <td><span class="type normal"></span><span class="type flying"></span> </td>
-            <td><span class="type rock"></span><span class="type ice"></span>, and <span class="type electric"></span></td>
-            <td></td>
+            <td><span class="type normal"></span> <span class="type flying"></span> </td>
+            <td><span class="type rock"></span> <span class="type ice"></span> <span class="type electric"></span></td>
+            <td> Sky Attack, Double-Edge, Drill Run, U-Turn </td>
         </tr>
         <tr>
             <td><img title="jolteon" src="{{site.url}}/assets/images/pokemon/jolteon.gif" ></td>
@@ -649,7 +649,7 @@ This trainer is located in Vermilion City in Kanto. Beating this trainer will re
             <td>Cloud Nine</td>
             <td><span class="type normal"></span> </td>
             <td><span class="type fighting"></span> </td>
-            <td></td>
+            <td> Hammer Arm, Return, Power Whip, Ice Beam </td>
         </tr>
         <tr>
             <td><img title="magnezone" src="{{site.url}}/assets/images/pokemon/magnezone.gif" > </td>
@@ -912,7 +912,7 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
             <td>Effect Spore</td>
             <td><span class="type bug"></span>/<span class="type grass"></span></td>
             <td><span class="type flying">4x </span> <span class="type fire">4x </span> <span class="type poison"></span> <br /><span class="type rock"></span> <span class="type bug"></span> <span class="type ice"></span></td>
-            <td></td>
+            <td> Seed Bomb, Leech Life, Counter, Spore </td>
         </tr>
         <tr>
             <td><img title="roserade" src="{{site.url}}/assets/images/pokemon/roserade.gif"></td>
@@ -941,7 +941,7 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
         <tr>
             <td><img title="venusaur" src="{{site.url}}/assets/images/pokemon/venusaur.gif"></td>
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
-            <td></td>
+            <td>Chlorophyll</td>
             <td><span class="type grass"></span>/<span class="type poison"></span></td>
             <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
             <td> Solar Beam, Weather Ball, Hidden Power (Ice), Sludge Bomb, Hidden Power (Rock)</td>
@@ -949,7 +949,7 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
         <tr>
             <td><img title="victreebel" src="{{site.url}}/assets/images/pokemon/victreebel.gif"></td>
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
-            <td></td>
+            <td>Chlorophyll</td>
             <td><span class="type grass"></span>/<span class="type poison"></span></td>
             <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
             <td>Hidden Power (Ice), Solar Beam, Weather Ball, Sludge Bomb</td>
@@ -957,7 +957,7 @@ This trainer is located in Celadon City in Kanto. Beating this trainer will rewa
         <tr>
             <td><img title="vileplume" src="{{site.url}}/assets/images/pokemon/vileplume.gif"></td>
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
-            <td></td>
+            <td>Chlorophyll/Effect Spore</td>
             <td><span class="type grass"></span>/<span class="type poison"></span></td>
             <td><span class="type flying"></span> <span class="type fire"></span> <span class="type psychic"></span> <br /><span class="type ice"></span></td>
             <td>Sludge Bomb, Hidden Power (Ice), Solar Beam, Synthesis, Hidden Power (Rock), Giga Drain, Hidden Power (Ground), Growth, Hidden Power(Fire), Sleep Powder</td>
@@ -1073,7 +1073,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Justified</td>
             <td><span class="type psychic"></span>/<span class="type fighting"></span></td>
             <td><span class="type flying"></span> <span class="type ghost"></span> </td>
-            <td></td>
+            <td> Ice Punch, Close Combat, Leaf Blade, Zen Headbutt </td>
         </tr>
         <tr>
             <td><img title="gengar" src="{{site.url}}/assets/images/pokemon/gengar.gif" ></td>
@@ -1081,7 +1081,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Cursed Body</td>
             <td><span class="type ghost"></span>/<span class="type poison"></span></td>
             <td><span class="type ghost"></span> <span class="type psychic"></span> <span class="type ground"></span> <br /><span class="type dark"></span></td>
-            <td></td>
+            <td> Sludge Bomb, Thunderbolt, Focus Blast, Shadow Ball </td>
         </tr>
         <tr>
             <td><img title="golduck" src="{{site.url}}/assets/images/pokemon/golduck.gif" ></td>
@@ -1089,7 +1089,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Cloud Nine</td>
             <td><span class="type water"></span></td>
             <td><span class="type grass"></span> <span class="type electric"></span></td>
-            <td></td>
+            <td> Scald, Ice Beam, Focus Blast, Psyshock </td>
         </tr>
         <tr>
             <td><img title="hitmonlee" src="{{site.url}}/assets/images/pokemon/hitmonlee.gif" ></td>
@@ -1097,7 +1097,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Reckless</td>
             <td><span class="type fighting"></span></td>
             <td><span class="type flying"></span> <span class="type psychic"></span></td>
-            <td></td>
+            <td> Stone Edge, Double-Edge, Hi Jump Kick, Blaze Kick </td>
         </tr>
         <tr>
             <td><img title="hypno" src="{{site.url}}/assets/images/pokemon/hypno.gif" ></td>
@@ -1153,7 +1153,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Sand Veil</td>
             <td><span class="type ground"></span></td>
             <td><span class="type water"></span> <span class="type grass"></span> <span class="type ice"></span></td>
-            <td></td>
+            <td> Night Slash, Stone Edge, Dynamic Punch, Dig </td>
         </tr>
         <tr>
             <td><img title="scizor" src="{{site.url}}/assets/images/pokemon/scizor.gif" ></td>
@@ -1201,7 +1201,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Unaware</td>
             <td><span class="type psychic"></span>/<span class="type flying"></span></td>
             <td><span class="type rock"></span> <span class="type ghost"></span> <span class="type electric"></span> <br /><span class="type ice"></span> <span class="type dark"></span></td>
-            <td></td>
+            <td> Heat Wave, Psychic, Reflect, Helping Hand </td>
         </tr>
         <tr>
             <td><img title="typhlosion" src="{{site.url}}/assets/images/pokemon/typhlosion.gif" ></td>
@@ -1241,6 +1241,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Magic Bounce</td>
             <td><span class="type psychic"></span>/<span class="type flying"></span></td>
             <td><span class="type rock"></span> <span class="type ghost"></span> <span class="type electric"></span> <br /><span class="type ice"></span> <span class="type dark"></span></td>
+            <td> Heat Wave, Psyshock, Reflect, Light Screen </td>
         </tr>
     </tbody>
 </table>
@@ -1313,15 +1314,15 @@ Below is the possible lineup the trainer might have:
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Swarm</td>
             <td><span class="type bug"></span>/<span class="type poison"></span></td>
-            <td></td>
+            <td><span class="type sm psychic"></span> <span class="type sm fire"></span> <span class="type sm flying"></span> <span class="type sm rock"></span></td>
             <td>Poison Jab, Megahorn, Foul Play, Toxic Spikes</td>
         </tr>
         <tr>
             <td><img title="beedrill" src="{{site.url}}/assets/images/pokemon/beedrill.gif" ></td>
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
-            <td></td>
+            <td>Swarm</td>
             <td><span class="type bug"></span>/<span class="type poison"></span></td>
-            <td></td>
+            <td><span class="type sm psychic"></span> <span class="type sm fire"></span> <span class="type sm flying"></span> <span class="type sm rock"></span></td>
             <td>Endeavor, U-Turn, Tailwind, Toxic Spikes</td>
         </tr>
         <tr>
@@ -1434,7 +1435,7 @@ Below is the possible lineup the trainer might have:
             <td>Tangled Feet</td>
             <td><span class="type normal"></span>/<span class="type flying"></span></td>
             <td><span class="type rock"></span> <span class="type ice"></span> <span class="type electric"></span></td>
-            <td></td>
+            <td> Return, Brave Bird, U-Turn, Tailwind </td>
         </tr>
         <tr>
             <td><img title="scizor" src="{{site.url}}/assets/images/pokemon/scizor.gif" ></td>
@@ -1450,7 +1451,7 @@ Below is the possible lineup the trainer might have:
             <td>Technician</td>
             <td><span class="type bug"></span>/<span class="type flying"></span></td>
             <td><span class="type rock">4x </span> <span class="type flying"></span> <span class="type fire"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
-            <td></td>
+            <td> Brick Break, Bug Bite, Aerial Ace, Quick Attack </td>
         </tr>
         <tr>
             <td><img title="skuntank" src="{{site.url}}/assets/images/pokemon/skuntank.gif" ></td>
@@ -1506,6 +1507,7 @@ Below is the possible lineup the trainer might have:
             <td>Illusion</td>
             <td><span class="type dark"></span></td>
             <td><span class="type fighting"></span> <span class="type bug"></span></td>
+            <td> Flamethrower, Night Daze, Grass Knot, Focus Blast </td>
         </tr>
     </tbody>
 </table>
@@ -1638,7 +1640,7 @@ This trainer is located in Cinnabar Island in Kanto. Beating this trainer will r
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Sturdy</td>
             <td><span class="type rock"></span>/<span class="type ground"></span></td>
-            <td><span class="type water">4x </span> and <span class="type grass">4x </span> <span class="type ice"></span> <br /><span class="type steel"></span> <span class="type ground"></span> <span class="type fighting"></span></td>
+            <td><span class="type water">4x </span> <span class="type grass">4x </span> <span class="type ice"></span> <br /><span class="type steel"></span> <span class="type ground"></span> <span class="type fighting"></span></td>
             <td>Rock Slide, Thunder Punch, Gyro Ball, Fire Punch</td>
         </tr>
         <tr>
