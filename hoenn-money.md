@@ -141,7 +141,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="cradily" src="{{site.url}}/assets/images/pokemon/cradily.gif" ></td>
             <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
             <td>Storm Drain</td>
-            <td><span class="type rock"></span>/<span class="type grass"></td>
+            <td><span class="type rock"></span>/<span class="type grass"></span></td>
             <td><span class="type fighting"></span> <span class="type bug"></span> <span class="type steel"></span> <br /><span class="type ice"></span></td>
             <td>Rock Slide, Seed Bomb, Curse, Recover, Giga Drain, Stockpile, Toxic</td>
         </tr>
