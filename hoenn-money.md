@@ -357,7 +357,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
             <td>Iron Fist</td>
             <td><span class="type fighting"></span></td>
-            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
             <td>Fake Out, Drain Punch, Ice Punch, Mach Punch</td>
         </tr>
         <tr>
@@ -380,7 +380,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="lucario" src="{{site.url}}/assets/images/pokemon/lucario.gif" width="50"></td>
             <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
             <td>Inner Focus</td>
-            <td><span class="type fighting"></span>/<span class="type steel"></span></span></td>
+            <td><span class="type fighting"></span>/<span class="type steel"></span></td>
             <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span></td>
             <td>Final Gambit, Aura Sphere, Flash Cannon, Dark Pulse</td>
         </tr>
