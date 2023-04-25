@@ -166,7 +166,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Weak Armour</td>
             <td><span class="type rock"></span>/<span class="type water"></span></td>
-            <td><span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td>X-Scissor, Stone Edge, Superpower, Aqua Tail, Rock Slide</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Weak Armour</td>
             <td><span class="type rock"></span>/<span class="type water"></span></td>
-            <td><span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td>Muddy Water, Ice Beam, Earth Power, Shell Smash</td>
         </tr>
         <tr>
@@ -269,7 +269,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Breloom** is <span class="type sm <span class="type sm grass"></span>"></span>/<span class="type sm fighting"></span>. He's 4x more susceptible to <span class="type sm flying"></span> and weak to <span class="type sm poison"></span>, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks.
+- **Breloom** is . He's 4x more susceptible to <span class="type sm flying"></span> and weak to <span class="type sm poison"></span>, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks.
 - **Hariyama**, **Mienshao**, **Hitmonlee**, **Hitmontop**, **Hitmonchan**, **Primeape** and **Machamp** are <span class="type sm fighting"></span> types. They're weak to <span class="type sm flying"></span> and <span class="type sm psychic"></span> moves.
 - **Lucario** is <span class="type sm fighting"></span>/<span class="type sm <span class="type sm steel"></span>"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm fire"></span> attacks but immune to <span class="type sm poison"> moves. 
 - **Medicham** is <span class="type sm psychic"></span>/<span class="type sm fighting"></span>. He's weak to <span class="type sm flying"></span> and <span class="type sm ghost"></span> attacks. 
