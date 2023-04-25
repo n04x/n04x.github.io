@@ -77,11 +77,148 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
     </li>
 </ol>
 
-- **Aerodactyl** is <span class="type sm rock"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm <span class="type sm steel"></span>"></span>, <span class="type sm water"></span>, <span class="type sm electric"></span>, and <span class="type sm ice"></span> attacks  but immune to <span class="type sm ground"></span> moves. 
-- **Golem** is <span class="type sm rock"></span>/<span class="type sm ground"></span>. She's 4x more susceptible to <span class="type sm water"></span> and <span class="type sm <span class="type sm grass"></span>"></span> attacks, weak to <span class="type sm ice"></span>, <span class="type sm <span class="type sm steel"></span>"></span>, <span class="type sm ground"></span>, and <span class="type sm fighting"></span> attacks, and immune to <span class="type sm electric"></span> moves.
-- **Omastar** and **Kabutops** are <span class="type sm rock"></span>/<span class="type sm water"></span>. They're 4x more susceptible to <span class="type sm <span class="type sm grass"></span>"></span> attacks and weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm electric"></span> moves.
-- **Probopass** is <span class="type sm rock"></span>/<span class="type sm <span class=type sm steel"></span>></span>. She's 4x more susceptible to <span class="type sm fighting"></span> and <span class="type sm ground"></span> attacks, weak to <span class="type sm water"></span> attacks, and immune to <span class="type sm poison"> moves.
-- **Tyranitar** is <span class="type sm rock"></span>/<span class="type sm dark"></span>. She's 4x more susceptible to <span class="type sm fighting"></span> attacks, weak to <span class="type sm ground"></span>, <span class="type sm water"></span>, <span class="type sm bug"></span>, <span class="type sm <span class="type sm steel"></span>"></span>, and <span class="type sm <span class="type sm grass"></span>"></span> attacks, and immune to <span class="type sm psychic"></span> moves.
+<table class="tablelines">
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="aerodactyl" src="{{site.url}}/assets/images/pokemon/aerodactyl.gif" width="50"></td>
+            <td><img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
+            <td>Rock Head</td>
+            <td><span class="type rock"></span><span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
+            <td>Sky Attack, Stone Edge, Double-Edge, Iron Tail</td>
+        </tr>
+        <tr>
+            <td><img title="aggron" src="{{site.url}}/assets/images/pokemon/aggron.gif" width="50"></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Sturdy</td>
+            <td><span class="type steel"></span>/<span class="type rock"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type water"></span></td>
+            <td>Stone Edge, Iron Tail, Fire Punch, Thunder Punch, Rock Slide</td>
+        </tr>
+        <tr>
+            <td><img title="archeops" src="{{site.url}}/assets/images/pokemon/archeops.gif" width="50"></td>
+            <td><img title="flying-gem" src="{{site.url}}/assets/images/itemsflying-gem.png">/ <img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Defeatist</td>
+            <td><span class="type rock"></span><span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
+            <td>Acrobatics, Stone Edge, U-Turn, Aqua Tail, Head Smash, Fly, Heat Wave</td>
+        </tr>
+        <tr>
+            <td><img title="armaldo" src="{{site.url}}/assets/images/pokemon/armaldo.gif" width="50"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Swift Swim</td>
+            <td><span class="type rock"></span><span class="type bug"></span></td>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span></td>
+            <td>Stone Edge, Superpower, X-Scissor, Aqua Tail</td>
+        </tr>
+        <tr>
+            <td><img title="bastiodon" src="{{site.url}}/assets/images/pokemon/bastiodon.gif" width="50"></td>
+            <td><img title="lum-berry" src="{{site.url}}/assets/images/items/lum-berry.png"></td>
+            <td>Sturdy</td>
+            <td><span class="type steel"></span>/<span class="type rock"></span></td>
+            <td><span class="type fighting">4x </span> <span class="type ground">4x </span> <span class="type water"></span></td>
+            <td>Sandstorm, Toxic, Rest, Iron Defense</td>
+        </tr>
+        <tr>
+            <td><img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" width="50"></td>
+            <td><img title="rindo-berry" src="{{site.url}}/assets/images/items/rindo-berry\.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Solid Rock or Sturdy</td>
+            <td><span class="type water"></span><span class="type rock"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td>Stone Edge, Ice Beam, Hydro Pump, Earth Power, Aqua Tail, Superpower, Zen Headbutt</td>
+        </tr>
+        <tr>
+            <td><img title="cradily" src="{{site.url}}/assets/images/pokemon/cradily.gif" ></td>
+            <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
+            <td>Storm Drain</td>
+            <td><span class="type rock"></span>/<span class="type grass"></td>
+            <td><span class="type fighting"></span> <span class="type bug"></span> <span class="type steel"></span> <br /><span class="type ice"></span></td>
+            <td>Rock Slide, Seed Bomb, Curse, Recover, Giga Drain, Stockpile, Toxic</td>
+        </tr>
+        <tr>
+            <td><img title="gigalith" src="{{site.url}}/assets/images/pokemon/gigalith.gif" width="50"></td>
+            <td><img title="smooth-rock" src="{{site.url}}/assets/images/items/smooth-rock.png"></td>
+            <td>Sand Stream</td>
+            <td><span class="type rock"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
+            <td>Earthquake, Rock Slide, Superpower, Stealth Rock, Explosion, Stone Edge</td>
+        </tr>
+        <tr>
+            <td><img title=&#39;golem&#39; src="{{site.url}}/assets/images/pokemon/golem.gif" ></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Sturdy</td>
+            <td><span class="type rock"></span>/<span class="type ground"></span></td>
+            <td><span class="type water">4x </span> and <span class="type grass">4x </span> <span class="type ice"></span> <br /><span class="type steel"></span> <span class="type ground"></span> <span class="type fighting"></span></td>
+            <td>Thunder Punch, Hammer Arm, Stone Edge, Dig</td>
+        </tr>
+        <tr>
+            <td><img title="kabutops" src="{{site.url}}/assets/images/pokemon/kabutops.gif" width="50"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Weak Armour</td>
+            <td><span class="type rock"></span>/<span class="type water"></span></td>
+            <td><span class="type <span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td>X-Scissor, Stone Edge, Superpower, Aqua Tail, Rock Slide</td>
+        </tr>
+        <tr>
+            <td><img title="omastar" src="{{site.url}}/assets/images/pokemon/omastar.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Weak Armour</td>
+            <td><span class="type rock"></span>/<span class="type water"></span></td>
+            <td><span class="type <span class="type grass">4x </span>"></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td>Muddy Water, Ice Beam, Earth Power, Shell Smash</td>
+        </tr>
+        <tr>
+            <td><img title="probopass" src="{{site.url}}/assets/images/pokemon/probopass.gif" width="50"></td>
+            <td><img title="zoom-lens" src="{{site.url}}/assets/images/items/zoom-lens.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png">/<img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
+            <td>Sturdy or Sand Force</td>
+            <td><span class="type steel"></span>/<span class="type rock"></span></td>
+            <td><span class="type fighting">4x </span> <span class="type ground">4x </span> <span class="type water"></span></td>
+            <td>Power Gem, Zap Cannon, Helping Hand, Wide Guard, Rock Slide, Explosion, Head Smash, Iron Head, Volt Switch, Thunder Wave, Iron Defense, Earthquake</td>
+        </tr>
+        <tr>
+            <td><img title="rampardos" src="{{site.url}}/assets/images/pokemon/rampardos.gif" width="50"></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Mold Breaker or Sheer Force</td>
+            <td><span class="type rock"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
+            <td>Crunch, Head Smash, Hammer Arm, Zen Headbutt, Rock Slide, Iron Tail</td>
+        </tr>
+        <tr>
+            <td><img title="relicanth" src="{{site.url}}/assets/images/pokemon/relicanth.gif" width="50"></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Rock Head</td>
+            <td><span class="type water"></span><span class="type rock"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td>Head Smash, Double-Edge, Aqua Tail, Zen Headbutt</td>
+        </tr>
+        <tr>
+            <td><img title="Steelix" src="{{site.url}}/assets/images/pokemon/steelix.gif" width="50"></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td>Sheer Force</td>
+            <td><span class="type steel"></span><span class="type ground"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type water"></span></td>
+            <td>Rock Slide, Iron Tail, Dig, Crunch</td>
+        </tr>
+        <tr>
+            <td><img title="tyranitar" src="{{site.url}}/assets/images/pokemon/tyranitar.gif" width="50"></td>
+            <td><img title="smooth-rock" src="{{site.url}}/assets/images/items/smooth-rock.png"></td>
+            <td>Sand Stream</td>
+            <td><span class="type rock"></span>/<span class="type dark"></span></td>
+            <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <br /><span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td>Crunch, Stone Edge, Ice Punch, Stealth Rock</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="brawly">Brawly</h2>
 ![Brawly]({{site.url}}/assets/images/trainers/brawly.gif)
