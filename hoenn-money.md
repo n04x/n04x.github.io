@@ -269,14 +269,140 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
     </li>
 </ol>
 
-- **Breloom** is . He's 4x more susceptible to <span class="type sm flying"></span> and weak to <span class="type sm poison"></span>, <span class="type sm fire"></span>, <span class="type sm psychic"></span>, and <span class="type sm ice"></span> attacks.
-- **Hariyama**, **Mienshao**, **Hitmonlee**, **Hitmontop**, **Hitmonchan**, **Primeape** and **Machamp** are <span class="type sm fighting"></span> types. They're weak to <span class="type sm flying"></span> and <span class="type sm psychic"></span> moves.
-- **Lucario** is <span class="type sm fighting"></span>/<span class="type sm <span class="type sm steel"></span>"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, and <span class="type sm fire"></span> attacks but immune to <span class="type sm poison"> moves. 
-- **Medicham** is <span class="type sm psychic"></span>/<span class="type sm fighting"></span>. He's weak to <span class="type sm flying"></span> and <span class="type sm ghost"></span> attacks. 
-- **Sableye** is <span class="type sm dark"></span>/<span class="type sm ghost"></span>. He has no weaknesses and is immune to <span class="type sm normal"></span>, <span class="type sm fighting"></span>, and <span class="type sm psychic"></span> moves. Its ability will cause its Will-O-Wisp to gain a +1 priority.
-- **Scrafty** is <span class="type sm dark"></span>/<span class="type sm fighting"></span>. He's weak to <span class="type sm fighting"></span> and <span class="type sm flying"></span> attacks but immune to <span class="type sm psychic"></span> moves. 
-- **Staraptor** is <span class="type sm normal"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span>, <span class="type sm ice"></span>, and <span class="type sm electric"></span> attacks.
-- **Zangoose** is a <span class="type sm normal"></span> type. He's weak to <span class="type sm fighting"></span> attacks but immune to <span class="type sm ghost"></span> moves.
+<table class="tablelines">
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="hariyama" src="{{site.url}}/assets/images/pokemon/hariyama.gif" width="50"></td>
+            <td><img title="flame-orb" src="{{site.url}}/assets/images/items/flame-orb.png">/<img title="chesto-berry" src="{{site.url}}/assets/images/items/chesto-berry.png"></td>
+            <td>Guts or Thick Fat</td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td>Rock Slide, Fake Out, Close Combat, Ice Punch, Stone Edge, Cross Chop, Rest, Thunder Punch</td>
+        </tr>
+        <tr>
+            <td><img title="staraptor" src="{{site.url}}/assets/images/pokemon/staraptor.gif" width="50"></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Intimidate</td>
+            <td><span class="type normal"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type ice"></span> <span class="type electric"></span></td>
+            <td>Final Gambit, Close Combat, U-Turn, Return</td>
+        </tr>
+        <tr>
+            <td><img title="mienshao" src="{{site.url}}/assets/images/pokemon/mienshao.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Reckless</td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td>Rock Slide, Fake Out, High Jump Kick, Wide Guard, Stone Edge, Hidden Power (Ice)</td>
+        </tr>
+        <tr>
+            <td><img title="hitmonlee" src="{{site.url}}/assets/images/pokemon/hitmonlee.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Reckless or Unburden</td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
+            <td>Rock Slide, Fake Out, High Jump Kick, Sucker Punch, Close Combat</td>
+        </tr>
+        <tr>
+            <td><img title="medicham" src="{{site.url}}/assets/images/pokemon/medicham.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Pure Power</td>
+            <td><span class="type psychic"></span>/<span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type ghost"></span></td>
+            <td>Fake Out, Zen Headbutt, High Jump Kick, Ice Punch</td>
+        </tr>
+        <tr>
+            <td><img title="machamp" src="{{site.url}}/assets/images/pokemon/machamp.gif" width="50"></td>
+            <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>No Guard</td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td>Ice Punch, Dynamic Punch, Stone Edge, Bullet Punch</td>
+        </tr>
+        <tr>
+            <td><img title="hitmontop" src="{{site.url}}/assets/images/pokemon/hitmontop.gif" width="50"></td>
+            <td><img title="payapa-berry" src="{{site.url}}/assets/images/items/payapa-berry.png">/<img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png"></td>
+            <td>Intimidate</td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td>Rock Slide, Fake Out, Close Combat, Wide Guard</td>
+        </tr>
+        <tr>
+            <td><img title="breloom" src="{{site.url}}/assets/images/pokemon/breloom.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Technician</td>
+            <td><span class="type grass"></span></span>/<span class="type fighting"></span></td>
+            <td><span class="type flying">4x </span> <span class="type poison"></span> <span class="type fire"></span> <br /><span class="type psychic"></span> <span class="type ice"></span></td>
+            <td>Bullet Seed, Mach Punch, Low Sweep, Spore</td>
+        </tr>
+        <tr>
+            <td><img title="scrafty" src="{{site.url}}/assets/images/pokemon/scrafty.gif" width="50"></td>
+            <td><img title="coba-berry" src="{{site.url}}/assets/images/items/coba-berry.png">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Intimidate</td>
+            <td><span class="type dark"></span>/<span class="type fighting"></span></td>
+            <td><span class="type fighting"></span> <span class="type flying"></span></td>
+            <td>Ice Punch, Crunch, High Jump Kick, Fake Out, Crunch, High Jump Kick, Head Smash</td>
+        </tr>
+        <tr>
+            <td><img title="hitmonchan" src="{{site.url}}/assets/images/pokemon/hitmonchan.gif" width="50"></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Iron Fist</td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td>Fake Out, Drain Punch, Ice Punch, Mach Punch</td>
+        </tr>
+        <tr>
+            <td><img title="zangoose" src="{{site.url}}/assets/images/pokemon/zangoose.gif" width="50"></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Immunity</td>
+            <td><span class="type normal"></span></td>
+            <td><span class="type fighting"></span></td>
+            <td>Final Gambit, Return, Close Combat, Ice Punch</td>
+        </tr>
+        <tr>
+            <td><img title="heracross" src="{{site.url}}/assets/images/pokemon/heracross.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Swarm</td>
+            <td><span class="type bug"></span><span class="type fighting"></span></td>
+            <td><span class="type flying">4x </span> <span class="type fire"></span> <span class="type psychic"></span></td>
+            <td>Rock Slide, Night Slash, Close Combat, Megahorn</td>
+        </tr>
+        <tr>
+            <td><img title="lucario" src="{{site.url}}/assets/images/pokemon/lucario.gif" width="50"></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Inner Focus</td>
+            <td><span class="type fighting"></span>/<span class="type steel"></span></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span></td>
+            <td>Final Gambit, Aura Sphere, Flash Cannon, Dark Pulse</td>
+        </tr>
+        <tr>
+            <td><img title="primeape" src="{{site.url}}/assets/images/pokemon/primeape.gif" width="50"></td>
+            <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td>Defiant</td>
+            <td><span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td>Final Gambit, Ice Punch, Close Combat, Seed Bomb</td>
+        </tr>
+        <tr>
+            <td><img title="sableye" src="{{site.url}}/assets/images/pokemon/sableye.gif" width="50"></td>
+            <td><img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png"></td>
+            <td>Prankster</td>
+            <td><span class="type dark"></span>/<span class="type ghost"></span></td>
+            <td>NONE</td>
+            <td>Fake Out, Foul Play, Swagger, Will-O-Wisp</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="wattson">Wattson</h2>
 ![Wattson]({{site.url}}/assets/images/trainers/wattson.gif)
