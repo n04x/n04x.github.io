@@ -94,7 +94,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="power-herb" src="{{site.url}}/assets/images/items/power-herb.png"></td>
             <td>Rock Head</td>
             <td><span class="type rock"></span><span class="type flying"></span></td>
-            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type electric"></span> <span class="type ice"></span></td>
             <td>Sky Attack, Stone Edge, Double-Edge, Iron Tail</td>
         </tr>
         <tr>
@@ -107,10 +107,10 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
         </tr>
         <tr>
             <td><img title="archeops" src="{{site.url}}/assets/images/pokemon/archeops.gif" width="50"></td>
-            <td><img title="flying-gem" src="{{site.url}}/assets/images/itemsflying-gem.png">/ <img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
+            <td><img title="flying-gem" src="{{site.url}}/assets/images/items/flying-gem.png">/ <img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
             <td>Defeatist</td>
             <td><span class="type rock"></span><span class="type flying"></span></td>
-            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <br /><span class="type electric"></span> <span class="type ice"></span></td>
+            <td><span class="type rock"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type electric"></span> <span class="type ice"></span></td>
             <td>Acrobatics, Stone Edge, U-Turn, Aqua Tail, Head Smash, Fly, Heat Wave</td>
         </tr>
         <tr>
@@ -131,10 +131,10 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
         </tr>
         <tr>
             <td><img title="carracosta" src="{{site.url}}/assets/images/pokemon/carracosta.gif" width="50"></td>
-            <td><img title="rindo-berry" src="{{site.url}}/assets/images/items/rindo-berry\.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
+            <td><img title="rindo-berry" src="{{site.url}}/assets/images/items/rindo-berry.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Solid Rock or Sturdy</td>
             <td><span class="type water"></span><span class="type rock"></span></td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
             <td>Stone Edge, Ice Beam, Hydro Pump, Earth Power, Aqua Tail, Superpower, Zen Headbutt</td>
         </tr>
         <tr>
@@ -142,7 +142,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="leftovers" src="{{site.url}}/assets/images/items/leftovers.png"></td>
             <td>Storm Drain</td>
             <td><span class="type rock"></span>/<span class="type grass"></span></td>
-            <td><span class="type fighting"></span> <span class="type bug"></span> <span class="type steel"></span> <br /><span class="type ice"></span></td>
+            <td><span class="type fighting"></span> <span class="type bug"></span> <span class="type steel"></span> <span class="type ice"></span></td>
             <td>Rock Slide, Seed Bomb, Curse, Recover, Giga Drain, Stockpile, Toxic</td>
         </tr>
         <tr>
@@ -150,15 +150,15 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="smooth-rock" src="{{site.url}}/assets/images/items/smooth-rock.png"></td>
             <td>Sand Stream</td>
             <td><span class="type rock"></span></td>
-            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
             <td>Earthquake, Rock Slide, Superpower, Stealth Rock, Explosion, Stone Edge</td>
         </tr>
         <tr>
-            <td><img title=&#39;golem&#39; src="{{site.url}}/assets/images/pokemon/golem.gif" ></td>
+            <td><img title="golem"; src="{{site.url}}/assets/images/pokemon/golem.gif" ></td>
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Sturdy</td>
             <td><span class="type rock"></span>/<span class="type ground"></span></td>
-            <td><span class="type water">4x </span> and <span class="type grass">4x </span> <span class="type ice"></span> <br /><span class="type steel"></span> <span class="type ground"></span> <span class="type fighting"></span></td>
+            <td><span class="type water">4x </span> and <span class="type grass">4x </span> <span class="type ice"></span> <span class="type steel"></span> <span class="type ground"></span> <span class="type fighting"></span></td>
             <td>Thunder Punch, Hammer Arm, Stone Edge, Dig</td>
         </tr>
         <tr>
@@ -166,7 +166,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Weak Armour</td>
             <td><span class="type rock"></span>/<span class="type water"></span></td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
             <td>X-Scissor, Stone Edge, Superpower, Aqua Tail, Rock Slide</td>
         </tr>
         <tr>
@@ -174,7 +174,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Weak Armour</td>
             <td><span class="type rock"></span>/<span class="type water"></span></td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
             <td>Muddy Water, Ice Beam, Earth Power, Shell Smash</td>
         </tr>
         <tr>
@@ -190,7 +190,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Mold Breaker or Sheer Force</td>
             <td><span class="type rock"></span></td>
-            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <br /><span class="type water"></span> <span class="type grass"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
             <td>Crunch, Head Smash, Hammer Arm, Zen Headbutt, Rock Slide, Iron Tail</td>
         </tr>
         <tr>
@@ -198,7 +198,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Rock Head</td>
             <td><span class="type water"></span><span class="type rock"></span></td>
-            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <span class="type electric"></span></td>
             <td>Head Smash, Double-Edge, Aqua Tail, Zen Headbutt</td>
         </tr>
         <tr>
@@ -206,7 +206,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Sheer Force</td>
             <td><span class="type steel"></span><span class="type ground"></span></td>
-            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <br /><span class="type water"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type fire"></span> <span class="type water"></span></td>
             <td>Rock Slide, Iron Tail, Dig, Crunch</td>
         </tr>
         <tr>
@@ -214,7 +214,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="smooth-rock" src="{{site.url}}/assets/images/items/smooth-rock.png"></td>
             <td>Sand Stream</td>
             <td><span class="type rock"></span>/<span class="type dark"></span></td>
-            <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <br /><span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
+            <td><span class="type fighting">4x </span> <span class="type ground"></span> <span class="type bug"></span> <span class="type steel"></span> <span class="type water"></span> <span class="type grass"></span></td>
             <td>Crunch, Stone Edge, Ice Punch, Stealth Rock</td>
         </tr>
     </tbody>
@@ -285,7 +285,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="flame-orb" src="{{site.url}}/assets/images/items/flame-orb.png">/<img title="chesto-berry" src="{{site.url}}/assets/images/items/chesto-berry.png"></td>
             <td>Guts or Thick Fat</td>
             <td><span class="type fighting"></span></td>
-            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
             <td>Rock Slide, Fake Out, Close Combat, Ice Punch, Stone Edge, Cross Chop, Rest, Thunder Punch</td>
         </tr>
         <tr>
@@ -301,7 +301,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Reckless</td>
             <td><span class="type fighting"></span></td>
-            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
             <td>Rock Slide, Fake Out, High Jump Kick, Wide Guard, Stone Edge, Hidden Power (Ice)</td>
         </tr>
         <tr>
@@ -325,7 +325,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
             <td>No Guard</td>
             <td><span class="type fighting"></span></td>
-            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
             <td>Ice Punch, Dynamic Punch, Stone Edge, Bullet Punch</td>
         </tr>
         <tr>
@@ -333,7 +333,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="payapa-berry" src="{{site.url}}/assets/images/items/payapa-berry.png">/<img title="sitrus-berry" src="{{site.url}}/assets/images/items/sitrus-berry.png"></td>
             <td>Intimidate</td>
             <td><span class="type fighting"></span></td>
-            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
             <td>Rock Slide, Fake Out, Close Combat, Wide Guard</td>
         </tr>
         <tr>
@@ -341,7 +341,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Technician</td>
             <td><span class="type grass"></span>/<span class="type fighting"></span></td>
-            <td><span class="type flying">4x </span> <span class="type poison"></span> <span class="type fire"></span> <br /><span class="type psychic"></span> <span class="type ice"></span></td>
+            <td><span class="type flying">4x </span> <span class="type poison"></span> <span class="type fire"></span> <span class="type psychic"></span> <span class="type ice"></span></td>
             <td>Bullet Seed, Mach Punch, Low Sweep, Spore</td>
         </tr>
         <tr>
@@ -389,7 +389,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="choice-scarf" src="{{site.url}}/assets/images/items/choice-scarf.png"></td>
             <td>Defiant</td>
             <td><span class="type fighting"></span></td>
-            <td><span class="type flying"></span> <span class="type psychic"></td>
+            <td><span class="type flying"></span> <span class="type psychic"></span></td>
             <td>Final Gambit, Ice Punch, Close Combat, Seed Bomb</td>
         </tr>
         <tr>
