@@ -166,7 +166,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Weak Armour</td>
             <td><span class="type rock"></span>/<span class="type water"></span></td>
-            <td><span class="type grass">4x </span></span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
+            <td><span class="type grass">4x </span> <span class="type fighting"></span> <span class="type ground"></span> <br /><span class="type electric"></span></td>
             <td>X-Scissor, Stone Edge, Superpower, Aqua Tail, Rock Slide</td>
         </tr>
         <tr>
@@ -340,7 +340,7 @@ This trainer is located in Dewford Town in Hoenn. Beating this trainer will rewa
             <td><img title="breloom" src="{{site.url}}/assets/images/pokemon/breloom.gif" width="50"></td>
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Technician</td>
-            <td><span class="type grass"></span></span>/<span class="type fighting"></span></td>
+            <td><span class="type grass"></span>/<span class="type fighting"></span></td>
             <td><span class="type flying">4x </span> <span class="type poison"></span> <span class="type fire"></span> <br /><span class="type psychic"></span> <span class="type ice"></span></td>
             <td>Bullet Seed, Mach Punch, Low Sweep, Spore</td>
         </tr>
