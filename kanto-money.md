@@ -1296,7 +1296,7 @@ Below is the possible lineup the trainer might have:
     </li>
 </ol>
 
-<table>
+<table class="tablelines">
     <thead>
         <tr>
             <th>Pokemon</th>
@@ -1377,7 +1377,7 @@ Below is the possible lineup the trainer might have:
             <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
             <td>Levitate</td>
             <td><span class="type ghost"></span>/<span class="type poison"></span></td>
-            <td><span class="type ground"></span> <span class="type ghost"></span> <span class="type psychic"></span <br /><span class="type dark"></span></td>
+            <td><span class="type ground"></span> <span class="type ghost"></span> <span class="type psychic"></span><br /><span class="type dark"></span></td>
             <td>Shadow Ball, Focus Blast, Sludge Bomb, Thunderbolt</td>
         </tr>
         <tr>
@@ -1557,7 +1557,7 @@ This trainer is located in Cinnabar Island in Kanto. Beating this trainer will r
     </li>
 </ol>
 
-<table>
+<table class="tablelines">
     <thead>
         <tr>
             <th>Pokemon</th>
