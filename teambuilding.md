@@ -45,9 +45,21 @@ In order to see the META Pokemon, you can click on PvP --> Matchmaking Signup th
 
 [TEAM](https://pokepast.es/9ded2753ca8f240d) and [TEAM Variation](https://pokepast.es/671b5196d6ec4a43)
 
-Scizor is my Physical Wallbreaker and Revenge killer
+1. Scizor is my Physical Wallbreaker and Speed Control
+2. Gengar will be my Special Attacker (not really sure)
+3. Garchomp my Mixed Physical Wallbreaker and Stealth Rocker
+4. Skarmory as Stealth Rocker + Defensive Wall (not really sure)
+5. Starmie as Rapid Spinner and Special Attacker
+6. Dragonite as Sweeper maybe?
+
+Scizor as **Physical Wallbreaker** and **Speed Control**
 
 ![Scizor Move]({{site.url}}/assets/images/pvp/scizor-moves.png) ![Scizor IV]({{site.url}}/assets/images/pvp/scizor-iv.png) ![Scizor EV]({{site.url}}/assets/images/pvp/scizor-ev.png) 
+
+Garchomp as **Mixed Stealth Rocker**
+
+![Garchomp Move]({{site.url}}/assets/images/pvp/garchomp-moves.png) ![Garchomp IV]({{site.url}}/assets/images/pvp/garchomp-iv.png) ![Garchomp EV]({{site.url}}/assets/images/pvp/garchomp-ev.png)
+
 
 
 # Sun Team

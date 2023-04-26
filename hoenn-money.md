@@ -154,7 +154,7 @@ This trainer is located in Rustboro City in Hoenn. Beating this trainer will rew
             <td>Earthquake, Rock Slide, Superpower, Stealth Rock, Explosion, Stone Edge</td>
         </tr>
         <tr>
-            <td><img title="golem"; src="{{site.url}}/assets/images/pokemon/golem.gif" ></td>
+            <td><img title="golem" src="{{site.url}}/assets/images/pokemon/golem.gif" ></td>
             <td><img title="choice-band" src="{{site.url}}/assets/images/items/choice-band.png"></td>
             <td>Sturdy</td>
             <td><span class="type rock"></span>/<span class="type ground"></span></td>
@@ -451,12 +451,216 @@ This trainer is located in Mauville City in Hoenn. Beating this trainer will rew
     </li>
 </ol>
 
-- **Emolga** is <span class="type sm electric"></span>/<span class="type sm flying"></span>. He's weak to <span class="type sm rock"></span> and <span class="type sm ice"></span> attacks but immune to <span class="type sm ground"></span> moves.
-- **Lanturn** is <span class="type sm water"></span>/<span class="type sm electric"></span>. He's weak to <span class="type sm <span class="type sm grass"></span>"></span> attacks. He's weak to <span class="type sm ground"></span> attacks unless he has an active Air Balloon. 
-- **Magnezone** is <span class="type sm electric"></span>/<span class="type sm <span class="type sm steel"></span>"></span>. It's 4x more susceptible to <span class="type sm ground"></span> attacks, weak to <span class="type sm fighting"></span> and <span class="type sm fire"></span> attacks, and immune to <span class="type sm poison"></span> moves. Additionally, only <span class="type sm ghost"></span>, <span class="type sm water"></span>, and <span class="type sm dark"></span> attacks deal <span class="type sm normal"></span> damage to it. 
-- **Manectric**, **Plusle**, **Minun**  **Jolteon**, **Pikachu**, **Pachirisu**, **Ampharos**, **Zebstrika**, and **Electivire** are <span class="type sm electric"></span> types. They're immune to <span class="type sm ground"></span> attacks until their Air Balloons are popped. Afterwards, they're weak to them.
-- **Seaking** is a <span class="type sm water"></span> type. He's weak to <span class="type sm <span class="type sm grass"></span>"></span> attacks. Because of his ability, he's immune to <span class="type sm electric"></span> moves.
-- **Wash Rotom** is <span class="type sm electric"></span>/<span class="type sm water"></span>. It's weak to <span class="type sm <span class="type sm grass"></span>"></span> moves. Because of its ability, it's immune to <span class="type sm ground"></span> moves. Its item gives it a one time immunity to <span class="type sm water"></span> attacks.
+<table>
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Moves</th>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ampharos</td>
+            <td>Cell Battery</td>
+            <td>Static</td>
+            <td>Giga Impact, Outrage, Discharge, Focus Blast</td>
+            <td><img title="ampharos" src="{{site.url}}/assets/images/pokemon/ampharos.gif" ></td>
+            <td><img title="cell-battery" src="{{site.url}}/assets/images/items/cell-battery.png"></td>
+            <td>Static</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Giga Impact, Outrage, Discharge, Focus Blast</td>
+        </tr>
+        <tr>
+            <td>electivire</td>
+            <td>Air Balloon or Life Orb</td>
+            <td>Motor Drive</td>
+            <td> Cross Chop, Discharge, Flamethrower, Helping Hand, Ice Punch </td>
+            <td><img title="electivire" src="{{site.url}}/assets/images/pokemon/electivire.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Motor Drive</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Cross Chop, Discharge, Flamethrower, Helping Hand, Ice Punch</td>
+        </tr>
+        <tr>
+            <td>electrode</td>
+            <td>Choice Specs</td>
+            <td>Aftermath</td>
+            <td>Foul Play, Discharge, Hidden Power (Ice), Signal Beam</td>
+            <td><img title="electrode" src="{{site.url}}/assets/images/pokemon/electrode.gif" ></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Aftermath</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Foul Play, Discharge, Hidden Power (Ice), Signal Beam</td>
+        </tr>
+        <tr>
+            <td>emolga</td>
+            <td>Focus Sash or Flying Gem</td>
+            <td>Motor Drive</td>
+            <td> Discharge, Air Slash, Hidden Power (Ice), Tailwind Acrobatics, Tailwind</td>
+            <td><img title="emolga" src="{{site.url}}/assets/images/pokemon/emolga.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="flying-gem" src="{{site.url}}/assets/images/items/flying-gem.png"></td>
+            <td>Motor Drive</td>
+            <td><span class="type electric"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock"></span> <span class="type ice"></span></td>
+            <td>Discharge, Air Slash, Hidden Power (Ice), Tailwind Acrobatics, Tailwind</td>
+        </tr>
+        <tr>
+            <td>jolteon</td>
+            <td>Choice Specs or Life Orb</td>
+            <td>Volt Absorb</td>
+            <td> Discharge, Hyper Voice, Hidden Power (Water), Shadow Ball, Hidden Power (Grass) </td>
+            <td><img title="jolteon" src="{{site.url}}/assets/images/pokemon/jolteon.gif" ></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Volt Absorb</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Discharge, Hyper Voice, Hidden Power (Water), Shadow Ball, Hidden Power (Grass)</td>
+        </tr>
+        <tr>
+            <td>lanturn</td>
+            <td>Air Balloon</td>
+            <td>Air Balloon</td>
+            <td>Discharge, Hydro Pump, Ice Beam, Soak</td>
+            <td><img title="lanturn" src="{{site.url}}/assets/images/pokemon/lanturn.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Air Balloon</td>
+            <td><span class="type water"></span><span class="type electric"></span></td>
+            <td><span class="type grass"></span> <span class="type ground"></span></td>
+            <td>Discharge, Hydro Pump, Ice Beam, Soak</td>
+        </tr>
+        <tr>
+            <td>magnezone</td>
+            <td>Choice Specs</td>
+            <td>Analytic</td>
+            <td>Signal Beam, Discharge, Flash Cannon, Hidden Power (Fire)</td>
+            <td><img title="magnezone" src="{{site.url}}/assets/images/pokemon/magnezone.gif" ></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Analytic</td>
+            <td><span class="type electric"></span><span class="type steel"></span></td>
+            <td><span class="type fighting"></span> <span class="type fire"></span> <span class="type ground">4x </span></td>
+            <td>Signal Beam, Discharge, Flash Cannon, Hidden Power (Fire)</td>
+        </tr>
+        <tr>
+            <td>manetric</td>
+            <td>Air Balloon / Normal Gem / Life Orb</td>
+            <td>Lightning Rod</td>
+            <td> Hidden Power (Ice), Discharge, Snarl, Flamethrower, Hidden Power (Grass), Hyper Beam, Hidden Power (Water), Swagger, Uproar </td>
+            <td><img title="manetric" src="{{site.url}}/assets/images/pokemon/manetric.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png">/<img title="normal-gem" src="{{site.url}}/assets/images/items/normal-gem.png">/<img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Hidden Power (Ice), Discharge, Snarl, Flamethrower, Hidden Power (Grass), Hyper Beam, Hidden Power (Water), Swagger, Uproar</td>
+        </tr>
+        <tr>
+            <td>minun</td>
+            <td>Air Balloon</td>
+            <td>Volt Absorb</td>
+            <td>Discharge, Grass Knot, Nasty Plot, Baton Pass</td>
+            <td><img title="minun" src="{{site.url}}/assets/images/pokemon/minun.gif" width="50"></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Volt Absorb</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Discharge, Grass Knot, Nasty Plot, Baton Pass</td>
+        </tr>
+        <tr>
+            <td>pachirisu</td>
+            <td>Air Balloon</td>
+            <td>Volt Absorb</td>
+            <td>Super Fang, Discharge, Follow Me, Light Screen</td>
+            <td><img title="pachirisu" src="{{site.url}}/assets/images/pokemon/pachirisu.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Volt Absorb</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Super Fang, Discharge, Follow Me, Light Screen</td>
+        </tr>
+        <tr>
+            <td>pikachu</td>
+            <td>Light Ball</td>
+            <td>Lightning Rod</td>
+            <td>Fake Out, Brick Break, Discharge, Grass Knot</td>
+            <td><img title="pikachu" src="{{site.url}}/assets/images/pokemon/pikachu.gif" ></td>
+            <td><img title="light-ball" src="{{site.url}}/assets/images/items/light-ball.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Fake Out, Brick Break, Discharge, Grass Knot</td>
+        </tr>
+        <tr>
+            <td>plusle</td>
+            <td>Choice Specs</td>
+            <td>Lightning Rod</td>
+            <td>Discharge, Grass Knot, Signal Beam, Hidden Power (Ice)</td>
+            <td><img title="plusle" src="{{site.url}}/assets/images/pokemon/plusle.gif" width="50"></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Discharge, Grass Knot, Signal Beam, Hidden Power (Ice)</td>
+        </tr>
+        <tr>
+            <td>raichu</td>
+            <td>Life Orb / Focus Sash / Choice Specs</td>
+            <td>Lightning Rod</td>
+            <td>Fake Out, Discharge, Focus Blast, Grass Knot, Petal Dance, Reversal, Hidden Power (Ice), Surf</td>
+            <td><img title="raichu" src="{{site.url}}/assets/images/pokemon/raichu.gif" ></td>
+            <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png">/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Fake Out, Discharge, Focus Blast, Grass Knot, Petal Dance, Reversal, Hidden Power (Ice), Surf</td>
+        </tr>
+        <tr>
+            <td>seaking</td>
+            <td>Choice Specs</td>
+            <td>Lightning Rod</td>
+            <td>Ice Beam, Hydro Pump, Signal Beam, Hidden Power (Grass)</td>
+            <td><img title="seaking" src="{{site.url}}/assets/images/pokemon/seaking.gif" width="50"></td>
+            <td><img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type water"></span></td>
+            <td><span class="type grass"></span></span></td>
+            <td>Ice Beam, Hydro Pump, Signal Beam, Hidden Power (Grass)</td>
+        </tr>
+        <tr>
+            <td>wash-rotom</td>
+            <td>Absorb Bulb</td>
+            <td>Levitate</td>
+            <td>Discharge, Hydro Pump, Reflect, Light Screen</td>
+            <td><img title="wash-rotom" src="{{site.url}}/assets/images/pokemon/wash-rotom.gif" width="50"></td>
+            <td><img title="absorb-bulb" src="{{site.url}}/assets/images/items/absorb-bulb.png"></td>
+            <td>Levitate</td>
+            <td><span class="type electric"></span>/<span class="type water"></span></td>
+            <td><span class="type grass"></span></span></td>
+            <td>Discharge, Hydro Pump, Reflect, Light Screen</td>
+        </tr>
+        <tr>
+            <td>zebstrika</td>
+            <td>Air Balloon / Choice Specs / Focus Sash</td>
+            <td>Lightning Rod</td>
+            <td>Discharge, Overheat, Hidden Power (Grass), Light Screen, Hidden Power (Ice), Hyper Beam, Low Kick</td>
+            <td><img title="zebstrika" src="{{site.url}}/assets/images/pokemon/zebstrika.gif" width="50"></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png">/<img title="choice-specs" src="{{site.url}}/assets/images/items/choice-specs.png">/<img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Lightning Rod</td>
+            <td><span class="type electric"></span></td>
+            <td><span class="type ground"></span></td>
+            <td>Discharge, Overheat, Hidden Power (Grass), Light Screen, Hidden Power (Ice), Hyper Beam, Low Kick</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="flannery">Flannery</h2>
 ![Flannery]({{site.url}}/assets/images/trainers/flannery.gif)
