@@ -451,7 +451,7 @@ This trainer is located in Mauville City in Hoenn. Beating this trainer will rew
     </li>
 </ol>
 
-<table>
+<table class="tablelines">
     <thead>
         <tr>
             <th>Pokemon</th>
