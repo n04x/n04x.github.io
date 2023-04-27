@@ -1193,7 +1193,7 @@ The teleporter for Sabrina's gym starting with the hype man are TR --> TR --> TL
             <td>Thick Fat</td>
             <td><span class="type normal"></span></td>
             <td><span class="type fighting"></span></td>
-            <td>Body Slam, Fire Punch, Rest, Curse</td>
+            <td>Body Slam, Fire Punch, Rest, Curse, Heat Crash</td>
         </tr>
         <tr>
             <td><img title="swoobat" src="{{site.url}}/assets/images/pokemon/swoobat.gif" ></td>
