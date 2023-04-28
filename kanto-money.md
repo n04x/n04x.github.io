@@ -441,7 +441,7 @@ This trainer is located in Cerulan City in Kanto. Beating this trainer will rewa
             <td><img title="wacan-berry" src="{{site.url}}/assets/images/items/wacan-berry.png" > </td>
             <td>Marvel Scale </td>
             <td><span class="type water"></span> </td>
-            <td><span class="type electric"></span> <span class="type grass"></span> <span class="type electric"></span></td>
+            <td><span class="type electric"></span> <span class="type grass"></span></td>
             <td>Ice Beam, Scald, Mirror Coat, Recover </td>
         </tr>
         <tr>
@@ -1704,7 +1704,7 @@ This trainer is located in Cinnabar Island in Kanto. Beating this trainer will r
             <td><img title="life-orb" src="{{site.url}}/assets/images/items/life-orb.png"></td>
             <td>Flash Fire</td>
             <td><span class="type fire"></span></td>
-            <td><span class="type ground"></span> <span class="type rock"></span> and <span class="type water"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
             <td>Wild Charge, Flare Blitz, Megahorn, Drill Run</td>
         </tr>
         <tr>

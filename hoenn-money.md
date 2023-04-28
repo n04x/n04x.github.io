@@ -646,14 +646,140 @@ Below is the possible lineup the trainer might have:
     </li>
 </ol>
 
-- **Arcanine**, **Flareon**, **Rapidash** **Torkoal**, **Ninetales**, **Magmortar**, **Typhlosion**, and **Darmanitan** are all <span class="type sm fire"></span> types. They're weak to <span class="type sm water"></span>, <span class="type sm ground"></span>, and <span class="type sm rock"></span> attacks.
-- **Blaziken** is <span class="type sm fire"></span>/<span class="type sm fighting"></span>. She's weak to <span class="type sm flying"></span>, <span class="type sm water"></span>, <span class="type sm ground"></span>, and <span class="type sm psychic"></span> attacks.
-- **Camerupt** is <span class="type sm fire"></span>/<span class="type sm ground"></span>. Because of her ability, <span class="type sm water"></span> attacks only deal 3x damage rather than their usual 4x. Furthermore, <span class="type sm ground"></span> attacks only deal 1.5x damage rather than their usual 2x. She's immune to <span class="type sm electric"></span> moves. 
-- **Chandelure** is <span class="type sm ghost"></span>/<span class="type sm fire"></span>. She's weak to <span class="type sm dark"></span>, <span class="type sm ghost"></span>, <span class="type sm water"></span>, <span class="type sm rock"></span>, and <span class="type sm ground"></span> attacks but immune to <span class="type sm normal"></span> and <span class="type sm fighting"></span> moves.
-- **Charizard** is <span class="type sm fire"></span>/<span class="type sm flying"></span>. She's 4x more susceptible to <span class="type sm rock"></span> attacks, weak to <span class="type sm water"></span> and <span class="type sm electric"></span> attacks, and immune to <span class="type sm ground"></span> moves. 
-- **Heat Rotom** is <span class="type sm electric"></span>/<span class="type sm fire"></span>. It's weak to <span class="type sm rock"></span> and <span class="type sm water"></span> attacks. Due to its ability, it's immune to <span class="type sm ground"></span> moves. Because of its Passho Berry, the first <span class="type sm water"></span> move to hit it will deal 50% less damage. 
-- **Houndoom** is <span class="type sm dark"></span>/<span class="type sm fire"></span>. He's weak to <span class="type sm fighting"></span>, <span class="type sm ground"></span>, <span class="type sm rock"></span>, and <span class="type sm water"></span> attacks but immune to <span class="type sm psychic"></span> moves.
-- **Magcargo** is <span class="type sm fire"></span>/<span class="type sm rock"></span>. She's 4x more susceptible to <span class="type sm ground"></span> and <span class="type sm water"></span> attacks and weak to <span class="type sm fighting"></span> and <span class="type sm rock"></span> attacks. Because of her Charti Berry, the first <span class="type sm ground"></span> move to hit her will deal 50% less damage.
+<table class="tablelines">
+    <thead>
+        <tr>
+            <th>Pokemon</th>
+            <th>Item</th>
+            <th>Ability</th>
+            <th>Type</th>
+            <th>Weakness</th>
+            <th>Moveset</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img title="arcanine" src="{{site.url}}/assets/images/pokemon/arcanine.gif" ></td>
+            <td><img title="white-herb" src="{{site.url}}/assets/images/items/white-herb.png">/<img title="charti-berry" src="{{site.url}}/assets/images/items/charti-berry.png"></td>
+            <td>Intimidate</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span> </td>
+            <td>Extreme Speed, Close Combat, Wild Charge, Overheat, Flamethrower, Solar Beam, Morning Sun</td>
+        </tr>
+        <tr>
+            <td><img title="blaziken" src="{{site.url}}/assets/images/pokemon/blaziken.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="fighting-gem" src="{{site.url}}/assets/images/items/fighting-gem.png"></td>
+            <td>Speed Boost</td>
+            <td><span class="type fire"></span>/<span class="type fighting"></span></td>
+            <td><span class="type flying"></span> <span class="type water"></span> <span class="type ground"></span> <span class="type psychic"></span></td>
+            <td>Rock Slide, Fire Punch, Reversal, Swords Dance, Close Combat</td>
+        </tr>
+        <tr>
+            <td><img title="camerupt" src="{{site.url}}/assets/images/pokemon/camerupt.gif" ></td>
+            <td><img title="ground-gem" src="{{site.url}}/assets/images/items/ground-gem.png"></td>
+            <td>Solid Rock</td>
+            <td><span class="type fire"></span>/<span class="type ground"></span></td>
+            <td><span class="type water">4x </span> <span class="type ground"></span></td>
+            <td>Flamethrower, Solar Beam, Hidden Power (Ice), Earth Power, Heat Wave</td>
+        </tr>
+        <tr>
+            <td><img title="chandelure" src="{{site.url}}/assets/images/pokemon/chandelure.gif" width="50"></td>
+            <td><img title="white-herb" src="{{site.url}}/assets/images/items/white-herb.png">/<img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png">/<img title="ghost-gem" src="{{site.url}}/assets/images/items/ghost-gem.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type ghost"></span>/<span class="type fire"></span></td>
+            <td><span class="type dark"></span> <span class="type ghost"></span> <span class="type water"></span> <span class="type rock"></span> <span class="type ground"></span></td>
+            <td>Overheat, Solar Beam, Shadow Ball, Hidden Power (Fighting), Heat Wave, Clear Smog, Hidden Power (Ground)</td>
+        </tr>
+        <tr>
+            <td><img title="charizard" src="{{site.url}}/assets/images/pokemon/charizard.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="grass-gem" src="{{site.url}}/assets/images/items/grass-gem.png"></td>
+            <td>Blaze / Solar Power</td>
+            <td><span class="type fire"></span>/<span class="type flying"></span></td>
+            <td><span class="type rock">4x </span> <span class="type water"></span> <span class="type electric"></span></td>
+            <td>Focus Blast, Solar Beam, Fire Blast, Air Slash, Heat Wave</td>
+        </tr>
+        <tr>
+            <td><img title="darmanitan" src="{{site.url}}/assets/images/pokemon/darmanitan.gif" width="50"></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png"></td>
+            <td>Zen Mode</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type water"></span> <span class="type ground"></span> <span class="type rock"></span></td>
+            <td>Fire Punch, Fire Blast, Solar Beam, Psychic</td>
+        </tr>
+        <tr>
+            <td><img title="flareon" src="{{site.url}}/assets/images/pokemon/flareon.gif" ></td>
+            <td><img title="white-herb" src="{{site.url}}/assets/images/items/white-herb.png">/<img title="passho-berry" src="{{site.url}}/assets/images/items/passho-berry.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type water"></span> <span class="type ground"></span> <span class="type rock"></span></td>
+            <td>Retaliate, Superpower, Overheat, Shadow Ball, Hyper Voice, Flamethrower, Sleep Talk, Rest</td>
+        </tr>
+        <tr>
+            <td><img title="heat-rotom" src="{{site.url}}/assets/images/pokemon/heat-rotom.gif" ></td>
+            <td><img title="passho-berry" src="{{site.url}}/assets/images/items/passho-berry.png"></td>
+            <td>Levitate</td>
+            <td><span class="type electric"></span>/<span class="type fire"></span></td>
+            <td><span class="type rock"></span> <span class="type water"></span></td>
+            <td>Pain Split, Overheat, Thunderbolt, Will-O-Wisp</td>
+        </tr>
+        <tr>
+            <td><img title="houndoom" src="{{site.url}}/assets/images/pokemon/houndoom.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="white-herb" src="{{site.url}}/assets/images/items/white-herb.png">/<img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png">/<img title="dark-gem" src="{{site.url}}/assets/images/items/dark-gem.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type dark"></span>/<span class="type fire"></span></td>
+            <td><span class="type fighting"></span> <span class="type ground"></span> <span class="type rock"></span> <br /><span class="type water"></span></td>
+            <td>Sucker Punch, Reversal, Fire Blast, Destiny Bond, Overheat, Solar Beam, Hidden Power (Ice), Foul Play, Heat Wave, Dark Pulse</td>
+        </tr>
+        <tr>
+            <td><img title="magcargo" src="{{site.url}}/assets/images/pokemon/magcargo.gif" ></td>
+            <td><img title="charti-berry" src="{{site.url}}/assets/images/items/charti-berry.png"></td>
+            <td>Flame Body</td>
+            <td><span class="type fire"></span>/<span class="type rock"></span></td>
+            <td><span class="type ground">4x </span> <span class="type water">4x </span> <span class="type fighting"></span> <br /><span class="type rock"></span></td>
+            <td>Flamethrower, Solar Beam, Reflect, Light Screen</td>
+        </tr>
+        <tr>
+            <td><img title="magmortar" src="{{site.url}}/assets/images/pokemon/magmortar.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Flame Body</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type water"></span> <span class="type ground"></span> <span class="type rock"></span></td>
+            <td>Lava Plume, Solar Beam, Focus Blast, Thunderbolt</td>
+        </tr>
+        <tr>
+            <td><img title="ninetales" src="{{site.url}}/assets/images/pokemon/ninetales.gif" ></td>
+            <td><img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Flash Fire</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
+            <td>Heat Wave, Solar Beam, Psyshock, Reflect</td>
+        </tr>
+        <tr>
+            <td><img title="rapidash" src="{{site.url}}/assets/images/pokemon/rapidash.gif" ></td>
+            <td><img title="white-herb" src="{{site.url}}/assets/images/items/white-herb.png"></td>
+            <td>Flame Body</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> and <span class="type water"></span></td>
+            <td>Megahorn, Overheat, Solar Beam, Hidden Power (Ice)</td>
+        </tr>
+        <tr>
+            <td><img title="torkoal" src="{{site.url}}/assets/images/pokemon/torkoal.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="white-herb" src="{{site.url}}/assets/images/items/white-herb.png">/<img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png">/<img title="shuca-berry" src="{{site.url}}/assets/images/items/shuca-berry.png">/<img title="fire-gem" src="{{site.url}}/assets/images/items/fire-gem.png"></td>
+            <td>Drought</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
+            <td>Fire Blast, Solar Beam, Earth Power, Stealth Rock, Superpower, Overheat, Lava Plume, Will-O-Wisp, Flamethrower, Heat Wave</td>
+        </tr>
+        <tr>
+            <td><img title="typhlosion" src="{{site.url}}/assets/images/pokemon/typhlosion.gif" ></td>
+            <td><img title="focus-sash" src="{{site.url}}/assets/images/items/focus-sash.png">/<img title="air-balloon" src="{{site.url}}/assets/images/items/air-balloon.png"></td>
+            <td>Blaze / Flash Fire</td>
+            <td><span class="type fire"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span> </td>
+            <td>Fire Blast, Solar Beam, Focus Blast, Hidden Power (Ice), Eruption</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="norman">Norman</h2>
 ![Norman]({{site.url}}/assets/images/trainers/norman.gif)
