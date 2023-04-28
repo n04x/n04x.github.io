@@ -759,7 +759,7 @@ Below is the possible lineup the trainer might have:
             <td><img title="white-herb" src="{{site.url}}/assets/images/items/white-herb.png"></td>
             <td>Flame Body</td>
             <td><span class="type fire"></span></td>
-            <td><span class="type ground"></span> <span class="type rock"></span> and <span class="type water"></span></td>
+            <td><span class="type ground"></span> <span class="type rock"></span> <span class="type water"></span></td>
             <td>Megahorn, Overheat, Solar Beam, Hidden Power (Ice)</td>
         </tr>
         <tr>
